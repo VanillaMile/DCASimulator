@@ -1,0 +1,80 @@
+[{
+  "stock_name": "debug_stock",
+  "stock_symbol": "DBG",
+  "description": "This is a debug stock, only for testing purpose",
+  "avg_daily_return": "20.1%",
+  "all_time_return": "112.21%",
+  "avg_yearly_return": "5%",
+  "yearly_returns": [
+    {
+      "year": "2022",
+      "return": "4%"
+    },
+    {
+      "year": "2023",
+      "return": "6%"
+    }
+  ],
+  "daily_data": [
+    {
+      "trade_date": "2024-10-01",
+      "open_price": 172.34,
+      "close_price": 174.56
+    },
+    {
+      "trade_date": "2024-10-02",
+      "open_price": 173.1,
+      "close_price": 175.2
+    },
+    {
+      "trade_date": "2024-10-03",
+      "open_price": 174,
+      "close_price": 176.5
+    },
+    {
+      "trade_date": "2024-10-04",
+      "open_price": 175.2,
+      "close_price": 177.3
+    },
+    {
+      "trade_date": "2024-10-05",
+      "open_price": 176,
+      "close_price": 178.1
+    },
+    {
+      "trade_date": "2024-10-06",
+      "open_price": 177.1,
+      "close_price": 179
+    },
+    {
+      "trade_date": "2024-10-07",
+      "open_price": 178.5,
+      "close_price": 180.2
+    },
+    {
+      "trade_date": "2024-10-08",
+      "open_price": 179.3,
+      "close_price": 181.1
+    },
+    {
+      "trade_date": "2024-10-09",
+      "open_price": 180.1,
+      "close_price": 182.3
+    },
+    {
+      "trade_date": "2024-10-10",
+      "open_price": 181.2,
+      "close_price": 183.4
+    },
+    {
+      "trade_date": "2024-10-11",
+      "open_price": 182,
+      "close_price": 184.2
+    },
+    {
+      "trade_date": "2024-10-12",
+      "open_price": 183.1,
+      "close_price": 185.3
+    }
+  ]
+}]
