@@ -1,6 +1,6 @@
 {
     "stock_name": "better_return_stock",
-    "symbol": "BRS",
+    "stock_symbol": "BRS",
     "description": "This stock has better returns than the market",
     "avg_daily_return": 0.0008,
     "all_time_return": 35.9637,
