@@ -14,7 +14,18 @@
         <h1>DCA Simulator</h1>
     </div>
     <div id="content">
-         
+        <h1>Check stock data: </h1>
+        <form action="/stock" method="post">
+            <label for="stock">Choose a stock:</label>
+            <select id="stock" name="stock">
+                {% for stock in stock_names %}
+                    <option value="{{ stock }}">{{ stock }}</option>
+                {% endfor %}
+            </select>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+        <a href="/simulationForm"><input type="button" value="Go to simulation form"></a>
     </div>
 </body>
 </html>

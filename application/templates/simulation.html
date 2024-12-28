@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    {% if title %}
+        <title>{{ title }}</title>
+    {% else %}
+        <title>DCA Simulator</title>
+    {% endif %}
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<style>
+    .green {
+        background-color: lightgreen;
+    }
+    .closed {
+        background-color: lightcoral;
+    }
+</style>
+<body>
+    <div id="content">
+        <div id="info">
+            <h1>Simulation data: </h1>
+            <p>Stock: {{ investment_data['stock'] }}</p>
+            <p>Initial investment: ${{ investment_data['initial_investment'] }}</p>
+            <p>Investment amount: ${{ investment_data['investment_amount'] }}</p>
+            <p>Investment interval: {{ investment_data['investment_interval'] }}</p>
+            <p>Investment period: {{ investment_data['investment_period'] }} (approx.{{(investment_data['investment_period']/365)|round(1, 'floor')}} years)</p>
+            <h1>Results: </h1>
+            <p>Current value: ${{ investment_data['days'][investment_data['days']|length - 1]['value']|round(2, 'floor') }}</p>
+            <p>Current shares: {{ investment_data['days'][investment_data['days']|length - 1]['shares']|round(2, 'floor') }}</p>
+            <p>Input: ${{ investment_data['input']|round(2, 'floor') }}</p>
+            <p>Profit: ${{ (investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])|round(2, 'floor') }}</p>
+            <p>Current stock price: ${{ investment_data['days'][investment_data['days']|length - 1]['stock_price']|round(2, 'floor') }}</p>
+            <p>Profit in percentage: {{ (((investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])/investment_data['input'])*100)|round(2, 'floor') }}%</p>
+            <p>Stock overall growth in percentage: 
+                {{ ((investment_data['days'][investment_data['days']|length - 1]['stock_price'] - investment_data['days'][1]['stock_price'])/investment_data['days'][1]['stock_price']*100)|round(2, 'floor') }}%</p>
+        </div>
+        <div style="background-color: aqua;">
+            <div id="myChart" style="width: 100%; height: 500px;"></div>
+        </div>
+        <table style = "border-collapse: collapse; display: none;">
+            <tr>
+                <th>Day</th>
+                <th>Stock Price</th>
+                <th>Shares</th>
+                <th>Value</th>
+                <th>Change</th>
+                <th>Action</th>
+            </tr>
+            
+            {% for row in investment_data['days'] %}
+                {% if row['action'] == 'Buy' %}
+                    <tr class="green">
+                {% elif row['action'] == 'Market Closed' %}
+                    <tr class="closed">
+                {% else %}
+                        <tr>
+                {% endif %}
+                    <td>{{ row['day'] }}</td>
+                    <td>{{ row['stock_price'] }}</td>
+                    <td>{{ row['shares'] }}</td>
+                    <td>{{ row['value'] }}</td>
+                    <td>{{ row['change'] }}</td>
+                    <td>{{ row['action'] }}</td>
+            {% endfor %}
+        </table>
+        <script type="text/javascript">
+            google.charts.load('current', {'packages':['corechart']});
+            google.charts.setOnLoadCallback(drawChart);
+      
+            function drawChart() {
+                var data = convertTableToJSON();
+                var data = google.visualization.arrayToDataTable(data);
+
+      
+                var options = {
+                    title: 'Price of stock over time',
+                    curveType: 'line',
+                    legend: { position: 'bottom' },
+                    series: {
+                        0: { color: 'blue' },
+                        1: { color: 'gray', lineDashStyle: [4, 4] }
+                    }
+                };
+                var chart = new google.visualization.LineChart(document.getElementById('myChart'));
+                chart.draw(data, options);
+            }
+            // This feels illegal
+            function convertTableToJSON() {
+                var table = document.querySelector("table");
+                var data = [['Day', 'Price', 'AvgBuyPrice']];
+                var buys = [];
+                for (var i = 1; i < table.rows.length; i++) {
+                    var tableRow = table.rows[i];
+                    if (tableRow.cells[5].innerHTML == "Buy") {
+                        buys.push(tableRow.cells[1].innerHTML);
+                    }
+                }
+                avgBuyPrice = 0;
+                for (var i = 0; i < buys.length; i++) {
+                    avgBuyPrice += parseFloat(buys[i]);
+                }
+                avgBuyPrice = avgBuyPrice / buys.length;
+                for (var i = 1; i < table.rows.length; i++) {
+                    var tableRow = table.rows[i];
+                    var rowData = [];
+                    rowData.push(tableRow.cells[0].innerHTML); // day
+                    rowData.push(parseFloat(tableRow.cells[1].innerHTML)); // stock price
+                    rowData.push(avgBuyPrice);
+                    data.push(rowData);
+                }
+                console.log(data);
+                return data;
+            }
+          </script>
+    </div>
+</body>
+</html>
