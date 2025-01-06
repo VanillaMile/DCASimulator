@@ -2,14 +2,14 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
     {% if title %}
         <title>{{ title }}</title>
     {% else %}
         <title>DCA Simulator</title>
     {% endif %}
 </head>
-<body>
+<body class="centeredContent">
     <div id="header">
         <h1>DCA Simulator</h1>
     </div>
@@ -21,11 +21,14 @@
                 {% for stock in stock_names %}
                     <option value="{{ stock }}">{{ stock }}</option>
                 {% endfor %}
-            </select>
-            <input type="submit" value="Submit">
+            </select><br><br>
+            <input type="submit" value="Check" class="blueBtn">
         </form>
         <br>
-        <a href="/simulationForm"><input type="button" value="Go to simulation form"></a>
+        <h1>View Ranking</h1>
+        <a href="/seeRanking"><input type="button" class="blueBtn" value="Ranking"></a>
+        <h1>Create simulation</h1>
+        <a href="/simulationForm"><input type="button" class="blueBtn" value="Go to simulation form"></a>
     </div>
 </body>
 </html>

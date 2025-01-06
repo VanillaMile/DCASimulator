@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "677ba8ffea7bed8f4f69c90b"
+  },
+  "username": "Test1",
+  "stock_name": "better_return_stock",
+  "initial_investment": 1000,
+  "investment_amount": 100,
+  "investment_interval": 5,
+  "investment_period": 1000,
+  "profit": 17296.27,
+  "profit_percentage": 82.75,
+  "input": 20900
+},
+{
+  "_id": {
+    "$oid": "677ba953c9cecb3b3d1dc040"
+  },
+  "username": "Test2",
+  "stock_name": "better_return_stock",
+  "initial_investment": 1000,
+  "investment_amount": 100,
+  "investment_interval": 5,
+  "investment_period": 1000,
+  "profit": 9645.18,
+  "profit_percentage": 46.14,
+  "input": 20900
+},
+{
+  "_id": {
+    "$oid": "677bab0454ee7da3445edac1"
+  },
+  "username": "Test3",
+  "stock_name": "better_return_stock",
+  "initial_investment": 2000,
+  "investment_amount": 200,
+  "investment_interval": 5,
+  "investment_period": 1000,
+  "profit": 14682.97,
+  "profit_percentage": 35.12,
+  "input": 41800
+},
+{
+  "_id": {
+    "$oid": "677babec77d8025749d1c81b"
+  },
+  "username": "Test4",
+  "stock_name": "better_return_stock",
+  "initial_investment": 100,
+  "investment_amount": 2000,
+  "investment_interval": 5,
+  "investment_period": 1000,
+  "profit": 161872.9,
+  "profit_percentage": 40.66,
+  "input": 398100
+},
+{
+  "_id": {
+    "$oid": "677bac67df1f1de2411a2bfc"
+  },
+  "username": "Test5",
+  "stock_name": "better_return_stock",
+  "initial_investment": 20000,
+  "investment_amount": 100,
+  "investment_interval": 30,
+  "investment_period": 1000,
+  "profit": 6317.89,
+  "profit_percentage": 27.11,
+  "input": 23300
+},
+{
+  "_id": {
+    "$oid": "677bb3176935d54514737e83"
+  },
+  "username": "Test6",
+  "stock_name": "better_return_stock",
+  "initial_investment": 9000,
+  "investment_amount": 9999,
+  "investment_interval": 9,
+  "investment_period": 500,
+  "profit": 108260.6,
+  "profit_percentage": 19.36,
+  "input": 558945
+},
+{
+  "_id": {
+    "$oid": "677bb3366935d54514737e84"
+  },
+  "username": "Test7",
+  "stock_name": "better_return_stock",
+  "initial_investment": 9000,
+  "investment_amount": 9999,
+  "investment_interval": 9,
+  "investment_period": 500,
+  "profit": 108260.6,
+  "profit_percentage": 19.36,
+  "input": 558945
+},
+{
+  "_id": {
+    "$oid": "677bb3696935d54514737e85"
+  },
+  "username": "Test8",
+  "stock_name": "better_return_stock",
+  "initial_investment": 2000000,
+  "investment_amount": 514,
+  "investment_interval": 21,
+  "investment_period": 514,
+  "profit": -48693.51,
+  "profit_percentage": -2.42,
+  "input": 2012336
+},
+{
+  "_id": {
+    "$oid": "677bb3b56935d54514737e86"
+  },
+  "username": "Test9",
+  "stock_name": "mid_drop_stock",
+  "initial_investment": 2000000,
+  "investment_amount": 10,
+  "investment_interval": 30,
+  "investment_period": 200,
+  "profit": -353309.13,
+  "profit_percentage": -17.67,
+  "input": 2000060
+},
+{
+  "_id": {
+    "$oid": "677bb4336935d54514737e87"
+  },
+  "username": "Test10",
+  "stock_name": "snp500_like",
+  "initial_investment": 3000000,
+  "investment_amount": 20000,
+  "investment_interval": 30,
+  "investment_period": 730,
+  "profit": 968359.64,
+  "profit_percentage": 27.82,
+  "input": 3480000
+},
+{
+  "_id": {
+    "$oid": "677bb4506935d54514737e88"
+  },
+  "username": "Test11",
+  "stock_name": "snp500_like",
+  "initial_investment": 3000000,
+  "investment_amount": 20000,
+  "investment_interval": 30,
+  "investment_period": 730,
+  "profit": 5769366.67,
+  "profit_percentage": 165.78,
+  "input": 3480000
+}]

@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
     {% if title %}
         <title>{{ title }}</title>
     {% else %}
@@ -10,14 +10,6 @@
     {% endif %}
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 </head>
-<style>
-    .green {
-        background-color: lightgreen;
-    }
-    .closed {
-        background-color: lightcoral;
-    }
-</style>
 <body>
     <div id="content">
         <div id="info">
@@ -35,11 +27,29 @@
             <p>Current stock price: ${{ investment_data['days'][investment_data['days']|length - 1]['stock_price']|round(2, 'floor') }}</p>
             <p>Profit in percentage: {{ (((investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])/investment_data['input'])*100)|round(2, 'floor') }}%</p>
             <p>Stock overall growth in percentage: 
-                {{ ((investment_data['days'][investment_data['days']|length - 1]['stock_price'] - investment_data['days'][1]['stock_price'])/investment_data['days'][1]['stock_price']*100)|round(2, 'floor') }}%</p>
+                {{ ((investment_data['days'][investment_data['days']|length - 1]['stock_price'] - investment_data['days'][1]['stock_price'])/investment_data['days'][1]['stock_price']*100)|round(2, 'floor') }}%
+            </p>
+                <p class="infoHeader">Submit your results</h2>
+                <p class="redWarning">This will overwrite your previous submition under this name!</p>
+                <div id="hidden-form">
+                    <form action="/submitRankingSubmit" method="post">
+                        <input type="hidden" name="stock_name" value="{{ investment_data['stock'] }}">
+                        <input type="hidden" name="initial_investment" value="{{ investment_data['initial_investment'] }}">
+                        <input type="hidden" name="investment_amount" value="{{ investment_data['investment_amount'] }}">
+                        <input type="hidden" name="investment_interval" value="{{ investment_data['investment_interval'] }}">
+                        <input type="hidden" name="investment_period" value="{{ investment_data['investment_period'] }}">
+                        <input type="hidden" name="input" value="{{ investment_data['input']|round(2, 'floor') }}">
+                        <input type="hidden" name="profit" value="{{ (investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])|round(2, 'floor') }}">
+                        <input type="hidden" name="profit_percent" value= "{{ (((investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])/investment_data['input'])*100)|round(2, 'floor') }}" >
+                        <input type="text" name="username" placeholder="Enter your name" required>
+                        <input type="submit" value="Save to ranking">
+                    </form>
+                </div>
         </div>
         <div style="background-color: aqua;">
             <div id="myChart" style="width: 100%; height: 500px;"></div>
         </div>
+        <!-- This table is hidden to make page more readable, table contains more information than chart -->
         <table style = "border-collapse: collapse; display: none;">
             <tr>
                 <th>Day</th>
@@ -71,7 +81,7 @@
             google.charts.setOnLoadCallback(drawChart);
       
             function drawChart() {
-                var data = convertTableToJSON();
+                var data = convertTableToChartData();
                 var data = google.visualization.arrayToDataTable(data);
 
       
@@ -87,11 +97,11 @@
                 var chart = new google.visualization.LineChart(document.getElementById('myChart'));
                 chart.draw(data, options);
             }
-            // This feels illegal
-            function convertTableToJSON() {
+            function convertTableToChartData() {
                 var table = document.querySelector("table");
                 var data = [['Day', 'Price', 'AvgBuyPrice']];
                 var buys = [];
+                // find average buy price
                 for (var i = 1; i < table.rows.length; i++) {
                     var tableRow = table.rows[i];
                     if (tableRow.cells[5].innerHTML == "Buy") {
@@ -103,6 +113,7 @@
                     avgBuyPrice += parseFloat(buys[i]);
                 }
                 avgBuyPrice = avgBuyPrice / buys.length;
+                // push data to data array
                 for (var i = 1; i < table.rows.length; i++) {
                     var tableRow = table.rows[i];
                     var rowData = [];
@@ -111,7 +122,6 @@
                     rowData.push(avgBuyPrice);
                     data.push(rowData);
                 }
-                console.log(data);
                 return data;
             }
           </script>

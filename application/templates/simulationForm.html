@@ -2,89 +2,58 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
     {% if title %}
         <title>{{ title }}</title>
     {% else %}
         <title>DCA Simulator</title>
     {% endif %}
-
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script language = "JavaScript">
-        function validate() {
-            var initial_investment = document.getElementById("initial_investment").value;
-            var investment_amount = document.getElementById("investment_amount").value;
-            var investment_interval = document.getElementById("investment_interval").value;
-            var investment_period = document.getElementById("investment_period").value;
-
-            var validated = true;
-
-            if (initial_investment == "" || initial_investment == null || initial_investment < 0 || isNaN(initial_investment)) {
-                alert("Initial investment is not correct");
-                validated = false;
-            }
-            if (investment_amount == "" || investment_amount == null || investment_amount < 0 || isNaN(investment_amount)) {
-                alert("Investment amount is not correct");
-                validated = false;
-            }
-            if (investment_interval == "" || investment_interval == null || investment_interval < 0 || isNaN(investment_interval)) {
-                alert("Investment interval is not correct");
-                validated = false;
-            }
-            if (investment_period == "" || investment_period == null || investment_period < 0 || isNaN(investment_period)) {
-                alert("Investment period is not correct");
-                validated = false;
-            }
-            if (validated) {
-                document.forms[0].submit();
-            }
-        }
-    </script> -->
 </head>
-<body>
-    <div id="header">
-        <h1>DCA Simulator</h1>
-    </div>
-    <div id="settings">
-        <form action="/simulationResults" method="post">
-            <label for="stock">Choose a stock:</label>
-            <select id="stock" name="stock">
-                {% for stock in stock_names %}
-                    <option value="{{ stock }}">{{ stock }}</option>
-                {% endfor %}
-            </select><br>
-            <label for="initial_investment">Initial investment:</label>
-            <input type="number" id="initial_investment" step="0.01" name="initial_investment"><br>
-            <label for = "investment_amount">Investment amount(this will be invested every x days):</label>
-            <input type="number" id="investment_amount" step="0.01" name="investment_amount"><br>
-            <label for="investment_interval">Investment interval in days:</label>
-            <input type="number" id="investment_interval" name="investment_interval"><br>
-            <label for="investment_period">Investment period in days:</label>
-            <input type="number" id="investment_period" name="investment_period"><br>
-            
-            <input type="radio" name="predict_days" value="1" id="predict_days" checked><label for="predict_days">Predict days</label><br>
-            <input type="radio" name="predict_days" value="0" id="random_start"> <label for="random_start">Random start</label><br>
-
-            <input type="submit" value="Simulate"><br>
-        </form>
-
-        {% if return_status %}
-            {% if return_status[0] != None %}
-                <p style = "color: red">Initial investment: {{return_status[0]}}</p>
+<body style="text-align: center; padding: 10%;">
+    <div id="content">
+        <div id="header">
+            <h1>Simulation Form</h1>
+        </div>
+        <div id="settings">
+            <form action="/simulationResults" method="post">
+                <label for="stock">Choose a stock:</label><br>
+                <select id="stock" name="stock">
+                    {% for stock in stock_names %}
+                        {% if stock != "better_return_stock" %}
+                            <option value="{{ stock }}">{{ stock }}</option>
+                        {% else %}
+                            <option value="{{ stock }}" selected>{{ stock }}</option>
+                        {% endif %}
+                    {% endfor %}
+                </select><br><br>
+                <label for="initial_investment">Initial investment:</label><br>
+                <input type="number" id="initial_investment" step="0.01" name="initial_investment"><br><br>
+                <label for = "investment_amount">Investment amount(this will be invested every x days):</label><br>
+                <input type="number" id="investment_amount" step="0.01" name="investment_amount"><br><br>
+                <label for="investment_interval">Investment interval in days:</label><br>
+                <input type="number" id="investment_interval" name="investment_interval"><br><br>
+                <label for="investment_period">Investment period in days<br>It is recommended to use values over 730 (2 years):</label><br>
+                <input type="number" id="investment_period" name="investment_period" max="18250" min="1"><br><br>
+                <input type="submit" value="Simulate" class="blueBtn"><br>
+            </form>
+            {% if return_status %}
+                {% if return_status[0] != None %}
+                    <p style = "color: red">Initial investment: {{return_status[0]}}</p>
+                {% endif %}
+                {% if return_status[1] != None %}
+                    <p style = "color: red">Investment amount: {{return_status[1]}}</p>
+                {% endif %}
+                {% if return_status[2] != None %}
+                    <p style = "color: red">Investment interval: {{return_status[2]}}</p>
+                {% endif %}
+                {% if return_status[3] != None %}
+                    <p style = "color: red">Investment period: {{return_status[3]}}</p>
+                {% endif %}
+                {% if return_status[4] != None %}
+                    <p style = "color: red">Stock: {{return_status[4]}}</p>
+                {% endif %}
             {% endif %}
-            {% if return_status[1] != None %}
-                <p style = "color: red">Investment amount: {{return_status[1]}}</p>
-            {% endif %}
-            {% if return_status[2] != None %}
-                <p style = "color: red">Investment interval: {{return_status[2]}}</p>
-            {% endif %}
-            {% if return_status[3] != None %}
-                <p style = "color: red">Investment period: {{return_status[3]}}</p>
-            {% endif %}
-            {% if return_status[4] != None %}
-                <p style = "color: red">Stock: {{return_status[4]}}</p>
-            {% endif %}
-        {% endif %}
+        </div>
     </div>
 </body>
 </html>

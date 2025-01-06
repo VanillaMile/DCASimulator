@@ -117,7 +117,6 @@
     "$oid": "675194c6c4fcc4600eec3582"
   },
   "stock_name": "better_return_stock",
-  "symbol": "BRS",
   "description": "This stock has better returns than the market",
   "avg_daily_return": 0.0008,
   "all_time_return": 35.9637,
@@ -34893,7 +34892,8 @@
       "close_price": 3696.370024,
       "change": 1.005242939
     }
-  ]
+  ],
+  "stock_symbol": "BRS"
 },
 {
   "_id": {
