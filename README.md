@@ -1,3 +1,7 @@
+# DCA Strategy simulator
+
+This is a simple DCA strategy simulator, it creates a random simulation of market data and provides investment results based on user settings.
+
 
 ## Installation
 
@@ -8,22 +12,16 @@
 ```bash
     {your path}\MongoDB\Server\8.0\bin\mongod.exe
 ```
-3. Import data into Database dcaDatabase into collection stocks (Must be created first time) 
-NAMES ARE IMPORTANT, it's case sensitive
+3. Import data into Database dcaDatabase into collection stocks (Must be created first time) and rankings. NAMES ARE IMPORTANT, it's case sensitive
 ```bash
     Database name: dcaDatabase
     Collection name: stocks
+    Collection name: rankings
 ```
-Import either full collection
+Import full collections
 ```bash
-    Stocks\dcaDatabase.stocks.json
-```
-or individual files
-```bash
-    Stocks\Individual Stocks\BetterReturnsStock.json
-    Stocks\Individual Stocks\DebugStock.json
-    Stocks\Individual Stocks\MidDropStock.json
-    Stocks\Individual Stocks\SNP500StyleReturns.json
+    !COLLECTIONS TO IMPORT\dcaDatabase.stocks.json -> stocks
+    !COLLECTIONS TO IMPORT\dcaDatabase.rankings.json -> rankings
 ```
 
 4. Create venv for your project with python 3.13
@@ -31,11 +29,11 @@ or individual files
     python -m venv {name}
     {name}/Scripts/activate
 ```
-install requirements
+5. Install requirements
 ```bash
     pip install -r requirements.txt
 ```
-5. Run script
+6. Run script
 ```bash
     python run.py
 ```
