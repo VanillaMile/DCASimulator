@@ -1,0 +1,1832 @@
+{
+  "stock_name": "snp500_like_short",
+  "stock_symbol": "SNPM",
+  "description": "This is a stock made to mimic the S&P 500",
+  "avg_daily_return": 0.0004,
+  "all_time_return": 5.8231,
+  "avg_yearly_return": 0.0754,
+  "year": 2006,
+  "yearly_return": 0.1234,
+  "daily_data": [
+    {
+      "day": 261,
+      "trade_date": "2006-01-02",
+      "open_price": 86.48674591,
+      "close_price": 89.84912038,
+      "change": 1.038877338
+    },
+    {
+      "day": 262,
+      "trade_date": "2006-01-03",
+      "open_price": 89.84912038,
+      "close_price": 90.27343271,
+      "change": 1.004722498
+    },
+    {
+      "day": 263,
+      "trade_date": "2006-01-04",
+      "open_price": 90.27343271,
+      "close_price": 90.55335771,
+      "change": 1.003100857
+    },
+    {
+      "day": 264,
+      "trade_date": "2006-01-05",
+      "open_price": 90.55335771,
+      "close_price": 90.3570263,
+      "change": 0.99783187
+    },
+    {
+      "day": 265,
+      "trade_date": "2006-01-06",
+      "open_price": 90.3570263,
+      "close_price": 90.05182725,
+      "change": 0.996622299
+    },
+    {
+      "day": 266,
+      "trade_date": "2006-01-09",
+      "open_price": 90.05182725,
+      "close_price": 90.01908913,
+      "change": 0.999636452
+    },
+    {
+      "day": 267,
+      "trade_date": "2006-01-10",
+      "open_price": 90.01908913,
+      "close_price": 90.11912691,
+      "change": 1.001111295
+    },
+    {
+      "day": 268,
+      "trade_date": "2006-01-11",
+      "open_price": 90.11912691,
+      "close_price": 89.94330876,
+      "change": 0.998049047
+    },
+    {
+      "day": 269,
+      "trade_date": "2006-01-12",
+      "open_price": 89.94330876,
+      "close_price": 90.29960795,
+      "change": 1.003961375
+    },
+    {
+      "day": 270,
+      "trade_date": "2006-01-13",
+      "open_price": 90.29960795,
+      "close_price": 89.60033724,
+      "change": 0.992256105
+    },
+    {
+      "day": 271,
+      "trade_date": "2006-01-16",
+      "open_price": 89.60033724,
+      "close_price": 89.59152726,
+      "change": 0.999901675
+    },
+    {
+      "day": 272,
+      "trade_date": "2006-01-17",
+      "open_price": 89.59152726,
+      "close_price": 90.95185811,
+      "change": 1.0151837
+    },
+    {
+      "day": 273,
+      "trade_date": "2006-01-18",
+      "open_price": 90.95185811,
+      "close_price": 91.21623078,
+      "change": 1.002906732
+    },
+    {
+      "day": 274,
+      "trade_date": "2006-01-19",
+      "open_price": 91.21623078,
+      "close_price": 91.31552734,
+      "change": 1.001088584
+    },
+    {
+      "day": 275,
+      "trade_date": "2006-01-20",
+      "open_price": 91.31552734,
+      "close_price": 90.85435434,
+      "change": 0.994949676
+    },
+    {
+      "day": 276,
+      "trade_date": "2006-01-23",
+      "open_price": 90.85435434,
+      "close_price": 89.78500495,
+      "change": 0.98823007
+    },
+    {
+      "day": 277,
+      "trade_date": "2006-01-24",
+      "open_price": 89.78500495,
+      "close_price": 89.92880948,
+      "change": 1.001601654
+    },
+    {
+      "day": 278,
+      "trade_date": "2006-01-25",
+      "open_price": 89.92880948,
+      "close_price": 90.10554468,
+      "change": 1.001965279
+    },
+    {
+      "day": 279,
+      "trade_date": "2006-01-26",
+      "open_price": 90.10554468,
+      "close_price": 89.72549814,
+      "change": 0.995782207
+    },
+    {
+      "day": 280,
+      "trade_date": "2006-01-27",
+      "open_price": 89.72549814,
+      "close_price": 90.23812877,
+      "change": 1.005713322
+    },
+    {
+      "day": 281,
+      "trade_date": "2006-01-30",
+      "open_price": 90.23812877,
+      "close_price": 89.72127536,
+      "change": 0.994272339
+    },
+    {
+      "day": 282,
+      "trade_date": "2006-01-31",
+      "open_price": 89.72127536,
+      "close_price": 86.97224209,
+      "change": 0.969360297
+    },
+    {
+      "day": 283,
+      "trade_date": "2006-02-01",
+      "open_price": 86.97224209,
+      "close_price": 87.29022154,
+      "change": 1.003656103
+    },
+    {
+      "day": 284,
+      "trade_date": "2006-02-02",
+      "open_price": 87.29022154,
+      "close_price": 87.91860091,
+      "change": 1.007198737
+    },
+    {
+      "day": 285,
+      "trade_date": "2006-02-03",
+      "open_price": 87.91860091,
+      "close_price": 87.68829441,
+      "change": 0.997380458
+    },
+    {
+      "day": 286,
+      "trade_date": "2006-02-06",
+      "open_price": 87.68829441,
+      "close_price": 88.09867193,
+      "change": 1.004679958
+    },
+    {
+      "day": 287,
+      "trade_date": "2006-02-07",
+      "open_price": 88.09867193,
+      "close_price": 88.35955167,
+      "change": 1.002961222
+    },
+    {
+      "day": 288,
+      "trade_date": "2006-02-08",
+      "open_price": 88.35955167,
+      "close_price": 88.6564258,
+      "change": 1.003359842
+    },
+    {
+      "day": 289,
+      "trade_date": "2006-02-09",
+      "open_price": 88.6564258,
+      "close_price": 88.17110667,
+      "change": 0.994525844
+    },
+    {
+      "day": 290,
+      "trade_date": "2006-02-10",
+      "open_price": 88.17110667,
+      "close_price": 88.21035381,
+      "change": 1.000445125
+    },
+    {
+      "day": 291,
+      "trade_date": "2006-02-13",
+      "open_price": 88.21035381,
+      "close_price": 89.21052392,
+      "change": 1.011338466
+    },
+    {
+      "day": 292,
+      "trade_date": "2006-02-14",
+      "open_price": 89.21052392,
+      "close_price": 89.6995029,
+      "change": 1.00548118
+    },
+    {
+      "day": 293,
+      "trade_date": "2006-02-15",
+      "open_price": 89.6995029,
+      "close_price": 89.6338645,
+      "change": 0.999268241
+    },
+    {
+      "day": 294,
+      "trade_date": "2006-02-16",
+      "open_price": 89.6338645,
+      "close_price": 89.16442996,
+      "change": 0.994762755
+    },
+    {
+      "day": 295,
+      "trade_date": "2006-02-17",
+      "open_price": 89.16442996,
+      "close_price": 89.31177478,
+      "change": 1.001652507
+    },
+    {
+      "day": 296,
+      "trade_date": "2006-02-20",
+      "open_price": 89.31177478,
+      "close_price": 89.11127361,
+      "change": 0.997755042
+    },
+    {
+      "day": 297,
+      "trade_date": "2006-02-21",
+      "open_price": 89.11127361,
+      "close_price": 89.16652857,
+      "change": 1.000620067
+    },
+    {
+      "day": 298,
+      "trade_date": "2006-02-22",
+      "open_price": 89.16652857,
+      "close_price": 89.12150799,
+      "change": 0.999495095
+    },
+    {
+      "day": 299,
+      "trade_date": "2006-02-23",
+      "open_price": 89.12150799,
+      "close_price": 91.07997127,
+      "change": 1.021975204
+    },
+    {
+      "day": 300,
+      "trade_date": "2006-02-24",
+      "open_price": 91.07997127,
+      "close_price": 89.98320809,
+      "change": 0.98795824
+    },
+    {
+      "day": 301,
+      "trade_date": "2006-02-27",
+      "open_price": 89.98320809,
+      "close_price": 88.67159463,
+      "change": 0.985423798
+    },
+    {
+      "day": 302,
+      "trade_date": "2006-02-28",
+      "open_price": 88.67159463,
+      "close_price": 90.76683344,
+      "change": 1.0236292
+    },
+    {
+      "day": 303,
+      "trade_date": "2006-03-01",
+      "open_price": 90.76683344,
+      "close_price": 90.01758974,
+      "change": 0.991745402
+    },
+    {
+      "day": 304,
+      "trade_date": "2006-03-02",
+      "open_price": 90.01758974,
+      "close_price": 90.25854548,
+      "change": 1.002676763
+    },
+    {
+      "day": 305,
+      "trade_date": "2006-03-03",
+      "open_price": 90.25854548,
+      "close_price": 91.52625758,
+      "change": 1.014045341
+    },
+    {
+      "day": 306,
+      "trade_date": "2006-03-06",
+      "open_price": 91.52625758,
+      "close_price": 91.24830672,
+      "change": 0.996963157
+    },
+    {
+      "day": 307,
+      "trade_date": "2006-03-07",
+      "open_price": 91.24830672,
+      "close_price": 92.19938977,
+      "change": 1.010423021
+    },
+    {
+      "day": 308,
+      "trade_date": "2006-03-08",
+      "open_price": 92.19938977,
+      "close_price": 94.05571368,
+      "change": 1.020133798
+    },
+    {
+      "day": 309,
+      "trade_date": "2006-03-09",
+      "open_price": 94.05571368,
+      "close_price": 94.18826819,
+      "change": 1.001409319
+    },
+    {
+      "day": 310,
+      "trade_date": "2006-03-10",
+      "open_price": 94.18826819,
+      "close_price": 94.77590106,
+      "change": 1.006238918
+    },
+    {
+      "day": 311,
+      "trade_date": "2006-03-13",
+      "open_price": 94.77590106,
+      "close_price": 95.64587318,
+      "change": 1.009179255
+    },
+    {
+      "day": 312,
+      "trade_date": "2006-03-14",
+      "open_price": 95.64587318,
+      "close_price": 95.77393974,
+      "change": 1.001338966
+    },
+    {
+      "day": 313,
+      "trade_date": "2006-03-15",
+      "open_price": 95.77393974,
+      "close_price": 96.29650442,
+      "change": 1.00545623
+    },
+    {
+      "day": 314,
+      "trade_date": "2006-03-16",
+      "open_price": 96.29650442,
+      "close_price": 96.70850002,
+      "change": 1.004278407
+    },
+    {
+      "day": 315,
+      "trade_date": "2006-03-17",
+      "open_price": 96.70850002,
+      "close_price": 97.07188436,
+      "change": 1.003757522
+    },
+    {
+      "day": 316,
+      "trade_date": "2006-03-20",
+      "open_price": 97.07188436,
+      "close_price": 95.27560621,
+      "change": 0.981495382
+    },
+    {
+      "day": 317,
+      "trade_date": "2006-03-21",
+      "open_price": 95.27560621,
+      "close_price": 95.29986643,
+      "change": 1.000254632
+    },
+    {
+      "day": 318,
+      "trade_date": "2006-03-22",
+      "open_price": 95.29986643,
+      "close_price": 94.88429308,
+      "change": 0.995639308
+    },
+    {
+      "day": 319,
+      "trade_date": "2006-03-23",
+      "open_price": 94.88429308,
+      "close_price": 94.23291707,
+      "change": 0.993135049
+    },
+    {
+      "day": 320,
+      "trade_date": "2006-03-24",
+      "open_price": 94.23291707,
+      "close_price": 93.19549367,
+      "change": 0.98899086
+    },
+    {
+      "day": 321,
+      "trade_date": "2006-03-27",
+      "open_price": 93.19549367,
+      "close_price": 94.04183758,
+      "change": 1.009081382
+    },
+    {
+      "day": 322,
+      "trade_date": "2006-03-28",
+      "open_price": 94.04183758,
+      "close_price": 94.63980265,
+      "change": 1.0063585
+    },
+    {
+      "day": 323,
+      "trade_date": "2006-03-29",
+      "open_price": 94.63980265,
+      "close_price": 93.34773941,
+      "change": 0.98634757
+    },
+    {
+      "day": 324,
+      "trade_date": "2006-03-30",
+      "open_price": 93.34773941,
+      "close_price": 91.05010123,
+      "change": 0.975386247
+    },
+    {
+      "day": 325,
+      "trade_date": "2006-03-31",
+      "open_price": 91.05010123,
+      "close_price": 90.94820331,
+      "change": 0.998880859
+    },
+    {
+      "day": 326,
+      "trade_date": "2006-04-03",
+      "open_price": 90.94820331,
+      "close_price": 90.80767516,
+      "change": 0.998454855
+    },
+    {
+      "day": 327,
+      "trade_date": "2006-04-04",
+      "open_price": 90.80767516,
+      "close_price": 91.60588506,
+      "change": 1.008790115
+    },
+    {
+      "day": 328,
+      "trade_date": "2006-04-05",
+      "open_price": 91.60588506,
+      "close_price": 91.00242239,
+      "change": 0.993412403
+    },
+    {
+      "day": 329,
+      "trade_date": "2006-04-06",
+      "open_price": 91.00242239,
+      "close_price": 91.74074718,
+      "change": 1.008113243
+    },
+    {
+      "day": 330,
+      "trade_date": "2006-04-07",
+      "open_price": 91.74074718,
+      "close_price": 92.28665281,
+      "change": 1.005950525
+    },
+    {
+      "day": 331,
+      "trade_date": "2006-04-10",
+      "open_price": 92.28665281,
+      "close_price": 90.6464651,
+      "change": 0.982227249
+    },
+    {
+      "day": 332,
+      "trade_date": "2006-04-11",
+      "open_price": 90.6464651,
+      "close_price": 90.87359104,
+      "change": 1.002505624
+    },
+    {
+      "day": 333,
+      "trade_date": "2006-04-12",
+      "open_price": 90.87359104,
+      "close_price": 91.07597228,
+      "change": 1.002227063
+    },
+    {
+      "day": 334,
+      "trade_date": "2006-04-13",
+      "open_price": 91.07597228,
+      "close_price": 91.15863083,
+      "change": 1.000907578
+    },
+    {
+      "day": 335,
+      "trade_date": "2006-04-14",
+      "open_price": 91.15863083,
+      "close_price": 91.36905875,
+      "change": 1.002308371
+    },
+    {
+      "day": 336,
+      "trade_date": "2006-04-17",
+      "open_price": 91.36905875,
+      "close_price": 91.80999379,
+      "change": 1.004825868
+    },
+    {
+      "day": 337,
+      "trade_date": "2006-04-18",
+      "open_price": 91.80999379,
+      "close_price": 91.6882691,
+      "change": 0.998674167
+    },
+    {
+      "day": 338,
+      "trade_date": "2006-04-19",
+      "open_price": 91.6882691,
+      "close_price": 90.64158319,
+      "change": 0.988584299
+    },
+    {
+      "day": 339,
+      "trade_date": "2006-04-20",
+      "open_price": 90.64158319,
+      "close_price": 90.29238805,
+      "change": 0.996147517
+    },
+    {
+      "day": 340,
+      "trade_date": "2006-04-21",
+      "open_price": 90.29238805,
+      "close_price": 91.07359005,
+      "change": 1.008651914
+    },
+    {
+      "day": 341,
+      "trade_date": "2006-04-24",
+      "open_price": 91.07359005,
+      "close_price": 90.30164798,
+      "change": 0.991523974
+    },
+    {
+      "day": 342,
+      "trade_date": "2006-04-25",
+      "open_price": 90.30164798,
+      "close_price": 90.72895254,
+      "change": 1.004731969
+    },
+    {
+      "day": 343,
+      "trade_date": "2006-04-26",
+      "open_price": 90.72895254,
+      "close_price": 95.40931642,
+      "change": 1.051586222
+    },
+    {
+      "day": 344,
+      "trade_date": "2006-04-27",
+      "open_price": 95.40931642,
+      "close_price": 95.26691477,
+      "change": 0.998507466
+    },
+    {
+      "day": 345,
+      "trade_date": "2006-04-28",
+      "open_price": 95.26691477,
+      "close_price": 97.03289303,
+      "change": 1.018537162
+    },
+    {
+      "day": 346,
+      "trade_date": "2006-05-01",
+      "open_price": 97.03289303,
+      "close_price": 96.27867817,
+      "change": 0.992227225
+    },
+    {
+      "day": 347,
+      "trade_date": "2006-05-02",
+      "open_price": 96.27867817,
+      "close_price": 96.76012025,
+      "change": 1.005000506
+    },
+    {
+      "day": 348,
+      "trade_date": "2006-05-03",
+      "open_price": 96.76012025,
+      "close_price": 95.51659976,
+      "change": 0.987148419
+    },
+    {
+      "day": 349,
+      "trade_date": "2006-05-04",
+      "open_price": 95.51659976,
+      "close_price": 95.87841227,
+      "change": 1.003787954
+    },
+    {
+      "day": 350,
+      "trade_date": "2006-05-05",
+      "open_price": 95.87841227,
+      "close_price": 98.80062434,
+      "change": 1.030478311
+    },
+    {
+      "day": 351,
+      "trade_date": "2006-05-08",
+      "open_price": 98.80062434,
+      "close_price": 98.31788153,
+      "change": 0.99511397
+    },
+    {
+      "day": 352,
+      "trade_date": "2006-05-09",
+      "open_price": 98.31788153,
+      "close_price": 98.39199116,
+      "change": 1.000753776
+    },
+    {
+      "day": 353,
+      "trade_date": "2006-05-10",
+      "open_price": 98.39199116,
+      "close_price": 98.90180516,
+      "change": 1.005181458
+    },
+    {
+      "day": 354,
+      "trade_date": "2006-05-11",
+      "open_price": 98.90180516,
+      "close_price": 98.48694549,
+      "change": 0.995805338
+    },
+    {
+      "day": 355,
+      "trade_date": "2006-05-12",
+      "open_price": 98.48694549,
+      "close_price": 100.1073116,
+      "change": 1.016452598
+    },
+    {
+      "day": 356,
+      "trade_date": "2006-05-15",
+      "open_price": 100.1073116,
+      "close_price": 102.9535925,
+      "change": 1.028432297
+    },
+    {
+      "day": 357,
+      "trade_date": "2006-05-16",
+      "open_price": 102.9535925,
+      "close_price": 103.2686227,
+      "change": 1.003059924
+    },
+    {
+      "day": 358,
+      "trade_date": "2006-05-17",
+      "open_price": 103.2686227,
+      "close_price": 103.1354836,
+      "change": 0.99871075
+    },
+    {
+      "day": 359,
+      "trade_date": "2006-05-18",
+      "open_price": 103.1354836,
+      "close_price": 102.9869055,
+      "change": 0.998559389
+    },
+    {
+      "day": 360,
+      "trade_date": "2006-05-19",
+      "open_price": 102.9869055,
+      "close_price": 103.3567713,
+      "change": 1.003591386
+    },
+    {
+      "day": 361,
+      "trade_date": "2006-05-22",
+      "open_price": 103.3567713,
+      "close_price": 102.6331501,
+      "change": 0.992998802
+    },
+    {
+      "day": 362,
+      "trade_date": "2006-05-23",
+      "open_price": 102.6331501,
+      "close_price": 102.8336132,
+      "change": 1.0019532
+    },
+    {
+      "day": 363,
+      "trade_date": "2006-05-24",
+      "open_price": 102.8336132,
+      "close_price": 102.8795052,
+      "change": 1.000446274
+    },
+    {
+      "day": 364,
+      "trade_date": "2006-05-25",
+      "open_price": 102.8795052,
+      "close_price": 102.9095769,
+      "change": 1.000292301
+    },
+    {
+      "day": 365,
+      "trade_date": "2006-05-26",
+      "open_price": 102.9095769,
+      "close_price": 105.1459354,
+      "change": 1.021731296
+    },
+    {
+      "day": 366,
+      "trade_date": "2006-05-29",
+      "open_price": 105.1459354,
+      "close_price": 104.714777,
+      "change": 0.995899428
+    },
+    {
+      "day": 367,
+      "trade_date": "2006-05-30",
+      "open_price": 104.714777,
+      "close_price": 105.2921294,
+      "change": 1.005513572
+    },
+    {
+      "day": 368,
+      "trade_date": "2006-05-31",
+      "open_price": 105.2921294,
+      "close_price": 105.2484456,
+      "change": 0.999585117
+    },
+    {
+      "day": 369,
+      "trade_date": "2006-06-01",
+      "open_price": 105.2484456,
+      "close_price": 105.0823361,
+      "change": 0.99842174
+    },
+    {
+      "day": 370,
+      "trade_date": "2006-06-02",
+      "open_price": 105.0823361,
+      "close_price": 103.924277,
+      "change": 0.988979507
+    },
+    {
+      "day": 371,
+      "trade_date": "2006-06-05",
+      "open_price": 103.924277,
+      "close_price": 102.9543886,
+      "change": 0.990667355
+    },
+    {
+      "day": 372,
+      "trade_date": "2006-06-06",
+      "open_price": 102.9543886,
+      "close_price": 102.8605843,
+      "change": 0.999088875
+    },
+    {
+      "day": 373,
+      "trade_date": "2006-06-07",
+      "open_price": 102.8605843,
+      "close_price": 103.0842893,
+      "change": 1.002174837
+    },
+    {
+      "day": 374,
+      "trade_date": "2006-06-08",
+      "open_price": 103.0842893,
+      "close_price": 103.5604326,
+      "change": 1.00461897
+    },
+    {
+      "day": 375,
+      "trade_date": "2006-06-09",
+      "open_price": 103.5604326,
+      "close_price": 104.3408641,
+      "change": 1.007536001
+    },
+    {
+      "day": 376,
+      "trade_date": "2006-06-12",
+      "open_price": 104.3408641,
+      "close_price": 105.1577462,
+      "change": 1.007828976
+    },
+    {
+      "day": 377,
+      "trade_date": "2006-06-13",
+      "open_price": 105.1577462,
+      "close_price": 104.3914185,
+      "change": 0.992712588
+    },
+    {
+      "day": 378,
+      "trade_date": "2006-06-14",
+      "open_price": 104.3914185,
+      "close_price": 103.6616017,
+      "change": 0.993008844
+    },
+    {
+      "day": 379,
+      "trade_date": "2006-06-15",
+      "open_price": 103.6616017,
+      "close_price": 102.3986802,
+      "change": 0.987816882
+    },
+    {
+      "day": 380,
+      "trade_date": "2006-06-16",
+      "open_price": 102.3986802,
+      "close_price": 103.0862861,
+      "change": 1.006714988
+    },
+    {
+      "day": 381,
+      "trade_date": "2006-06-19",
+      "open_price": 103.0862861,
+      "close_price": 103.9599779,
+      "change": 1.008475345
+    },
+    {
+      "day": 382,
+      "trade_date": "2006-06-20",
+      "open_price": 103.9599779,
+      "close_price": 104.1898891,
+      "change": 1.002211535
+    },
+    {
+      "day": 383,
+      "trade_date": "2006-06-21",
+      "open_price": 104.1898891,
+      "close_price": 102.8048458,
+      "change": 0.986706548
+    },
+    {
+      "day": 384,
+      "trade_date": "2006-06-22",
+      "open_price": 102.8048458,
+      "close_price": 104.0371355,
+      "change": 1.011986689
+    },
+    {
+      "day": 385,
+      "trade_date": "2006-06-23",
+      "open_price": 104.0371355,
+      "close_price": 103.1265689,
+      "change": 0.991247677
+    },
+    {
+      "day": 386,
+      "trade_date": "2006-06-26",
+      "open_price": 103.1265689,
+      "close_price": 102.8621335,
+      "change": 0.997435817
+    },
+    {
+      "day": 387,
+      "trade_date": "2006-06-27",
+      "open_price": 102.8621335,
+      "close_price": 104.2339999,
+      "change": 1.013336943
+    },
+    {
+      "day": 388,
+      "trade_date": "2006-06-28",
+      "open_price": 104.2339999,
+      "close_price": 103.3714223,
+      "change": 0.991724605
+    },
+    {
+      "day": 389,
+      "trade_date": "2006-06-29",
+      "open_price": 103.3714223,
+      "close_price": 102.6225141,
+      "change": 0.992755171
+    },
+    {
+      "day": 390,
+      "trade_date": "2006-06-30",
+      "open_price": 102.6225141,
+      "close_price": 100.9183494,
+      "change": 0.983393852
+    },
+    {
+      "day": 391,
+      "trade_date": "2006-07-03",
+      "open_price": 100.9183494,
+      "close_price": 102.6222059,
+      "change": 1.016883515
+    },
+    {
+      "day": 392,
+      "trade_date": "2006-07-04",
+      "open_price": 102.6222059,
+      "close_price": 102.4979897,
+      "change": 0.998789578
+    },
+    {
+      "day": 393,
+      "trade_date": "2006-07-05",
+      "open_price": 102.4979897,
+      "close_price": 101.2314138,
+      "change": 0.987642919
+    },
+    {
+      "day": 394,
+      "trade_date": "2006-07-06",
+      "open_price": 101.2314138,
+      "close_price": 101.3565016,
+      "change": 1.001235661
+    },
+    {
+      "day": 395,
+      "trade_date": "2006-07-07",
+      "open_price": 101.3565016,
+      "close_price": 101.7750923,
+      "change": 1.004129885
+    },
+    {
+      "day": 396,
+      "trade_date": "2006-07-10",
+      "open_price": 101.7750923,
+      "close_price": 102.7740337,
+      "change": 1.009815186
+    },
+    {
+      "day": 397,
+      "trade_date": "2006-07-11",
+      "open_price": 102.7740337,
+      "close_price": 103.3262812,
+      "change": 1.005373414
+    },
+    {
+      "day": 398,
+      "trade_date": "2006-07-12",
+      "open_price": 103.3262812,
+      "close_price": 101.746277,
+      "change": 0.984708594
+    },
+    {
+      "day": 399,
+      "trade_date": "2006-07-13",
+      "open_price": 101.746277,
+      "close_price": 101.7102627,
+      "change": 0.999646037
+    },
+    {
+      "day": 400,
+      "trade_date": "2006-07-14",
+      "open_price": 101.7102627,
+      "close_price": 102.556045,
+      "change": 1.008315605
+    },
+    {
+      "day": 401,
+      "trade_date": "2006-07-17",
+      "open_price": 102.556045,
+      "close_price": 103.1068769,
+      "change": 1.005371033
+    },
+    {
+      "day": 402,
+      "trade_date": "2006-07-18",
+      "open_price": 103.1068769,
+      "close_price": 102.9480984,
+      "change": 0.998460059
+    },
+    {
+      "day": 403,
+      "trade_date": "2006-07-19",
+      "open_price": 102.9480984,
+      "close_price": 101.3022253,
+      "change": 0.984012594
+    },
+    {
+      "day": 404,
+      "trade_date": "2006-07-20",
+      "open_price": 101.3022253,
+      "close_price": 99.66875722,
+      "change": 0.983875299
+    },
+    {
+      "day": 405,
+      "trade_date": "2006-07-21",
+      "open_price": 99.66875722,
+      "close_price": 98.91658145,
+      "change": 0.992453244
+    },
+    {
+      "day": 406,
+      "trade_date": "2006-07-24",
+      "open_price": 98.91658145,
+      "close_price": 100.5094534,
+      "change": 1.016103184
+    },
+    {
+      "day": 407,
+      "trade_date": "2006-07-25",
+      "open_price": 100.5094534,
+      "close_price": 100.0027114,
+      "change": 0.994958266
+    },
+    {
+      "day": 408,
+      "trade_date": "2006-07-26",
+      "open_price": 100.0027114,
+      "close_price": 99.71942513,
+      "change": 0.997167214
+    },
+    {
+      "day": 409,
+      "trade_date": "2006-07-27",
+      "open_price": 99.71942513,
+      "close_price": 99.54774543,
+      "change": 0.998278373
+    },
+    {
+      "day": 410,
+      "trade_date": "2006-07-28",
+      "open_price": 99.54774543,
+      "close_price": 99.32822348,
+      "change": 0.997794807
+    },
+    {
+      "day": 411,
+      "trade_date": "2006-07-31",
+      "open_price": 99.32822348,
+      "close_price": 100.3656233,
+      "change": 1.010444159
+    },
+    {
+      "day": 412,
+      "trade_date": "2006-08-01",
+      "open_price": 100.3656233,
+      "close_price": 99.3933868,
+      "change": 0.990313053
+    },
+    {
+      "day": 413,
+      "trade_date": "2006-08-02",
+      "open_price": 99.3933868,
+      "close_price": 99.30592619,
+      "change": 0.999120056
+    },
+    {
+      "day": 414,
+      "trade_date": "2006-08-03",
+      "open_price": 99.30592619,
+      "close_price": 99.23317614,
+      "change": 0.999267415
+    },
+    {
+      "day": 415,
+      "trade_date": "2006-08-04",
+      "open_price": 99.23317614,
+      "close_price": 99.68855574,
+      "change": 1.004588985
+    },
+    {
+      "day": 416,
+      "trade_date": "2006-08-07",
+      "open_price": 99.68855574,
+      "close_price": 99.16526584,
+      "change": 0.994750752
+    },
+    {
+      "day": 417,
+      "trade_date": "2006-08-08",
+      "open_price": 99.16526584,
+      "close_price": 99.19405204,
+      "change": 1.000290285
+    },
+    {
+      "day": 418,
+      "trade_date": "2006-08-09",
+      "open_price": 99.19405204,
+      "close_price": 99.26423205,
+      "change": 1.000707502
+    },
+    {
+      "day": 419,
+      "trade_date": "2006-08-10",
+      "open_price": 99.26423205,
+      "close_price": 99.24515848,
+      "change": 0.999807851
+    },
+    {
+      "day": 420,
+      "trade_date": "2006-08-11",
+      "open_price": 99.24515848,
+      "close_price": 97.44960062,
+      "change": 0.981907854
+    },
+    {
+      "day": 421,
+      "trade_date": "2006-08-14",
+      "open_price": 97.44960062,
+      "close_price": 97.38928132,
+      "change": 0.999381021
+    },
+    {
+      "day": 422,
+      "trade_date": "2006-08-15",
+      "open_price": 97.38928132,
+      "close_price": 97.20165555,
+      "change": 0.998073445
+    },
+    {
+      "day": 423,
+      "trade_date": "2006-08-16",
+      "open_price": 97.20165555,
+      "close_price": 97.07275714,
+      "change": 0.998673907
+    },
+    {
+      "day": 424,
+      "trade_date": "2006-08-17",
+      "open_price": 97.07275714,
+      "close_price": 96.94267802,
+      "change": 0.998659983
+    },
+    {
+      "day": 425,
+      "trade_date": "2006-08-18",
+      "open_price": 96.94267802,
+      "close_price": 99.1272999,
+      "change": 1.022535192
+    },
+    {
+      "day": 426,
+      "trade_date": "2006-08-21",
+      "open_price": 99.1272999,
+      "close_price": 99.11035169,
+      "change": 0.999829026
+    },
+    {
+      "day": 427,
+      "trade_date": "2006-08-22",
+      "open_price": 99.11035169,
+      "close_price": 98.13735373,
+      "change": 0.990182681
+    },
+    {
+      "day": 428,
+      "trade_date": "2006-08-23",
+      "open_price": 98.13735373,
+      "close_price": 97.89620674,
+      "change": 0.99754276
+    },
+    {
+      "day": 429,
+      "trade_date": "2006-08-24",
+      "open_price": 97.89620674,
+      "close_price": 97.19413769,
+      "change": 0.992828435
+    },
+    {
+      "day": 430,
+      "trade_date": "2006-08-25",
+      "open_price": 97.19413769,
+      "close_price": 98.24708214,
+      "change": 1.010833415
+    },
+    {
+      "day": 431,
+      "trade_date": "2006-08-28",
+      "open_price": 98.24708214,
+      "close_price": 98.24015912,
+      "change": 0.999929535
+    },
+    {
+      "day": 432,
+      "trade_date": "2006-08-29",
+      "open_price": 98.24015912,
+      "close_price": 98.44637612,
+      "change": 1.002099111
+    },
+    {
+      "day": 433,
+      "trade_date": "2006-08-30",
+      "open_price": 98.44637612,
+      "close_price": 97.52690639,
+      "change": 0.990660197
+    },
+    {
+      "day": 434,
+      "trade_date": "2006-08-31",
+      "open_price": 97.52690639,
+      "close_price": 98.31489685,
+      "change": 1.008079724
+    },
+    {
+      "day": 435,
+      "trade_date": "2006-09-01",
+      "open_price": 98.31489685,
+      "close_price": 97.01843021,
+      "change": 0.986813121
+    },
+    {
+      "day": 436,
+      "trade_date": "2006-09-04",
+      "open_price": 97.01843021,
+      "close_price": 97.29149244,
+      "change": 1.00281454
+    },
+    {
+      "day": 437,
+      "trade_date": "2006-09-05",
+      "open_price": 97.29149244,
+      "close_price": 97.48643207,
+      "change": 1.002003666
+    },
+    {
+      "day": 438,
+      "trade_date": "2006-09-06",
+      "open_price": 97.48643207,
+      "close_price": 97.30486591,
+      "change": 0.998137524
+    },
+    {
+      "day": 439,
+      "trade_date": "2006-09-07",
+      "open_price": 97.30486591,
+      "close_price": 97.25498052,
+      "change": 0.999487329
+    },
+    {
+      "day": 440,
+      "trade_date": "2006-09-08",
+      "open_price": 97.25498052,
+      "close_price": 97.49216208,
+      "change": 1.00243876
+    },
+    {
+      "day": 441,
+      "trade_date": "2006-09-11",
+      "open_price": 97.49216208,
+      "close_price": 98.56527923,
+      "change": 1.011007215
+    },
+    {
+      "day": 442,
+      "trade_date": "2006-09-12",
+      "open_price": 98.56527923,
+      "close_price": 98.16863749,
+      "change": 0.995975847
+    },
+    {
+      "day": 443,
+      "trade_date": "2006-09-13",
+      "open_price": 98.16863749,
+      "close_price": 97.52644328,
+      "change": 0.993458255
+    },
+    {
+      "day": 444,
+      "trade_date": "2006-09-14",
+      "open_price": 97.52644328,
+      "close_price": 95.1594269,
+      "change": 0.975729491
+    },
+    {
+      "day": 445,
+      "trade_date": "2006-09-15",
+      "open_price": 95.1594269,
+      "close_price": 94.00452965,
+      "change": 0.987863554
+    },
+    {
+      "day": 446,
+      "trade_date": "2006-09-18",
+      "open_price": 94.00452965,
+      "close_price": 93.92702303,
+      "change": 0.999175501
+    },
+    {
+      "day": 447,
+      "trade_date": "2006-09-19",
+      "open_price": 93.92702303,
+      "close_price": 94.15062483,
+      "change": 1.002380591
+    },
+    {
+      "day": 448,
+      "trade_date": "2006-09-20",
+      "open_price": 94.15062483,
+      "close_price": 93.54672386,
+      "change": 0.9935858
+    },
+    {
+      "day": 449,
+      "trade_date": "2006-09-21",
+      "open_price": 93.54672386,
+      "close_price": 93.07467137,
+      "change": 0.994953832
+    },
+    {
+      "day": 450,
+      "trade_date": "2006-09-22",
+      "open_price": 93.07467137,
+      "close_price": 93.17441677,
+      "change": 1.001071671
+    },
+    {
+      "day": 451,
+      "trade_date": "2006-09-25",
+      "open_price": 93.17441677,
+      "close_price": 94.00826586,
+      "change": 1.008949335
+    },
+    {
+      "day": 452,
+      "trade_date": "2006-09-26",
+      "open_price": 94.00826586,
+      "close_price": 94.80284353,
+      "change": 1.008452211
+    },
+    {
+      "day": 453,
+      "trade_date": "2006-09-27",
+      "open_price": 94.80284353,
+      "close_price": 94.93188543,
+      "change": 1.001361161
+    },
+    {
+      "day": 454,
+      "trade_date": "2006-09-28",
+      "open_price": 94.93188543,
+      "close_price": 96.05033558,
+      "change": 1.011781607
+    },
+    {
+      "day": 455,
+      "trade_date": "2006-09-29",
+      "open_price": 96.05033558,
+      "close_price": 97.12561151,
+      "change": 1.011194921
+    },
+    {
+      "day": 456,
+      "trade_date": "2006-10-02",
+      "open_price": 97.12561151,
+      "close_price": 97.05073203,
+      "change": 0.999229045
+    },
+    {
+      "day": 457,
+      "trade_date": "2006-10-03",
+      "open_price": 97.05073203,
+      "close_price": 97.33708446,
+      "change": 1.002950544
+    },
+    {
+      "day": 458,
+      "trade_date": "2006-10-04",
+      "open_price": 97.33708446,
+      "close_price": 97.65443899,
+      "change": 1.003260366
+    },
+    {
+      "day": 459,
+      "trade_date": "2006-10-05",
+      "open_price": 97.65443899,
+      "close_price": 98.05988335,
+      "change": 1.004151827
+    },
+    {
+      "day": 460,
+      "trade_date": "2006-10-06",
+      "open_price": 98.05988335,
+      "close_price": 97.89960786,
+      "change": 0.998365535
+    },
+    {
+      "day": 461,
+      "trade_date": "2006-10-09",
+      "open_price": 97.89960786,
+      "close_price": 97.33430217,
+      "change": 0.994225659
+    },
+    {
+      "day": 462,
+      "trade_date": "2006-10-10",
+      "open_price": 97.33430217,
+      "close_price": 96.87130177,
+      "change": 0.995243194
+    },
+    {
+      "day": 463,
+      "trade_date": "2006-10-11",
+      "open_price": 96.87130177,
+      "close_price": 97.4433003,
+      "change": 1.005904726
+    },
+    {
+      "day": 464,
+      "trade_date": "2006-10-12",
+      "open_price": 97.4433003,
+      "close_price": 97.75051754,
+      "change": 1.00315278
+    },
+    {
+      "day": 465,
+      "trade_date": "2006-10-13",
+      "open_price": 97.75051754,
+      "close_price": 97.83912799,
+      "change": 1.000906496
+    },
+    {
+      "day": 466,
+      "trade_date": "2006-10-16",
+      "open_price": 97.83912799,
+      "close_price": 97.99878461,
+      "change": 1.001631828
+    },
+    {
+      "day": 467,
+      "trade_date": "2006-10-17",
+      "open_price": 97.99878461,
+      "close_price": 98.00265915,
+      "change": 1.000039537
+    },
+    {
+      "day": 468,
+      "trade_date": "2006-10-18",
+      "open_price": 98.00265915,
+      "close_price": 96.83806389,
+      "change": 0.988116697
+    },
+    {
+      "day": 469,
+      "trade_date": "2006-10-19",
+      "open_price": 96.83806389,
+      "close_price": 96.41024976,
+      "change": 0.99558217
+    },
+    {
+      "day": 470,
+      "trade_date": "2006-10-20",
+      "open_price": 96.41024976,
+      "close_price": 96.90190926,
+      "change": 1.00509966
+    },
+    {
+      "day": 471,
+      "trade_date": "2006-10-23",
+      "open_price": 96.90190926,
+      "close_price": 96.95519106,
+      "change": 1.000549853
+    },
+    {
+      "day": 472,
+      "trade_date": "2006-10-24",
+      "open_price": 96.95519106,
+      "close_price": 97.11780144,
+      "change": 1.00167717
+    },
+    {
+      "day": 473,
+      "trade_date": "2006-10-25",
+      "open_price": 97.11780144,
+      "close_price": 96.84241552,
+      "change": 0.997164414
+    },
+    {
+      "day": 474,
+      "trade_date": "2006-10-26",
+      "open_price": 96.84241552,
+      "close_price": 97.33506773,
+      "change": 1.005087153
+    },
+    {
+      "day": 475,
+      "trade_date": "2006-10-27",
+      "open_price": 97.33506773,
+      "close_price": 96.97297294,
+      "change": 0.996279914
+    },
+    {
+      "day": 476,
+      "trade_date": "2006-10-30",
+      "open_price": 96.97297294,
+      "close_price": 96.73534734,
+      "change": 0.997549569
+    },
+    {
+      "day": 477,
+      "trade_date": "2006-10-31",
+      "open_price": 96.73534734,
+      "close_price": 97.00635612,
+      "change": 1.002801549
+    },
+    {
+      "day": 478,
+      "trade_date": "2006-11-01",
+      "open_price": 97.00635612,
+      "close_price": 97.19990108,
+      "change": 1.001995178
+    },
+    {
+      "day": 479,
+      "trade_date": "2006-11-02",
+      "open_price": 97.19990108,
+      "close_price": 96.97211397,
+      "change": 0.997656509
+    },
+    {
+      "day": 480,
+      "trade_date": "2006-11-03",
+      "open_price": 96.97211397,
+      "close_price": 97.23422422,
+      "change": 1.002702945
+    },
+    {
+      "day": 481,
+      "trade_date": "2006-11-06",
+      "open_price": 97.23422422,
+      "close_price": 96.89979174,
+      "change": 0.996560548
+    },
+    {
+      "day": 482,
+      "trade_date": "2006-11-07",
+      "open_price": 96.89979174,
+      "close_price": 96.22690668,
+      "change": 0.993055867
+    },
+    {
+      "day": 483,
+      "trade_date": "2006-11-08",
+      "open_price": 96.22690668,
+      "close_price": 95.25673611,
+      "change": 0.989917887
+    },
+    {
+      "day": 484,
+      "trade_date": "2006-11-09",
+      "open_price": 95.25673611,
+      "close_price": 94.2015567,
+      "change": 0.988922784
+    },
+    {
+      "day": 485,
+      "trade_date": "2006-11-10",
+      "open_price": 94.2015567,
+      "close_price": 94.62425721,
+      "change": 1.004487192
+    },
+    {
+      "day": 486,
+      "trade_date": "2006-11-13",
+      "open_price": 94.62425721,
+      "close_price": 94.81383533,
+      "change": 1.002003483
+    },
+    {
+      "day": 487,
+      "trade_date": "2006-11-14",
+      "open_price": 94.81383533,
+      "close_price": 95.19535807,
+      "change": 1.004023914
+    },
+    {
+      "day": 488,
+      "trade_date": "2006-11-15",
+      "open_price": 95.19535807,
+      "close_price": 92.85119592,
+      "change": 0.975375247
+    },
+    {
+      "day": 489,
+      "trade_date": "2006-11-16",
+      "open_price": 92.85119592,
+      "close_price": 92.59693942,
+      "change": 0.997261678
+    },
+    {
+      "day": 490,
+      "trade_date": "2006-11-17",
+      "open_price": 92.59693942,
+      "close_price": 93.80869983,
+      "change": 1.013086398
+    },
+    {
+      "day": 491,
+      "trade_date": "2006-11-20",
+      "open_price": 93.80869983,
+      "close_price": 93.57960117,
+      "change": 0.99755781
+    },
+    {
+      "day": 492,
+      "trade_date": "2006-11-21",
+      "open_price": 93.57960117,
+      "close_price": 94.71094852,
+      "change": 1.012089679
+    },
+    {
+      "day": 493,
+      "trade_date": "2006-11-22",
+      "open_price": 94.71094852,
+      "close_price": 95.48453524,
+      "change": 1.00816787
+    },
+    {
+      "day": 494,
+      "trade_date": "2006-11-23",
+      "open_price": 95.48453524,
+      "close_price": 96.14499273,
+      "change": 1.006916905
+    },
+    {
+      "day": 495,
+      "trade_date": "2006-11-24",
+      "open_price": 96.14499273,
+      "close_price": 95.42358011,
+      "change": 0.992496618
+    },
+    {
+      "day": 496,
+      "trade_date": "2006-11-27",
+      "open_price": 95.42358011,
+      "close_price": 95.13298038,
+      "change": 0.996954634
+    },
+    {
+      "day": 497,
+      "trade_date": "2006-11-28",
+      "open_price": 95.13298038,
+      "close_price": 96.34372737,
+      "change": 1.01272689
+    },
+    {
+      "day": 498,
+      "trade_date": "2006-11-29",
+      "open_price": 96.34372737,
+      "close_price": 96.86659801,
+      "change": 1.005427137
+    },
+    {
+      "day": 499,
+      "trade_date": "2006-11-30",
+      "open_price": 96.86659801,
+      "close_price": 96.73403025,
+      "change": 0.99863144
+    },
+    {
+      "day": 500,
+      "trade_date": "2006-12-01",
+      "open_price": 96.73403025,
+      "close_price": 95.93152672,
+      "change": 0.991704021
+    },
+    {
+      "day": 501,
+      "trade_date": "2006-12-04",
+      "open_price": 95.93152672,
+      "close_price": 95.06365744,
+      "change": 0.990953242
+    },
+    {
+      "day": 502,
+      "trade_date": "2006-12-05",
+      "open_price": 95.06365744,
+      "close_price": 94.66601938,
+      "change": 0.995817139
+    },
+    {
+      "day": 503,
+      "trade_date": "2006-12-06",
+      "open_price": 94.66601938,
+      "close_price": 94.44787106,
+      "change": 0.997695601
+    },
+    {
+      "day": 504,
+      "trade_date": "2006-12-07",
+      "open_price": 94.44787106,
+      "close_price": 94.76612297,
+      "change": 1.003369604
+    },
+    {
+      "day": 505,
+      "trade_date": "2006-12-08",
+      "open_price": 94.76612297,
+      "close_price": 94.17688847,
+      "change": 0.993782224
+    },
+    {
+      "day": 506,
+      "trade_date": "2006-12-11",
+      "open_price": 94.17688847,
+      "close_price": 94.61087573,
+      "change": 1.004608214
+    },
+    {
+      "day": 507,
+      "trade_date": "2006-12-12",
+      "open_price": 94.61087573,
+      "close_price": 94.7737086,
+      "change": 1.00172108
+    },
+    {
+      "day": 508,
+      "trade_date": "2006-12-13",
+      "open_price": 94.7737086,
+      "close_price": 98.85116573,
+      "change": 1.043023083
+    },
+    {
+      "day": 509,
+      "trade_date": "2006-12-14",
+      "open_price": 98.85116573,
+      "close_price": 98.72577005,
+      "change": 0.99873147
+    },
+    {
+      "day": 510,
+      "trade_date": "2006-12-15",
+      "open_price": 98.72577005,
+      "close_price": 98.32023584,
+      "change": 0.995892317
+    },
+    {
+      "day": 511,
+      "trade_date": "2006-12-18",
+      "open_price": 98.32023584,
+      "close_price": 98.88705411,
+      "change": 1.005765021
+    },
+    {
+      "day": 512,
+      "trade_date": "2006-12-19",
+      "open_price": 98.88705411,
+      "close_price": 100.4469134,
+      "change": 1.015774151
+    },
+    {
+      "day": 513,
+      "trade_date": "2006-12-20",
+      "open_price": 100.4469134,
+      "close_price": 100.657437,
+      "change": 1.002095869
+    },
+    {
+      "day": 514,
+      "trade_date": "2006-12-21",
+      "open_price": 100.657437,
+      "close_price": 101.0190993,
+      "change": 1.003593002
+    },
+    {
+      "day": 515,
+      "trade_date": "2006-12-22",
+      "open_price": 101.0190993,
+      "close_price": 102.4202825,
+      "change": 1.013870478
+    },
+    {
+      "day": 516,
+      "trade_date": "2006-12-25",
+      "open_price": 102.4202825,
+      "close_price": 101.6697445,
+      "change": 0.992671978
+    },
+    {
+      "day": 517,
+      "trade_date": "2006-12-26",
+      "open_price": 101.6697445,
+      "close_price": 102.6537558,
+      "change": 1.009678507
+    },
+    {
+      "day": 518,
+      "trade_date": "2006-12-27",
+      "open_price": 102.6537558,
+      "close_price": 102.7660189,
+      "change": 1.00109361
+    },
+    {
+      "day": 519,
+      "trade_date": "2006-12-28",
+      "open_price": 102.7660189,
+      "close_price": 102.8079106,
+      "change": 1.000407641
+    },
+    {
+      "day": 520,
+      "trade_date": "2006-12-29",
+      "open_price": 102.8079106,
+      "close_price": 103.452019,
+      "change": 1.006265164
+    }
+  ]
+}

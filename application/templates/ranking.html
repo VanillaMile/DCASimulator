@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+    {% if title %}
+        <title>{{ title }}</title>
+    {% else %}
+        <title>DCA Simulator</title>
+    {% endif %}
+</head>
+<body>
+    <div class="ranking">
+        <h1>Ranking</h1>
+        <p>Top 10</p>
+        {% for row in ranking_data %}
+            <details>
+                <summary>
+                    {{ loop.index }}. {{ row['_id'] }}: {{ row['profit']|round(2) }}$, 
+                    <span class="redColor">Score: {{ (row['score'] * 10)|round(5) }}</span>, 
+                    Overall percentage grow: {{ row['percentage_grow']|round(2) }}%, 
+                </summary>
+                Stock: {{ row['stock_name'] }}<br>
+                Profit: {{ row['profit']|round(2) }}$<br>
+                Score: {{ (row['score'] * 10)|round(5) }}<br>
+                Percentage grow: {{ row['percentage_grow']|round(2) }}%<br>
+                Investment period: {{ row['period'] }}<br>
+                Investment amount: {{ row['investment_amount'] }}$<br>
+                Investment interval: {{ row['investment_interval'] }}<br>
+                Initial investment: {{ row['initial_investment'] }}$<br>
+            </details>
+        {% endfor %}
+    </div>
+</body>
+</html>

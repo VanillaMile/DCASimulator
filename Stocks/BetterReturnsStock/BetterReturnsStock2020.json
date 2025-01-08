@@ -1,0 +1,1846 @@
+{
+  "stock_name": "better_return_stock_short",
+  "stock_symbol": "BRS",
+  "description": "This stock has better returns than the market",
+  "avg_daily_return": 0.0008,
+  "all_time_return": 35.9637,
+  "avg_yearly_return": 0.1556,
+  "year": 2020,
+  "yearly_return": 0.3286,
+  "daily_data": [
+    {
+      "day": 3913,
+      "trade_date": "2020-01-01",
+      "open_price": 1413.990736,
+      "close_price": 1406.773723,
+      "change": 0.994895997
+    },
+    {
+      "day": 3914,
+      "trade_date": "2020-01-02",
+      "open_price": 1406.773723,
+      "close_price": 1427.08478,
+      "change": 1.014438042
+    },
+    {
+      "day": 3915,
+      "trade_date": "2020-01-03",
+      "open_price": 1427.08478,
+      "close_price": 1427.930197,
+      "change": 1.000592408
+    },
+    {
+      "day": 3916,
+      "trade_date": "2020-01-06",
+      "open_price": 1427.930197,
+      "close_price": 1290.487929,
+      "change": 0.903747208
+    },
+    {
+      "day": 3917,
+      "trade_date": "2020-01-07",
+      "open_price": 1290.487929,
+      "close_price": 1286.050804,
+      "change": 0.996561669
+    },
+    {
+      "day": 3918,
+      "trade_date": "2020-01-08",
+      "open_price": 1286.050804,
+      "close_price": 1288.251406,
+      "change": 1.001711131
+    },
+    {
+      "day": 3919,
+      "trade_date": "2020-01-09",
+      "open_price": 1288.251406,
+      "close_price": 1290.8677,
+      "change": 1.002030888
+    },
+    {
+      "day": 3920,
+      "trade_date": "2020-01-10",
+      "open_price": 1290.8677,
+      "close_price": 1295.714672,
+      "change": 1.003754817
+    },
+    {
+      "day": 3921,
+      "trade_date": "2020-01-13",
+      "open_price": 1295.714672,
+      "close_price": 1294.108002,
+      "change": 0.998760012
+    },
+    {
+      "day": 3922,
+      "trade_date": "2020-01-14",
+      "open_price": 1294.108002,
+      "close_price": 1302.26936,
+      "change": 1.006306551
+    },
+    {
+      "day": 3923,
+      "trade_date": "2020-01-15",
+      "open_price": 1302.26936,
+      "close_price": 1291.058543,
+      "change": 0.991391322
+    },
+    {
+      "day": 3924,
+      "trade_date": "2020-01-16",
+      "open_price": 1291.058543,
+      "close_price": 1294.124008,
+      "change": 1.002374381
+    },
+    {
+      "day": 3925,
+      "trade_date": "2020-01-17",
+      "open_price": 1294.124008,
+      "close_price": 1312.067384,
+      "change": 1.013865268
+    },
+    {
+      "day": 3926,
+      "trade_date": "2020-01-20",
+      "open_price": 1312.067384,
+      "close_price": 1329.000695,
+      "change": 1.012905824
+    },
+    {
+      "day": 3927,
+      "trade_date": "2020-01-21",
+      "open_price": 1329.000695,
+      "close_price": 1326.236413,
+      "change": 0.99792003
+    },
+    {
+      "day": 3928,
+      "trade_date": "2020-01-22",
+      "open_price": 1326.236413,
+      "close_price": 1327.583029,
+      "change": 1.001015367
+    },
+    {
+      "day": 3929,
+      "trade_date": "2020-01-23",
+      "open_price": 1327.583029,
+      "close_price": 1333.21656,
+      "change": 1.004243449
+    },
+    {
+      "day": 3930,
+      "trade_date": "2020-01-24",
+      "open_price": 1333.21656,
+      "close_price": 1332.771433,
+      "change": 0.999666125
+    },
+    {
+      "day": 3931,
+      "trade_date": "2020-01-27",
+      "open_price": 1332.771433,
+      "close_price": 1331.863348,
+      "change": 0.99931865
+    },
+    {
+      "day": 3932,
+      "trade_date": "2020-01-28",
+      "open_price": 1331.863348,
+      "close_price": 1338.445503,
+      "change": 1.004942065
+    },
+    {
+      "day": 3933,
+      "trade_date": "2020-01-29",
+      "open_price": 1338.445503,
+      "close_price": 1356.97735,
+      "change": 1.013845798
+    },
+    {
+      "day": 3934,
+      "trade_date": "2020-01-30",
+      "open_price": 1356.97735,
+      "close_price": 1358.559565,
+      "change": 1.001165985
+    },
+    {
+      "day": 3935,
+      "trade_date": "2020-01-31",
+      "open_price": 1358.559565,
+      "close_price": 1365.006022,
+      "change": 1.004745068
+    },
+    {
+      "day": 3936,
+      "trade_date": "2020-02-03",
+      "open_price": 1365.006022,
+      "close_price": 1393.712585,
+      "change": 1.021030356
+    },
+    {
+      "day": 3937,
+      "trade_date": "2020-02-04",
+      "open_price": 1393.712585,
+      "close_price": 1371.77855,
+      "change": 0.984262153
+    },
+    {
+      "day": 3938,
+      "trade_date": "2020-02-05",
+      "open_price": 1371.77855,
+      "close_price": 1379.806766,
+      "change": 1.005852414
+    },
+    {
+      "day": 3939,
+      "trade_date": "2020-02-06",
+      "open_price": 1379.806766,
+      "close_price": 1377.828481,
+      "change": 0.998566259
+    },
+    {
+      "day": 3940,
+      "trade_date": "2020-02-07",
+      "open_price": 1377.828481,
+      "close_price": 1387.094442,
+      "change": 1.006725047
+    },
+    {
+      "day": 3941,
+      "trade_date": "2020-02-10",
+      "open_price": 1387.094442,
+      "close_price": 1375.402259,
+      "change": 0.991570738
+    },
+    {
+      "day": 3942,
+      "trade_date": "2020-02-11",
+      "open_price": 1375.402259,
+      "close_price": 1407.385329,
+      "change": 1.023253611
+    },
+    {
+      "day": 3943,
+      "trade_date": "2020-02-12",
+      "open_price": 1407.385329,
+      "close_price": 1399.437598,
+      "change": 0.99435284
+    },
+    {
+      "day": 3944,
+      "trade_date": "2020-02-13",
+      "open_price": 1399.437598,
+      "close_price": 1408.560777,
+      "change": 1.006519175
+    },
+    {
+      "day": 3945,
+      "trade_date": "2020-02-14",
+      "open_price": 1408.560777,
+      "close_price": 1556.276302,
+      "change": 1.104869826
+    },
+    {
+      "day": 3946,
+      "trade_date": "2020-02-17",
+      "open_price": 1556.276302,
+      "close_price": 1556.557401,
+      "change": 1.000180623
+    },
+    {
+      "day": 3947,
+      "trade_date": "2020-02-18",
+      "open_price": 1556.557401,
+      "close_price": 1545.284776,
+      "change": 0.992757976
+    },
+    {
+      "day": 3948,
+      "trade_date": "2020-02-19",
+      "open_price": 1545.284776,
+      "close_price": 1556.323387,
+      "change": 1.007143415
+    },
+    {
+      "day": 3949,
+      "trade_date": "2020-02-20",
+      "open_price": 1556.323387,
+      "close_price": 1570.838073,
+      "change": 1.009326266
+    },
+    {
+      "day": 3950,
+      "trade_date": "2020-02-21",
+      "open_price": 1570.838073,
+      "close_price": 1575.367263,
+      "change": 1.002883295
+    },
+    {
+      "day": 3951,
+      "trade_date": "2020-02-24",
+      "open_price": 1575.367263,
+      "close_price": 1572.654882,
+      "change": 0.998278255
+    },
+    {
+      "day": 3952,
+      "trade_date": "2020-02-25",
+      "open_price": 1572.654882,
+      "close_price": 1544.774211,
+      "change": 0.982271589
+    },
+    {
+      "day": 3953,
+      "trade_date": "2020-02-26",
+      "open_price": 1544.774211,
+      "close_price": 1492.888662,
+      "change": 0.966412212
+    },
+    {
+      "day": 3954,
+      "trade_date": "2020-02-27",
+      "open_price": 1492.888662,
+      "close_price": 1490.603463,
+      "change": 0.998469277
+    },
+    {
+      "day": 3955,
+      "trade_date": "2020-02-28",
+      "open_price": 1490.603463,
+      "close_price": 1492.245196,
+      "change": 1.001101388
+    },
+    {
+      "day": 3956,
+      "trade_date": "2020-03-02",
+      "open_price": 1492.245196,
+      "close_price": 1484.726946,
+      "change": 0.994961786
+    },
+    {
+      "day": 3957,
+      "trade_date": "2020-03-03",
+      "open_price": 1484.726946,
+      "close_price": 1483.663537,
+      "change": 0.999283768
+    },
+    {
+      "day": 3958,
+      "trade_date": "2020-03-04",
+      "open_price": 1483.663537,
+      "close_price": 1478.449621,
+      "change": 0.996485782
+    },
+    {
+      "day": 3959,
+      "trade_date": "2020-03-05",
+      "open_price": 1478.449621,
+      "close_price": 1497.356261,
+      "change": 1.012788154
+    },
+    {
+      "day": 3960,
+      "trade_date": "2020-03-06",
+      "open_price": 1497.356261,
+      "close_price": 1498.210847,
+      "change": 1.00057073
+    },
+    {
+      "day": 3961,
+      "trade_date": "2020-03-09",
+      "open_price": 1498.210847,
+      "close_price": 1476.844169,
+      "change": 0.985738537
+    },
+    {
+      "day": 3962,
+      "trade_date": "2020-03-10",
+      "open_price": 1476.844169,
+      "close_price": 1479.16637,
+      "change": 1.001572408
+    },
+    {
+      "day": 3963,
+      "trade_date": "2020-03-11",
+      "open_price": 1479.16637,
+      "close_price": 1475.744359,
+      "change": 0.997686527
+    },
+    {
+      "day": 3964,
+      "trade_date": "2020-03-12",
+      "open_price": 1475.744359,
+      "close_price": 1477.266659,
+      "change": 1.001031547
+    },
+    {
+      "day": 3965,
+      "trade_date": "2020-03-13",
+      "open_price": 1477.266659,
+      "close_price": 1465.404509,
+      "change": 0.991970204
+    },
+    {
+      "day": 3966,
+      "trade_date": "2020-03-16",
+      "open_price": 1465.404509,
+      "close_price": 1471.235378,
+      "change": 1.003979017
+    },
+    {
+      "day": 3967,
+      "trade_date": "2020-03-17",
+      "open_price": 1471.235378,
+      "close_price": 1471.087922,
+      "change": 0.999899774
+    },
+    {
+      "day": 3968,
+      "trade_date": "2020-03-18",
+      "open_price": 1471.087922,
+      "close_price": 1464.213068,
+      "change": 0.995326688
+    },
+    {
+      "day": 3969,
+      "trade_date": "2020-03-19",
+      "open_price": 1464.213068,
+      "close_price": 1463.25729,
+      "change": 0.999347241
+    },
+    {
+      "day": 3970,
+      "trade_date": "2020-03-20",
+      "open_price": 1463.25729,
+      "close_price": 1473.326102,
+      "change": 1.006881095
+    },
+    {
+      "day": 3971,
+      "trade_date": "2020-03-23",
+      "open_price": 1473.326102,
+      "close_price": 1464.889628,
+      "change": 0.994273858
+    },
+    {
+      "day": 3972,
+      "trade_date": "2020-03-24",
+      "open_price": 1464.889628,
+      "close_price": 1477.337125,
+      "change": 1.008497225
+    },
+    {
+      "day": 3973,
+      "trade_date": "2020-03-25",
+      "open_price": 1477.337125,
+      "close_price": 1486.736189,
+      "change": 1.006362166
+    },
+    {
+      "day": 3974,
+      "trade_date": "2020-03-26",
+      "open_price": 1486.736189,
+      "close_price": 1443.456751,
+      "change": 0.970889632
+    },
+    {
+      "day": 3975,
+      "trade_date": "2020-03-27",
+      "open_price": 1443.456751,
+      "close_price": 1463.887214,
+      "change": 1.014153845
+    },
+    {
+      "day": 3976,
+      "trade_date": "2020-03-30",
+      "open_price": 1463.887214,
+      "close_price": 1473.324474,
+      "change": 1.006446712
+    },
+    {
+      "day": 3977,
+      "trade_date": "2020-03-31",
+      "open_price": 1473.324474,
+      "close_price": 1491.026299,
+      "change": 1.012014886
+    },
+    {
+      "day": 3978,
+      "trade_date": "2020-04-01",
+      "open_price": 1491.026299,
+      "close_price": 1492.429569,
+      "change": 1.000941144
+    },
+    {
+      "day": 3979,
+      "trade_date": "2020-04-02",
+      "open_price": 1492.429569,
+      "close_price": 1492.500451,
+      "change": 1.000047494
+    },
+    {
+      "day": 3980,
+      "trade_date": "2020-04-03",
+      "open_price": 1492.500451,
+      "close_price": 1496.588412,
+      "change": 1.002739001
+    },
+    {
+      "day": 3981,
+      "trade_date": "2020-04-06",
+      "open_price": 1496.588412,
+      "close_price": 1519.737046,
+      "change": 1.015467602
+    },
+    {
+      "day": 3982,
+      "trade_date": "2020-04-07",
+      "open_price": 1519.737046,
+      "close_price": 1535.377674,
+      "change": 1.010291667
+    },
+    {
+      "day": 3983,
+      "trade_date": "2020-04-08",
+      "open_price": 1535.377674,
+      "close_price": 1533.371789,
+      "change": 0.998693556
+    },
+    {
+      "day": 3984,
+      "trade_date": "2020-04-09",
+      "open_price": 1533.371789,
+      "close_price": 1561.372411,
+      "change": 1.018260817
+    },
+    {
+      "day": 3985,
+      "trade_date": "2020-04-10",
+      "open_price": 1561.372411,
+      "close_price": 1573.474545,
+      "change": 1.00775096
+    },
+    {
+      "day": 3986,
+      "trade_date": "2020-04-13",
+      "open_price": 1573.474545,
+      "close_price": 1572.894553,
+      "change": 0.999631394
+    },
+    {
+      "day": 3987,
+      "trade_date": "2020-04-14",
+      "open_price": 1572.894553,
+      "close_price": 1613.758071,
+      "change": 1.025979821
+    },
+    {
+      "day": 3988,
+      "trade_date": "2020-04-15",
+      "open_price": 1613.758071,
+      "close_price": 1619.796382,
+      "change": 1.003741769
+    },
+    {
+      "day": 3989,
+      "trade_date": "2020-04-16",
+      "open_price": 1619.796382,
+      "close_price": 1613.825746,
+      "change": 0.996313959
+    },
+    {
+      "day": 3990,
+      "trade_date": "2020-04-17",
+      "open_price": 1613.825746,
+      "close_price": 1608.693504,
+      "change": 0.996819829
+    },
+    {
+      "day": 3991,
+      "trade_date": "2020-04-20",
+      "open_price": 1608.693504,
+      "close_price": 1621.148973,
+      "change": 1.007742599
+    },
+    {
+      "day": 3992,
+      "trade_date": "2020-04-21",
+      "open_price": 1621.148973,
+      "close_price": 1611.854456,
+      "change": 0.99426671
+    },
+    {
+      "day": 3993,
+      "trade_date": "2020-04-22",
+      "open_price": 1611.854456,
+      "close_price": 1628.168356,
+      "change": 1.0101212
+    },
+    {
+      "day": 3994,
+      "trade_date": "2020-04-23",
+      "open_price": 1628.168356,
+      "close_price": 1644.55935,
+      "change": 1.010067137
+    },
+    {
+      "day": 3995,
+      "trade_date": "2020-04-24",
+      "open_price": 1644.55935,
+      "close_price": 1638.592761,
+      "change": 0.996371922
+    },
+    {
+      "day": 3996,
+      "trade_date": "2020-04-27",
+      "open_price": 1638.592761,
+      "close_price": 1686.264964,
+      "change": 1.02909338
+    },
+    {
+      "day": 3997,
+      "trade_date": "2020-04-28",
+      "open_price": 1686.264964,
+      "close_price": 1687.455417,
+      "change": 1.00070597
+    },
+    {
+      "day": 3998,
+      "trade_date": "2020-04-29",
+      "open_price": 1687.455417,
+      "close_price": 1680.814939,
+      "change": 0.996064798
+    },
+    {
+      "day": 3999,
+      "trade_date": "2020-04-30",
+      "open_price": 1680.814939,
+      "close_price": 1695.658407,
+      "change": 1.008831114
+    },
+    {
+      "day": 4000,
+      "trade_date": "2020-05-01",
+      "open_price": 1695.658407,
+      "close_price": 1674.198744,
+      "change": 0.987344348
+    },
+    {
+      "day": 4001,
+      "trade_date": "2020-05-04",
+      "open_price": 1674.198744,
+      "close_price": 1671.492115,
+      "change": 0.998383329
+    },
+    {
+      "day": 4002,
+      "trade_date": "2020-05-05",
+      "open_price": 1671.492115,
+      "close_price": 1677.552192,
+      "change": 1.003625549
+    },
+    {
+      "day": 4003,
+      "trade_date": "2020-05-06",
+      "open_price": 1677.552192,
+      "close_price": 1692.125792,
+      "change": 1.008687419
+    },
+    {
+      "day": 4004,
+      "trade_date": "2020-05-07",
+      "open_price": 1692.125792,
+      "close_price": 1731.43559,
+      "change": 1.023231014
+    },
+    {
+      "day": 4005,
+      "trade_date": "2020-05-08",
+      "open_price": 1731.43559,
+      "close_price": 1738.803366,
+      "change": 1.004255299
+    },
+    {
+      "day": 4006,
+      "trade_date": "2020-05-11",
+      "open_price": 1738.803366,
+      "close_price": 1733.002594,
+      "change": 0.996663928
+    },
+    {
+      "day": 4007,
+      "trade_date": "2020-05-12",
+      "open_price": 1733.002594,
+      "close_price": 1728.262589,
+      "change": 0.99726486
+    },
+    {
+      "day": 4008,
+      "trade_date": "2020-05-13",
+      "open_price": 1728.262589,
+      "close_price": 1736.286896,
+      "change": 1.004642991
+    },
+    {
+      "day": 4009,
+      "trade_date": "2020-05-14",
+      "open_price": 1736.286896,
+      "close_price": 1736.080892,
+      "change": 0.999881354
+    },
+    {
+      "day": 4010,
+      "trade_date": "2020-05-15",
+      "open_price": 1736.080892,
+      "close_price": 1746.829573,
+      "change": 1.006191348
+    },
+    {
+      "day": 4011,
+      "trade_date": "2020-05-18",
+      "open_price": 1746.829573,
+      "close_price": 1727.595231,
+      "change": 0.988988999
+    },
+    {
+      "day": 4012,
+      "trade_date": "2020-05-19",
+      "open_price": 1727.595231,
+      "close_price": 1724.400037,
+      "change": 0.998150497
+    },
+    {
+      "day": 4013,
+      "trade_date": "2020-05-20",
+      "open_price": 1724.400037,
+      "close_price": 1740.494763,
+      "change": 1.009333522
+    },
+    {
+      "day": 4014,
+      "trade_date": "2020-05-21",
+      "open_price": 1740.494763,
+      "close_price": 1732.119852,
+      "change": 0.995188201
+    },
+    {
+      "day": 4015,
+      "trade_date": "2020-05-22",
+      "open_price": 1732.119852,
+      "close_price": 1739.903262,
+      "change": 1.004493575
+    },
+    {
+      "day": 4016,
+      "trade_date": "2020-05-25",
+      "open_price": 1739.903262,
+      "close_price": 1783.655836,
+      "change": 1.025146556
+    },
+    {
+      "day": 4017,
+      "trade_date": "2020-05-26",
+      "open_price": 1783.655836,
+      "close_price": 1782.382648,
+      "change": 0.999286192
+    },
+    {
+      "day": 4018,
+      "trade_date": "2020-05-27",
+      "open_price": 1782.382648,
+      "close_price": 1806.087509,
+      "change": 1.013299535
+    },
+    {
+      "day": 4019,
+      "trade_date": "2020-05-28",
+      "open_price": 1806.087509,
+      "close_price": 1804.91929,
+      "change": 0.999353177
+    },
+    {
+      "day": 4020,
+      "trade_date": "2020-05-29",
+      "open_price": 1804.91929,
+      "close_price": 1827.674487,
+      "change": 1.012607321
+    },
+    {
+      "day": 4021,
+      "trade_date": "2020-06-01",
+      "open_price": 1827.674487,
+      "close_price": 1841.968765,
+      "change": 1.007821019
+    },
+    {
+      "day": 4022,
+      "trade_date": "2020-06-02",
+      "open_price": 1841.968765,
+      "close_price": 1862.440943,
+      "change": 1.011114292
+    },
+    {
+      "day": 4023,
+      "trade_date": "2020-06-03",
+      "open_price": 1862.440943,
+      "close_price": 1851.310317,
+      "change": 0.994023636
+    },
+    {
+      "day": 4024,
+      "trade_date": "2020-06-04",
+      "open_price": 1851.310317,
+      "close_price": 1823.953672,
+      "change": 0.98522309
+    },
+    {
+      "day": 4025,
+      "trade_date": "2020-06-05",
+      "open_price": 1823.953672,
+      "close_price": 1833.402666,
+      "change": 1.005180501
+    },
+    {
+      "day": 4026,
+      "trade_date": "2020-06-08",
+      "open_price": 1833.402666,
+      "close_price": 1839.419177,
+      "change": 1.003281609
+    },
+    {
+      "day": 4027,
+      "trade_date": "2020-06-09",
+      "open_price": 1839.419177,
+      "close_price": 1782.732057,
+      "change": 0.969182054
+    },
+    {
+      "day": 4028,
+      "trade_date": "2020-06-10",
+      "open_price": 1782.732057,
+      "close_price": 1814.722806,
+      "change": 1.017944788
+    },
+    {
+      "day": 4029,
+      "trade_date": "2020-06-11",
+      "open_price": 1814.722806,
+      "close_price": 1806.52198,
+      "change": 0.995480949
+    },
+    {
+      "day": 4030,
+      "trade_date": "2020-06-12",
+      "open_price": 1806.52198,
+      "close_price": 1815.072096,
+      "change": 1.004732916
+    },
+    {
+      "day": 4031,
+      "trade_date": "2020-06-15",
+      "open_price": 1815.072096,
+      "close_price": 1856.871816,
+      "change": 1.023029234
+    },
+    {
+      "day": 4032,
+      "trade_date": "2020-06-16",
+      "open_price": 1856.871816,
+      "close_price": 1857.920984,
+      "change": 1.000565019
+    },
+    {
+      "day": 4033,
+      "trade_date": "2020-06-17",
+      "open_price": 1857.920984,
+      "close_price": 1878.594042,
+      "change": 1.011126984
+    },
+    {
+      "day": 4034,
+      "trade_date": "2020-06-18",
+      "open_price": 1878.594042,
+      "close_price": 1896.067904,
+      "change": 1.009301564
+    },
+    {
+      "day": 4035,
+      "trade_date": "2020-06-19",
+      "open_price": 1896.067904,
+      "close_price": 1892.143954,
+      "change": 0.99793048
+    },
+    {
+      "day": 4036,
+      "trade_date": "2020-06-22",
+      "open_price": 1892.143954,
+      "close_price": 1917.210728,
+      "change": 1.013247816
+    },
+    {
+      "day": 4037,
+      "trade_date": "2020-06-23",
+      "open_price": 1917.210728,
+      "close_price": 1922.346518,
+      "change": 1.002678782
+    },
+    {
+      "day": 4038,
+      "trade_date": "2020-06-24",
+      "open_price": 1922.346518,
+      "close_price": 1905.39849,
+      "change": 0.991183677
+    },
+    {
+      "day": 4039,
+      "trade_date": "2020-06-25",
+      "open_price": 1905.39849,
+      "close_price": 1855.677187,
+      "change": 0.973905037
+    },
+    {
+      "day": 4040,
+      "trade_date": "2020-06-26",
+      "open_price": 1855.677187,
+      "close_price": 1854.371821,
+      "change": 0.999296556
+    },
+    {
+      "day": 4041,
+      "trade_date": "2020-06-29",
+      "open_price": 1854.371821,
+      "close_price": 1869.913986,
+      "change": 1.008381364
+    },
+    {
+      "day": 4042,
+      "trade_date": "2020-06-30",
+      "open_price": 1869.913986,
+      "close_price": 1852.931841,
+      "change": 0.990918221
+    },
+    {
+      "day": 4043,
+      "trade_date": "2020-07-01",
+      "open_price": 1852.931841,
+      "close_price": 1850.31214,
+      "change": 0.998586186
+    },
+    {
+      "day": 4044,
+      "trade_date": "2020-07-02",
+      "open_price": 1850.31214,
+      "close_price": 1856.951825,
+      "change": 1.003588413
+    },
+    {
+      "day": 4045,
+      "trade_date": "2020-07-03",
+      "open_price": 1856.951825,
+      "close_price": 1878.539015,
+      "change": 1.011625067
+    },
+    {
+      "day": 4046,
+      "trade_date": "2020-07-06",
+      "open_price": 1878.539015,
+      "close_price": 1877.591898,
+      "change": 0.999495823
+    },
+    {
+      "day": 4047,
+      "trade_date": "2020-07-07",
+      "open_price": 1877.591898,
+      "close_price": 1868.642884,
+      "change": 0.995233781
+    },
+    {
+      "day": 4048,
+      "trade_date": "2020-07-08",
+      "open_price": 1868.642884,
+      "close_price": 1879.397798,
+      "change": 1.005755468
+    },
+    {
+      "day": 4049,
+      "trade_date": "2020-07-09",
+      "open_price": 1879.397798,
+      "close_price": 1879.315603,
+      "change": 0.999956266
+    },
+    {
+      "day": 4050,
+      "trade_date": "2020-07-10",
+      "open_price": 1879.315603,
+      "close_price": 1882.06504,
+      "change": 1.001462999
+    },
+    {
+      "day": 4051,
+      "trade_date": "2020-07-13",
+      "open_price": 1882.06504,
+      "close_price": 1863.455295,
+      "change": 0.990112061
+    },
+    {
+      "day": 4052,
+      "trade_date": "2020-07-14",
+      "open_price": 1863.455295,
+      "close_price": 1888.612548,
+      "change": 1.013500326
+    },
+    {
+      "day": 4053,
+      "trade_date": "2020-07-15",
+      "open_price": 1888.612548,
+      "close_price": 1947.068341,
+      "change": 1.030951713
+    },
+    {
+      "day": 4054,
+      "trade_date": "2020-07-16",
+      "open_price": 1947.068341,
+      "close_price": 1855.089513,
+      "change": 0.952760349
+    },
+    {
+      "day": 4055,
+      "trade_date": "2020-07-17",
+      "open_price": 1855.089513,
+      "close_price": 1854.951729,
+      "change": 0.999925726
+    },
+    {
+      "day": 4056,
+      "trade_date": "2020-07-20",
+      "open_price": 1854.951729,
+      "close_price": 1867.5876,
+      "change": 1.006811968
+    },
+    {
+      "day": 4057,
+      "trade_date": "2020-07-21",
+      "open_price": 1867.5876,
+      "close_price": 1889.647462,
+      "change": 1.011811955
+    },
+    {
+      "day": 4058,
+      "trade_date": "2020-07-22",
+      "open_price": 1889.647462,
+      "close_price": 1894.251927,
+      "change": 1.00243668
+    },
+    {
+      "day": 4059,
+      "trade_date": "2020-07-23",
+      "open_price": 1894.251927,
+      "close_price": 1881.737916,
+      "change": 0.993393692
+    },
+    {
+      "day": 4060,
+      "trade_date": "2020-07-24",
+      "open_price": 1881.737916,
+      "close_price": 1857.630925,
+      "change": 0.987188975
+    },
+    {
+      "day": 4061,
+      "trade_date": "2020-07-27",
+      "open_price": 1857.630925,
+      "close_price": 1854.608598,
+      "change": 0.998373021
+    },
+    {
+      "day": 4062,
+      "trade_date": "2020-07-28",
+      "open_price": 1854.608598,
+      "close_price": 1888.594057,
+      "change": 1.018324869
+    },
+    {
+      "day": 4063,
+      "trade_date": "2020-07-29",
+      "open_price": 1888.594057,
+      "close_price": 1891.721057,
+      "change": 1.001655729
+    },
+    {
+      "day": 4064,
+      "trade_date": "2020-07-30",
+      "open_price": 1891.721057,
+      "close_price": 1891.142368,
+      "change": 0.999694094
+    },
+    {
+      "day": 4065,
+      "trade_date": "2020-07-31",
+      "open_price": 1891.142368,
+      "close_price": 1895.176036,
+      "change": 1.002132927
+    },
+    {
+      "day": 4066,
+      "trade_date": "2020-08-03",
+      "open_price": 1895.176036,
+      "close_price": 1894.552745,
+      "change": 0.999671117
+    },
+    {
+      "day": 4067,
+      "trade_date": "2020-08-04",
+      "open_price": 1894.552745,
+      "close_price": 1850.217416,
+      "change": 0.976598525
+    },
+    {
+      "day": 4068,
+      "trade_date": "2020-08-05",
+      "open_price": 1850.217416,
+      "close_price": 1840.737197,
+      "change": 0.994876159
+    },
+    {
+      "day": 4069,
+      "trade_date": "2020-08-06",
+      "open_price": 1840.737197,
+      "close_price": 1869.805653,
+      "change": 1.015791747
+    },
+    {
+      "day": 4070,
+      "trade_date": "2020-08-07",
+      "open_price": 1869.805653,
+      "close_price": 1904.814703,
+      "change": 1.018723363
+    },
+    {
+      "day": 4071,
+      "trade_date": "2020-08-10",
+      "open_price": 1904.814703,
+      "close_price": 1904.058381,
+      "change": 0.999602942
+    },
+    {
+      "day": 4072,
+      "trade_date": "2020-08-11",
+      "open_price": 1904.058381,
+      "close_price": 1928.086071,
+      "change": 1.012619198
+    },
+    {
+      "day": 4073,
+      "trade_date": "2020-08-12",
+      "open_price": 1928.086071,
+      "close_price": 1969.678381,
+      "change": 1.021571812
+    },
+    {
+      "day": 4074,
+      "trade_date": "2020-08-13",
+      "open_price": 1969.678381,
+      "close_price": 2000.638013,
+      "change": 1.015718115
+    },
+    {
+      "day": 4075,
+      "trade_date": "2020-08-14",
+      "open_price": 2000.638013,
+      "close_price": 2011.028324,
+      "change": 1.005193499
+    },
+    {
+      "day": 4076,
+      "trade_date": "2020-08-17",
+      "open_price": 2011.028324,
+      "close_price": 2012.595154,
+      "change": 1.000779118
+    },
+    {
+      "day": 4077,
+      "trade_date": "2020-08-18",
+      "open_price": 2012.595154,
+      "close_price": 2005.985419,
+      "change": 0.996715815
+    },
+    {
+      "day": 4078,
+      "trade_date": "2020-08-19",
+      "open_price": 2005.985419,
+      "close_price": 1998.966773,
+      "change": 0.996501148
+    },
+    {
+      "day": 4079,
+      "trade_date": "2020-08-20",
+      "open_price": 1998.966773,
+      "close_price": 2007.357069,
+      "change": 1.004197316
+    },
+    {
+      "day": 4080,
+      "trade_date": "2020-08-21",
+      "open_price": 2007.357069,
+      "close_price": 2011.264155,
+      "change": 1.001946383
+    },
+    {
+      "day": 4081,
+      "trade_date": "2020-08-24",
+      "open_price": 2011.264155,
+      "close_price": 1997.209448,
+      "change": 0.993012003
+    },
+    {
+      "day": 4082,
+      "trade_date": "2020-08-25",
+      "open_price": 1997.209448,
+      "close_price": 1989.275418,
+      "change": 0.996027442
+    },
+    {
+      "day": 4083,
+      "trade_date": "2020-08-26",
+      "open_price": 1989.275418,
+      "close_price": 1980.052416,
+      "change": 0.995363637
+    },
+    {
+      "day": 4084,
+      "trade_date": "2020-08-27",
+      "open_price": 1980.052416,
+      "close_price": 1949.969187,
+      "change": 0.984806852
+    },
+    {
+      "day": 4085,
+      "trade_date": "2020-08-28",
+      "open_price": 1949.969187,
+      "close_price": 1940.182183,
+      "change": 0.994980944
+    },
+    {
+      "day": 4086,
+      "trade_date": "2020-08-31",
+      "open_price": 1940.182183,
+      "close_price": 1937.33093,
+      "change": 0.99853042
+    },
+    {
+      "day": 4087,
+      "trade_date": "2020-09-01",
+      "open_price": 1937.33093,
+      "close_price": 1875.833006,
+      "change": 0.968256366
+    },
+    {
+      "day": 4088,
+      "trade_date": "2020-09-02",
+      "open_price": 1875.833006,
+      "close_price": 1882.258376,
+      "change": 1.003425343
+    },
+    {
+      "day": 4089,
+      "trade_date": "2020-09-03",
+      "open_price": 1882.258376,
+      "close_price": 1875.719067,
+      "change": 0.996525817
+    },
+    {
+      "day": 4090,
+      "trade_date": "2020-09-04",
+      "open_price": 1875.719067,
+      "close_price": 1894.735201,
+      "change": 1.01013805
+    },
+    {
+      "day": 4091,
+      "trade_date": "2020-09-07",
+      "open_price": 1894.735201,
+      "close_price": 1903.659993,
+      "change": 1.004710311
+    },
+    {
+      "day": 4092,
+      "trade_date": "2020-09-08",
+      "open_price": 1903.659993,
+      "close_price": 1923.026475,
+      "change": 1.010173288
+    },
+    {
+      "day": 4093,
+      "trade_date": "2020-09-09",
+      "open_price": 1923.026475,
+      "close_price": 1912.39859,
+      "change": 0.994473355
+    },
+    {
+      "day": 4094,
+      "trade_date": "2020-09-10",
+      "open_price": 1912.39859,
+      "close_price": 1919.957783,
+      "change": 1.003952729
+    },
+    {
+      "day": 4095,
+      "trade_date": "2020-09-11",
+      "open_price": 1919.957783,
+      "close_price": 1925.694328,
+      "change": 1.00298785
+    },
+    {
+      "day": 4096,
+      "trade_date": "2020-09-14",
+      "open_price": 1925.694328,
+      "close_price": 1997.882156,
+      "change": 1.037486649
+    },
+    {
+      "day": 4097,
+      "trade_date": "2020-09-15",
+      "open_price": 1997.882156,
+      "close_price": 1991.877875,
+      "change": 0.996994677
+    },
+    {
+      "day": 4098,
+      "trade_date": "2020-09-16",
+      "open_price": 1991.877875,
+      "close_price": 2004.90065,
+      "change": 1.006537938
+    },
+    {
+      "day": 4099,
+      "trade_date": "2020-09-17",
+      "open_price": 2004.90065,
+      "close_price": 1935.203175,
+      "change": 0.965236444
+    },
+    {
+      "day": 4100,
+      "trade_date": "2020-09-18",
+      "open_price": 1935.203175,
+      "close_price": 1919.334237,
+      "change": 0.99179986
+    },
+    {
+      "day": 4101,
+      "trade_date": "2020-09-21",
+      "open_price": 1919.334237,
+      "close_price": 1915.953873,
+      "change": 0.998238783
+    },
+    {
+      "day": 4102,
+      "trade_date": "2020-09-22",
+      "open_price": 1915.953873,
+      "close_price": 1892.890799,
+      "change": 0.987962615
+    },
+    {
+      "day": 4103,
+      "trade_date": "2020-09-23",
+      "open_price": 1892.890799,
+      "close_price": 1916.247007,
+      "change": 1.01233891
+    },
+    {
+      "day": 4104,
+      "trade_date": "2020-09-24",
+      "open_price": 1916.247007,
+      "close_price": 1913.592274,
+      "change": 0.998614619
+    },
+    {
+      "day": 4105,
+      "trade_date": "2020-09-25",
+      "open_price": 1913.592274,
+      "close_price": 1919.718307,
+      "change": 1.003201326
+    },
+    {
+      "day": 4106,
+      "trade_date": "2020-09-28",
+      "open_price": 1919.718307,
+      "close_price": 1914.438009,
+      "change": 0.997249441
+    },
+    {
+      "day": 4107,
+      "trade_date": "2020-09-29",
+      "open_price": 1914.438009,
+      "close_price": 1915.202471,
+      "change": 1.000399314
+    },
+    {
+      "day": 4108,
+      "trade_date": "2020-09-30",
+      "open_price": 1915.202471,
+      "close_price": 1931.499889,
+      "change": 1.008509501
+    },
+    {
+      "day": 4109,
+      "trade_date": "2020-10-01",
+      "open_price": 1931.499889,
+      "close_price": 1932.605015,
+      "change": 1.00057216
+    },
+    {
+      "day": 4110,
+      "trade_date": "2020-10-02",
+      "open_price": 1932.605015,
+      "close_price": 1939.270975,
+      "change": 1.00344921
+    },
+    {
+      "day": 4111,
+      "trade_date": "2020-10-05",
+      "open_price": 1939.270975,
+      "close_price": 1940.464452,
+      "change": 1.000615425
+    },
+    {
+      "day": 4112,
+      "trade_date": "2020-10-06",
+      "open_price": 1940.464452,
+      "close_price": 1957.831386,
+      "change": 1.008949885
+    },
+    {
+      "day": 4113,
+      "trade_date": "2020-10-07",
+      "open_price": 1957.831386,
+      "close_price": 1933.632282,
+      "change": 0.987639843
+    },
+    {
+      "day": 4114,
+      "trade_date": "2020-10-08",
+      "open_price": 1933.632282,
+      "close_price": 1943.309826,
+      "change": 1.005004852
+    },
+    {
+      "day": 4115,
+      "trade_date": "2020-10-09",
+      "open_price": 1943.309826,
+      "close_price": 1969.086778,
+      "change": 1.013264458
+    },
+    {
+      "day": 4116,
+      "trade_date": "2020-10-12",
+      "open_price": 1969.086778,
+      "close_price": 1968.785771,
+      "change": 0.999847134
+    },
+    {
+      "day": 4117,
+      "trade_date": "2020-10-13",
+      "open_price": 1968.785771,
+      "close_price": 1979.367578,
+      "change": 1.005374788
+    },
+    {
+      "day": 4118,
+      "trade_date": "2020-10-14",
+      "open_price": 1979.367578,
+      "close_price": 2004.237582,
+      "change": 1.012564621
+    },
+    {
+      "day": 4119,
+      "trade_date": "2020-10-15",
+      "open_price": 2004.237582,
+      "close_price": 2038.38438,
+      "change": 1.017037301
+    },
+    {
+      "day": 4120,
+      "trade_date": "2020-10-16",
+      "open_price": 2038.38438,
+      "close_price": 2044.572128,
+      "change": 1.003035614
+    },
+    {
+      "day": 4121,
+      "trade_date": "2020-10-19",
+      "open_price": 2044.572128,
+      "close_price": 2054.561734,
+      "change": 1.004885915
+    },
+    {
+      "day": 4122,
+      "trade_date": "2020-10-20",
+      "open_price": 2054.561734,
+      "close_price": 2052.083354,
+      "change": 0.998793719
+    },
+    {
+      "day": 4123,
+      "trade_date": "2020-10-21",
+      "open_price": 2052.083354,
+      "close_price": 2016.918763,
+      "change": 0.982863956
+    },
+    {
+      "day": 4124,
+      "trade_date": "2020-10-22",
+      "open_price": 2016.918763,
+      "close_price": 1990.104925,
+      "change": 0.986705544
+    },
+    {
+      "day": 4125,
+      "trade_date": "2020-10-23",
+      "open_price": 1990.104925,
+      "close_price": 2008.753725,
+      "change": 1.009370763
+    },
+    {
+      "day": 4126,
+      "trade_date": "2020-10-26",
+      "open_price": 2008.753725,
+      "close_price": 2011.220962,
+      "change": 1.001228242
+    },
+    {
+      "day": 4127,
+      "trade_date": "2020-10-27",
+      "open_price": 2011.220962,
+      "close_price": 2051.888284,
+      "change": 1.020220216
+    },
+    {
+      "day": 4128,
+      "trade_date": "2020-10-28",
+      "open_price": 2051.888284,
+      "close_price": 2077.341,
+      "change": 1.012404533
+    },
+    {
+      "day": 4129,
+      "trade_date": "2020-10-29",
+      "open_price": 2077.341,
+      "close_price": 2069.399892,
+      "change": 0.996177273
+    },
+    {
+      "day": 4130,
+      "trade_date": "2020-10-30",
+      "open_price": 2069.399892,
+      "close_price": 2051.269688,
+      "change": 0.991238908
+    },
+    {
+      "day": 4131,
+      "trade_date": "2020-11-02",
+      "open_price": 2051.269688,
+      "close_price": 2061.356356,
+      "change": 1.00491728
+    },
+    {
+      "day": 4132,
+      "trade_date": "2020-11-03",
+      "open_price": 2061.356356,
+      "close_price": 2055.529547,
+      "change": 0.997173313
+    },
+    {
+      "day": 4133,
+      "trade_date": "2020-11-04",
+      "open_price": 2055.529547,
+      "close_price": 2053.488028,
+      "change": 0.999006816
+    },
+    {
+      "day": 4134,
+      "trade_date": "2020-11-05",
+      "open_price": 2053.488028,
+      "close_price": 2055.264701,
+      "change": 1.000865198
+    },
+    {
+      "day": 4135,
+      "trade_date": "2020-11-06",
+      "open_price": 2055.264701,
+      "close_price": 2067.581325,
+      "change": 1.005992719
+    },
+    {
+      "day": 4136,
+      "trade_date": "2020-11-09",
+      "open_price": 2067.581325,
+      "close_price": 2067.530622,
+      "change": 0.999975477
+    },
+    {
+      "day": 4137,
+      "trade_date": "2020-11-10",
+      "open_price": 2067.530622,
+      "close_price": 2076.180593,
+      "change": 1.004183721
+    },
+    {
+      "day": 4138,
+      "trade_date": "2020-11-11",
+      "open_price": 2076.180593,
+      "close_price": 2064.940004,
+      "change": 0.994585929
+    },
+    {
+      "day": 4139,
+      "trade_date": "2020-11-12",
+      "open_price": 2064.940004,
+      "close_price": 2064.991265,
+      "change": 1.000024825
+    },
+    {
+      "day": 4140,
+      "trade_date": "2020-11-13",
+      "open_price": 2064.991265,
+      "close_price": 2084.405667,
+      "change": 1.009401687
+    },
+    {
+      "day": 4141,
+      "trade_date": "2020-11-16",
+      "open_price": 2084.405667,
+      "close_price": 2077.419575,
+      "change": 0.996648401
+    },
+    {
+      "day": 4142,
+      "trade_date": "2020-11-17",
+      "open_price": 2077.419575,
+      "close_price": 2028.454296,
+      "change": 0.97642976
+    },
+    {
+      "day": 4143,
+      "trade_date": "2020-11-18",
+      "open_price": 2028.454296,
+      "close_price": 2053.130707,
+      "change": 1.01216513
+    },
+    {
+      "day": 4144,
+      "trade_date": "2020-11-19",
+      "open_price": 2053.130707,
+      "close_price": 2074.988067,
+      "change": 1.010645869
+    },
+    {
+      "day": 4145,
+      "trade_date": "2020-11-20",
+      "open_price": 2074.988067,
+      "close_price": 2087.700872,
+      "change": 1.006126688
+    },
+    {
+      "day": 4146,
+      "trade_date": "2020-11-23",
+      "open_price": 2087.700872,
+      "close_price": 2096.448199,
+      "change": 1.004189933
+    },
+    {
+      "day": 4147,
+      "trade_date": "2020-11-24",
+      "open_price": 2096.448199,
+      "close_price": 2107.721214,
+      "change": 1.005377197
+    },
+    {
+      "day": 4148,
+      "trade_date": "2020-11-25",
+      "open_price": 2107.721214,
+      "close_price": 2115.008666,
+      "change": 1.003457503
+    },
+    {
+      "day": 4149,
+      "trade_date": "2020-11-26",
+      "open_price": 2115.008666,
+      "close_price": 2128.178278,
+      "change": 1.006226741
+    },
+    {
+      "day": 4150,
+      "trade_date": "2020-11-27",
+      "open_price": 2128.178278,
+      "close_price": 2165.942399,
+      "change": 1.017744811
+    },
+    {
+      "day": 4151,
+      "trade_date": "2020-11-30",
+      "open_price": 2165.942399,
+      "close_price": 2150.336141,
+      "change": 0.992794704
+    },
+    {
+      "day": 4152,
+      "trade_date": "2020-12-01",
+      "open_price": 2150.336141,
+      "close_price": 2150.954657,
+      "change": 1.000287637
+    },
+    {
+      "day": 4153,
+      "trade_date": "2020-12-02",
+      "open_price": 2150.954657,
+      "close_price": 2165.227172,
+      "change": 1.006635433
+    },
+    {
+      "day": 4154,
+      "trade_date": "2020-12-03",
+      "open_price": 2165.227172,
+      "close_price": 2161.980317,
+      "change": 0.998500456
+    },
+    {
+      "day": 4155,
+      "trade_date": "2020-12-04",
+      "open_price": 2161.980317,
+      "close_price": 2192.798111,
+      "change": 1.014254428
+    },
+    {
+      "day": 4156,
+      "trade_date": "2020-12-07",
+      "open_price": 2192.798111,
+      "close_price": 2191.30834,
+      "change": 0.999320607
+    },
+    {
+      "day": 4157,
+      "trade_date": "2020-12-08",
+      "open_price": 2191.30834,
+      "close_price": 2210.458453,
+      "change": 1.008739123
+    },
+    {
+      "day": 4158,
+      "trade_date": "2020-12-09",
+      "open_price": 2210.458453,
+      "close_price": 2233.993861,
+      "change": 1.010647297
+    },
+    {
+      "day": 4159,
+      "trade_date": "2020-12-10",
+      "open_price": 2233.993861,
+      "close_price": 2269.592474,
+      "change": 1.015934965
+    },
+    {
+      "day": 4160,
+      "trade_date": "2020-12-11",
+      "open_price": 2269.592474,
+      "close_price": 2255.314006,
+      "change": 0.993708796
+    },
+    {
+      "day": 4161,
+      "trade_date": "2020-12-14",
+      "open_price": 2255.314006,
+      "close_price": 2259.216296,
+      "change": 1.001730265
+    },
+    {
+      "day": 4162,
+      "trade_date": "2020-12-15",
+      "open_price": 2259.216296,
+      "close_price": 2266.95778,
+      "change": 1.003426624
+    },
+    {
+      "day": 4163,
+      "trade_date": "2020-12-16",
+      "open_price": 2266.95778,
+      "close_price": 2260.27138,
+      "change": 0.997050496
+    },
+    {
+      "day": 4164,
+      "trade_date": "2020-12-17",
+      "open_price": 2260.27138,
+      "close_price": 2254.594358,
+      "change": 0.997488345
+    },
+    {
+      "day": 4165,
+      "trade_date": "2020-12-18",
+      "open_price": 2254.594358,
+      "close_price": 2254.773618,
+      "change": 1.000079509
+    },
+    {
+      "day": 4166,
+      "trade_date": "2020-12-21",
+      "open_price": 2254.773618,
+      "close_price": 2249.865132,
+      "change": 0.99782307
+    },
+    {
+      "day": 4167,
+      "trade_date": "2020-12-22",
+      "open_price": 2249.865132,
+      "close_price": 2248.003597,
+      "change": 0.999172601
+    },
+    {
+      "day": 4168,
+      "trade_date": "2020-12-23",
+      "open_price": 2248.003597,
+      "close_price": 2182.591843,
+      "change": 0.970902291
+    },
+    {
+      "day": 4169,
+      "trade_date": "2020-12-24",
+      "open_price": 2182.591843,
+      "close_price": 2173.117117,
+      "change": 0.995658956
+    },
+    {
+      "day": 4170,
+      "trade_date": "2020-12-25",
+      "open_price": 2173.117117,
+      "close_price": 2183.135836,
+      "change": 1.004610299
+    },
+    {
+      "day": 4171,
+      "trade_date": "2020-12-28",
+      "open_price": 2183.135836,
+      "close_price": 2090.22444,
+      "change": 0.957441313
+    },
+    {
+      "day": 4172,
+      "trade_date": "2020-12-29",
+      "open_price": 2090.22444,
+      "close_price": 2089.459754,
+      "change": 0.999634161
+    },
+    {
+      "day": 4173,
+      "trade_date": "2020-12-30",
+      "open_price": 2089.459754,
+      "close_price": 2098.459317,
+      "change": 1.004307124
+    },
+    {
+      "day": 4174,
+      "trade_date": "2020-12-31",
+      "open_price": 2098.459317,
+      "close_price": 2106.004452,
+      "change": 1.003595559
+    }
+  ]
+}

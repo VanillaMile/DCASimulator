@@ -1,0 +1,1846 @@
+{
+  "stock_name": "better_return_stock_short",
+  "stock_symbol": "BRS",
+  "description": "This stock has better returns than the market",
+  "avg_daily_return": 0.0008,
+  "all_time_return": 35.9637,
+  "avg_yearly_return": 0.1556,
+  "year": 2008,
+  "yearly_return": 0.3399,
+  "daily_data": [
+    {
+      "day": 782,
+      "trade_date": "2008-01-01",
+      "open_price": 240.8824879,
+      "close_price": 243.2164605,
+      "change": 1.009689258
+    },
+    {
+      "day": 783,
+      "trade_date": "2008-01-02",
+      "open_price": 243.2164605,
+      "close_price": 244.032234,
+      "change": 1.003354105
+    },
+    {
+      "day": 784,
+      "trade_date": "2008-01-03",
+      "open_price": 244.032234,
+      "close_price": 237.6445568,
+      "change": 0.973824453
+    },
+    {
+      "day": 785,
+      "trade_date": "2008-01-04",
+      "open_price": 237.6445568,
+      "close_price": 237.723526,
+      "change": 1.0003323
+    },
+    {
+      "day": 786,
+      "trade_date": "2008-01-07",
+      "open_price": 237.723526,
+      "close_price": 231.7923732,
+      "change": 0.975050207
+    },
+    {
+      "day": 787,
+      "trade_date": "2008-01-08",
+      "open_price": 231.7923732,
+      "close_price": 236.5467119,
+      "change": 1.020511196
+    },
+    {
+      "day": 788,
+      "trade_date": "2008-01-09",
+      "open_price": 236.5467119,
+      "close_price": 238.0888724,
+      "change": 1.006519476
+    },
+    {
+      "day": 789,
+      "trade_date": "2008-01-10",
+      "open_price": 238.0888724,
+      "close_price": 240.5263508,
+      "change": 1.010237683
+    },
+    {
+      "day": 790,
+      "trade_date": "2008-01-11",
+      "open_price": 240.5263508,
+      "close_price": 240.4211581,
+      "change": 0.999562656
+    },
+    {
+      "day": 791,
+      "trade_date": "2008-01-14",
+      "open_price": 240.4211581,
+      "close_price": 238.6450555,
+      "change": 0.992612536
+    },
+    {
+      "day": 792,
+      "trade_date": "2008-01-15",
+      "open_price": 238.6450555,
+      "close_price": 241.2328777,
+      "change": 1.010843812
+    },
+    {
+      "day": 793,
+      "trade_date": "2008-01-16",
+      "open_price": 241.2328777,
+      "close_price": 241.4054223,
+      "change": 1.000715261
+    },
+    {
+      "day": 794,
+      "trade_date": "2008-01-17",
+      "open_price": 241.4054223,
+      "close_price": 240.0033805,
+      "change": 0.99419217
+    },
+    {
+      "day": 795,
+      "trade_date": "2008-01-18",
+      "open_price": 240.0033805,
+      "close_price": 239.5935947,
+      "change": 0.998292583
+    },
+    {
+      "day": 796,
+      "trade_date": "2008-01-21",
+      "open_price": 239.5935947,
+      "close_price": 239.35903,
+      "change": 0.999020989
+    },
+    {
+      "day": 797,
+      "trade_date": "2008-01-22",
+      "open_price": 239.35903,
+      "close_price": 237.9084808,
+      "change": 0.99393986
+    },
+    {
+      "day": 798,
+      "trade_date": "2008-01-23",
+      "open_price": 237.9084808,
+      "close_price": 238.8022174,
+      "change": 1.00375664
+    },
+    {
+      "day": 799,
+      "trade_date": "2008-01-24",
+      "open_price": 238.8022174,
+      "close_price": 236.9711169,
+      "change": 0.992332146
+    },
+    {
+      "day": 800,
+      "trade_date": "2008-01-25",
+      "open_price": 236.9711169,
+      "close_price": 239.6615852,
+      "change": 1.01135357
+    },
+    {
+      "day": 801,
+      "trade_date": "2008-01-28",
+      "open_price": 239.6615852,
+      "close_price": 235.2501014,
+      "change": 0.981592863
+    },
+    {
+      "day": 802,
+      "trade_date": "2008-01-29",
+      "open_price": 235.2501014,
+      "close_price": 240.2731593,
+      "change": 1.02135199
+    },
+    {
+      "day": 803,
+      "trade_date": "2008-01-30",
+      "open_price": 240.2731593,
+      "close_price": 240.5997822,
+      "change": 1.001359382
+    },
+    {
+      "day": 804,
+      "trade_date": "2008-01-31",
+      "open_price": 240.5997822,
+      "close_price": 243.0456932,
+      "change": 1.01016589
+    },
+    {
+      "day": 805,
+      "trade_date": "2008-02-01",
+      "open_price": 243.0456932,
+      "close_price": 240.4748261,
+      "change": 0.989422289
+    },
+    {
+      "day": 806,
+      "trade_date": "2008-02-04",
+      "open_price": 240.4748261,
+      "close_price": 236.6279893,
+      "change": 0.984003162
+    },
+    {
+      "day": 807,
+      "trade_date": "2008-02-05",
+      "open_price": 236.6279893,
+      "close_price": 233.1921124,
+      "change": 0.985479837
+    },
+    {
+      "day": 808,
+      "trade_date": "2008-02-06",
+      "open_price": 233.1921124,
+      "close_price": 232.8554677,
+      "change": 0.998556363
+    },
+    {
+      "day": 809,
+      "trade_date": "2008-02-07",
+      "open_price": 232.8554677,
+      "close_price": 233.6242307,
+      "change": 1.00330146
+    },
+    {
+      "day": 810,
+      "trade_date": "2008-02-08",
+      "open_price": 233.6242307,
+      "close_price": 234.5671302,
+      "change": 1.004035966
+    },
+    {
+      "day": 811,
+      "trade_date": "2008-02-11",
+      "open_price": 234.5671302,
+      "close_price": 236.2084372,
+      "change": 1.006997174
+    },
+    {
+      "day": 812,
+      "trade_date": "2008-02-12",
+      "open_price": 236.2084372,
+      "close_price": 236.3038583,
+      "change": 1.00040397
+    },
+    {
+      "day": 813,
+      "trade_date": "2008-02-13",
+      "open_price": 236.3038583,
+      "close_price": 235.5241295,
+      "change": 0.996700313
+    },
+    {
+      "day": 814,
+      "trade_date": "2008-02-14",
+      "open_price": 235.5241295,
+      "close_price": 233.583893,
+      "change": 0.991762048
+    },
+    {
+      "day": 815,
+      "trade_date": "2008-02-15",
+      "open_price": 233.583893,
+      "close_price": 234.2613149,
+      "change": 1.002900122
+    },
+    {
+      "day": 816,
+      "trade_date": "2008-02-18",
+      "open_price": 234.2613149,
+      "close_price": 234.0633605,
+      "change": 0.999154985
+    },
+    {
+      "day": 817,
+      "trade_date": "2008-02-19",
+      "open_price": 234.0633605,
+      "close_price": 230.7503986,
+      "change": 0.985845876
+    },
+    {
+      "day": 818,
+      "trade_date": "2008-02-20",
+      "open_price": 230.7503986,
+      "close_price": 231.8546648,
+      "change": 1.004785544
+    },
+    {
+      "day": 819,
+      "trade_date": "2008-02-21",
+      "open_price": 231.8546648,
+      "close_price": 233.5888211,
+      "change": 1.007479497
+    },
+    {
+      "day": 820,
+      "trade_date": "2008-02-22",
+      "open_price": 233.5888211,
+      "close_price": 234.3892058,
+      "change": 1.003426468
+    },
+    {
+      "day": 821,
+      "trade_date": "2008-02-25",
+      "open_price": 234.3892058,
+      "close_price": 236.2439178,
+      "change": 1.007912958
+    },
+    {
+      "day": 822,
+      "trade_date": "2008-02-26",
+      "open_price": 236.2439178,
+      "close_price": 237.8574128,
+      "change": 1.006829784
+    },
+    {
+      "day": 823,
+      "trade_date": "2008-02-27",
+      "open_price": 237.8574128,
+      "close_price": 241.3514251,
+      "change": 1.014689524
+    },
+    {
+      "day": 824,
+      "trade_date": "2008-02-28",
+      "open_price": 241.3514251,
+      "close_price": 242.0276656,
+      "change": 1.002801892
+    },
+    {
+      "day": 825,
+      "trade_date": "2008-02-29",
+      "open_price": 242.0276656,
+      "close_price": 242.1740995,
+      "change": 1.000605029
+    },
+    {
+      "day": 826,
+      "trade_date": "2008-03-03",
+      "open_price": 242.1740995,
+      "close_price": 241.4170312,
+      "change": 0.996873868
+    },
+    {
+      "day": 827,
+      "trade_date": "2008-03-04",
+      "open_price": 241.4170312,
+      "close_price": 240.1400601,
+      "change": 0.994710518
+    },
+    {
+      "day": 828,
+      "trade_date": "2008-03-05",
+      "open_price": 240.1400601,
+      "close_price": 242.121161,
+      "change": 1.008249773
+    },
+    {
+      "day": 829,
+      "trade_date": "2008-03-06",
+      "open_price": 242.121161,
+      "close_price": 241.8652045,
+      "change": 0.998942858
+    },
+    {
+      "day": 830,
+      "trade_date": "2008-03-07",
+      "open_price": 241.8652045,
+      "close_price": 246.197026,
+      "change": 1.017910065
+    },
+    {
+      "day": 831,
+      "trade_date": "2008-03-10",
+      "open_price": 246.197026,
+      "close_price": 245.1143055,
+      "change": 0.995602219
+    },
+    {
+      "day": 832,
+      "trade_date": "2008-03-11",
+      "open_price": 245.1143055,
+      "close_price": 246.5538502,
+      "change": 1.005872953
+    },
+    {
+      "day": 833,
+      "trade_date": "2008-03-12",
+      "open_price": 246.5538502,
+      "close_price": 243.8694175,
+      "change": 0.989112185
+    },
+    {
+      "day": 834,
+      "trade_date": "2008-03-13",
+      "open_price": 243.8694175,
+      "close_price": 245.1800092,
+      "change": 1.005374153
+    },
+    {
+      "day": 835,
+      "trade_date": "2008-03-14",
+      "open_price": 245.1800092,
+      "close_price": 245.091906,
+      "change": 0.999640659
+    },
+    {
+      "day": 836,
+      "trade_date": "2008-03-17",
+      "open_price": 245.091906,
+      "close_price": 244.8343604,
+      "change": 0.998949188
+    },
+    {
+      "day": 837,
+      "trade_date": "2008-03-18",
+      "open_price": 244.8343604,
+      "close_price": 250.7793996,
+      "change": 1.024281883
+    },
+    {
+      "day": 838,
+      "trade_date": "2008-03-19",
+      "open_price": 250.7793996,
+      "close_price": 253.4952743,
+      "change": 1.010829736
+    },
+    {
+      "day": 839,
+      "trade_date": "2008-03-20",
+      "open_price": 253.4952743,
+      "close_price": 256.7418844,
+      "change": 1.012807379
+    },
+    {
+      "day": 840,
+      "trade_date": "2008-03-21",
+      "open_price": 256.7418844,
+      "close_price": 255.1995722,
+      "change": 0.993992752
+    },
+    {
+      "day": 841,
+      "trade_date": "2008-03-24",
+      "open_price": 255.1995722,
+      "close_price": 255.9201436,
+      "change": 1.00282356
+    },
+    {
+      "day": 842,
+      "trade_date": "2008-03-25",
+      "open_price": 255.9201436,
+      "close_price": 258.6949948,
+      "change": 1.010842645
+    },
+    {
+      "day": 843,
+      "trade_date": "2008-03-26",
+      "open_price": 258.6949948,
+      "close_price": 260.0613545,
+      "change": 1.00528174
+    },
+    {
+      "day": 844,
+      "trade_date": "2008-03-27",
+      "open_price": 260.0613545,
+      "close_price": 260.4167202,
+      "change": 1.001366469
+    },
+    {
+      "day": 845,
+      "trade_date": "2008-03-28",
+      "open_price": 260.4167202,
+      "close_price": 260.5778567,
+      "change": 1.000618764
+    },
+    {
+      "day": 846,
+      "trade_date": "2008-03-31",
+      "open_price": 260.5778567,
+      "close_price": 261.8864688,
+      "change": 1.005021962
+    },
+    {
+      "day": 847,
+      "trade_date": "2008-04-01",
+      "open_price": 261.8864688,
+      "close_price": 261.5365757,
+      "change": 0.998663951
+    },
+    {
+      "day": 848,
+      "trade_date": "2008-04-02",
+      "open_price": 261.5365757,
+      "close_price": 261.9661347,
+      "change": 1.001642443
+    },
+    {
+      "day": 849,
+      "trade_date": "2008-04-03",
+      "open_price": 261.9661347,
+      "close_price": 258.7808989,
+      "change": 0.98784104
+    },
+    {
+      "day": 850,
+      "trade_date": "2008-04-04",
+      "open_price": 258.7808989,
+      "close_price": 262.111147,
+      "change": 1.012868987
+    },
+    {
+      "day": 851,
+      "trade_date": "2008-04-07",
+      "open_price": 262.111147,
+      "close_price": 262.0225114,
+      "change": 0.99966184
+    },
+    {
+      "day": 852,
+      "trade_date": "2008-04-08",
+      "open_price": 262.0225114,
+      "close_price": 263.6108777,
+      "change": 1.006061946
+    },
+    {
+      "day": 853,
+      "trade_date": "2008-04-09",
+      "open_price": 263.6108777,
+      "close_price": 264.2626961,
+      "change": 1.002472654
+    },
+    {
+      "day": 854,
+      "trade_date": "2008-04-10",
+      "open_price": 264.2626961,
+      "close_price": 264.3671657,
+      "change": 1.000395325
+    },
+    {
+      "day": 855,
+      "trade_date": "2008-04-11",
+      "open_price": 264.3671657,
+      "close_price": 264.9328091,
+      "change": 1.002139613
+    },
+    {
+      "day": 856,
+      "trade_date": "2008-04-14",
+      "open_price": 264.9328091,
+      "close_price": 269.7506322,
+      "change": 1.018185075
+    },
+    {
+      "day": 857,
+      "trade_date": "2008-04-15",
+      "open_price": 269.7506322,
+      "close_price": 271.6171719,
+      "change": 1.006919501
+    },
+    {
+      "day": 858,
+      "trade_date": "2008-04-16",
+      "open_price": 271.6171719,
+      "close_price": 273.8648498,
+      "change": 1.008275169
+    },
+    {
+      "day": 859,
+      "trade_date": "2008-04-17",
+      "open_price": 273.8648498,
+      "close_price": 275.0446063,
+      "change": 1.004307805
+    },
+    {
+      "day": 860,
+      "trade_date": "2008-04-18",
+      "open_price": 275.0446063,
+      "close_price": 276.0668079,
+      "change": 1.003716494
+    },
+    {
+      "day": 861,
+      "trade_date": "2008-04-21",
+      "open_price": 276.0668079,
+      "close_price": 276.4810629,
+      "change": 1.00150056
+    },
+    {
+      "day": 862,
+      "trade_date": "2008-04-22",
+      "open_price": 276.4810629,
+      "close_price": 276.1323088,
+      "change": 0.998738597
+    },
+    {
+      "day": 863,
+      "trade_date": "2008-04-23",
+      "open_price": 276.1323088,
+      "close_price": 275.9406061,
+      "change": 0.999305758
+    },
+    {
+      "day": 864,
+      "trade_date": "2008-04-24",
+      "open_price": 275.9406061,
+      "close_price": 275.1815352,
+      "change": 0.997249151
+    },
+    {
+      "day": 865,
+      "trade_date": "2008-04-25",
+      "open_price": 275.1815352,
+      "close_price": 275.9846347,
+      "change": 1.002918435
+    },
+    {
+      "day": 866,
+      "trade_date": "2008-04-28",
+      "open_price": 275.9846347,
+      "close_price": 277.503882,
+      "change": 1.005504826
+    },
+    {
+      "day": 867,
+      "trade_date": "2008-04-29",
+      "open_price": 277.503882,
+      "close_price": 277.5364083,
+      "change": 1.00011721
+    },
+    {
+      "day": 868,
+      "trade_date": "2008-04-30",
+      "open_price": 277.5364083,
+      "close_price": 279.2406595,
+      "change": 1.00614064
+    },
+    {
+      "day": 869,
+      "trade_date": "2008-05-01",
+      "open_price": 279.2406595,
+      "close_price": 275.3627523,
+      "change": 0.98611267
+    },
+    {
+      "day": 870,
+      "trade_date": "2008-05-02",
+      "open_price": 275.3627523,
+      "close_price": 287.6895738,
+      "change": 1.044765755
+    },
+    {
+      "day": 871,
+      "trade_date": "2008-05-05",
+      "open_price": 287.6895738,
+      "close_price": 288.4097223,
+      "change": 1.002503214
+    },
+    {
+      "day": 872,
+      "trade_date": "2008-05-06",
+      "open_price": 288.4097223,
+      "close_price": 290.0916509,
+      "change": 1.005831734
+    },
+    {
+      "day": 873,
+      "trade_date": "2008-05-07",
+      "open_price": 290.0916509,
+      "close_price": 290.5878192,
+      "change": 1.001710385
+    },
+    {
+      "day": 874,
+      "trade_date": "2008-05-08",
+      "open_price": 290.5878192,
+      "close_price": 292.890359,
+      "change": 1.007923731
+    },
+    {
+      "day": 875,
+      "trade_date": "2008-05-09",
+      "open_price": 292.890359,
+      "close_price": 293.1203946,
+      "change": 1.000785398
+    },
+    {
+      "day": 876,
+      "trade_date": "2008-05-12",
+      "open_price": 293.1203946,
+      "close_price": 291.6311028,
+      "change": 0.994919181
+    },
+    {
+      "day": 877,
+      "trade_date": "2008-05-13",
+      "open_price": 291.6311028,
+      "close_price": 293.1932295,
+      "change": 1.005356516
+    },
+    {
+      "day": 878,
+      "trade_date": "2008-05-14",
+      "open_price": 293.1932295,
+      "close_price": 293.8146022,
+      "change": 1.002119328
+    },
+    {
+      "day": 879,
+      "trade_date": "2008-05-15",
+      "open_price": 293.8146022,
+      "close_price": 293.5889532,
+      "change": 0.999232002
+    },
+    {
+      "day": 880,
+      "trade_date": "2008-05-16",
+      "open_price": 293.5889532,
+      "close_price": 294.9382785,
+      "change": 1.004595968
+    },
+    {
+      "day": 881,
+      "trade_date": "2008-05-19",
+      "open_price": 294.9382785,
+      "close_price": 297.4181038,
+      "change": 1.008407946
+    },
+    {
+      "day": 882,
+      "trade_date": "2008-05-20",
+      "open_price": 297.4181038,
+      "close_price": 300.2939264,
+      "change": 1.009669293
+    },
+    {
+      "day": 883,
+      "trade_date": "2008-05-21",
+      "open_price": 300.2939264,
+      "close_price": 292.7912286,
+      "change": 0.975015486
+    },
+    {
+      "day": 884,
+      "trade_date": "2008-05-22",
+      "open_price": 292.7912286,
+      "close_price": 294.4647383,
+      "change": 1.00571571
+    },
+    {
+      "day": 885,
+      "trade_date": "2008-05-23",
+      "open_price": 294.4647383,
+      "close_price": 295.1544062,
+      "change": 1.002342107
+    },
+    {
+      "day": 886,
+      "trade_date": "2008-05-26",
+      "open_price": 295.1544062,
+      "close_price": 294.8410999,
+      "change": 0.9989385
+    },
+    {
+      "day": 887,
+      "trade_date": "2008-05-27",
+      "open_price": 294.8410999,
+      "close_price": 299.9769854,
+      "change": 1.017419164
+    },
+    {
+      "day": 888,
+      "trade_date": "2008-05-28",
+      "open_price": 299.9769854,
+      "close_price": 299.499785,
+      "change": 0.99840921
+    },
+    {
+      "day": 889,
+      "trade_date": "2008-05-29",
+      "open_price": 299.499785,
+      "close_price": 293.7033141,
+      "change": 0.98064616
+    },
+    {
+      "day": 890,
+      "trade_date": "2008-05-30",
+      "open_price": 293.7033141,
+      "close_price": 292.6046282,
+      "change": 0.996259198
+    },
+    {
+      "day": 891,
+      "trade_date": "2008-06-02",
+      "open_price": 292.6046282,
+      "close_price": 291.8259363,
+      "change": 0.997338758
+    },
+    {
+      "day": 892,
+      "trade_date": "2008-06-03",
+      "open_price": 291.8259363,
+      "close_price": 292.0012807,
+      "change": 1.000600853
+    },
+    {
+      "day": 893,
+      "trade_date": "2008-06-04",
+      "open_price": 292.0012807,
+      "close_price": 295.3625292,
+      "change": 1.011511075
+    },
+    {
+      "day": 894,
+      "trade_date": "2008-06-05",
+      "open_price": 295.3625292,
+      "close_price": 294.1286076,
+      "change": 0.995822349
+    },
+    {
+      "day": 895,
+      "trade_date": "2008-06-06",
+      "open_price": 294.1286076,
+      "close_price": 295.7822496,
+      "change": 1.005622174
+    },
+    {
+      "day": 896,
+      "trade_date": "2008-06-09",
+      "open_price": 295.7822496,
+      "close_price": 296.8220339,
+      "change": 1.003515371
+    },
+    {
+      "day": 897,
+      "trade_date": "2008-06-10",
+      "open_price": 296.8220339,
+      "close_price": 297.2956078,
+      "change": 1.001595481
+    },
+    {
+      "day": 898,
+      "trade_date": "2008-06-11",
+      "open_price": 297.2956078,
+      "close_price": 296.2110077,
+      "change": 0.996351779
+    },
+    {
+      "day": 899,
+      "trade_date": "2008-06-12",
+      "open_price": 296.2110077,
+      "close_price": 296.6719857,
+      "change": 1.001556249
+    },
+    {
+      "day": 900,
+      "trade_date": "2008-06-13",
+      "open_price": 296.6719857,
+      "close_price": 307.5356416,
+      "change": 1.036618409
+    },
+    {
+      "day": 901,
+      "trade_date": "2008-06-16",
+      "open_price": 307.5356416,
+      "close_price": 322.8301476,
+      "change": 1.049732466
+    },
+    {
+      "day": 902,
+      "trade_date": "2008-06-17",
+      "open_price": 322.8301476,
+      "close_price": 317.6910871,
+      "change": 0.984081225
+    },
+    {
+      "day": 903,
+      "trade_date": "2008-06-18",
+      "open_price": 317.6910871,
+      "close_price": 316.1426109,
+      "change": 0.995125843
+    },
+    {
+      "day": 904,
+      "trade_date": "2008-06-19",
+      "open_price": 316.1426109,
+      "close_price": 316.8729489,
+      "change": 1.002310154
+    },
+    {
+      "day": 905,
+      "trade_date": "2008-06-20",
+      "open_price": 316.8729489,
+      "close_price": 316.5827998,
+      "change": 0.999084336
+    },
+    {
+      "day": 906,
+      "trade_date": "2008-06-23",
+      "open_price": 316.5827998,
+      "close_price": 317.2501378,
+      "change": 1.002107941
+    },
+    {
+      "day": 907,
+      "trade_date": "2008-06-24",
+      "open_price": 317.2501378,
+      "close_price": 316.4157572,
+      "change": 0.99736996
+    },
+    {
+      "day": 908,
+      "trade_date": "2008-06-25",
+      "open_price": 316.4157572,
+      "close_price": 318.6775056,
+      "change": 1.007148027
+    },
+    {
+      "day": 909,
+      "trade_date": "2008-06-26",
+      "open_price": 318.6775056,
+      "close_price": 318.5738148,
+      "change": 0.999674622
+    },
+    {
+      "day": 910,
+      "trade_date": "2008-06-27",
+      "open_price": 318.5738148,
+      "close_price": 320.1340778,
+      "change": 1.00489765
+    },
+    {
+      "day": 911,
+      "trade_date": "2008-06-30",
+      "open_price": 320.1340778,
+      "close_price": 322.7075167,
+      "change": 1.008038629
+    },
+    {
+      "day": 912,
+      "trade_date": "2008-07-01",
+      "open_price": 322.7075167,
+      "close_price": 318.3044364,
+      "change": 0.986355817
+    },
+    {
+      "day": 913,
+      "trade_date": "2008-07-02",
+      "open_price": 318.3044364,
+      "close_price": 318.4043989,
+      "change": 1.000314047
+    },
+    {
+      "day": 914,
+      "trade_date": "2008-07-03",
+      "open_price": 318.4043989,
+      "close_price": 319.6442725,
+      "change": 1.003894022
+    },
+    {
+      "day": 915,
+      "trade_date": "2008-07-04",
+      "open_price": 319.6442725,
+      "close_price": 317.1380461,
+      "change": 0.992159326
+    },
+    {
+      "day": 916,
+      "trade_date": "2008-07-07",
+      "open_price": 317.1380461,
+      "close_price": 317.4325122,
+      "change": 1.000928511
+    },
+    {
+      "day": 917,
+      "trade_date": "2008-07-08",
+      "open_price": 317.4325122,
+      "close_price": 312.8171622,
+      "change": 0.985460374
+    },
+    {
+      "day": 918,
+      "trade_date": "2008-07-09",
+      "open_price": 312.8171622,
+      "close_price": 319.0295069,
+      "change": 1.019859348
+    },
+    {
+      "day": 919,
+      "trade_date": "2008-07-10",
+      "open_price": 319.0295069,
+      "close_price": 307.3764084,
+      "change": 0.963473289
+    },
+    {
+      "day": 920,
+      "trade_date": "2008-07-11",
+      "open_price": 307.3764084,
+      "close_price": 307.6848971,
+      "change": 1.001003619
+    },
+    {
+      "day": 921,
+      "trade_date": "2008-07-14",
+      "open_price": 307.6848971,
+      "close_price": 309.3007464,
+      "change": 1.005251637
+    },
+    {
+      "day": 922,
+      "trade_date": "2008-07-15",
+      "open_price": 309.3007464,
+      "close_price": 308.3581043,
+      "change": 0.996952345
+    },
+    {
+      "day": 923,
+      "trade_date": "2008-07-16",
+      "open_price": 308.3581043,
+      "close_price": 309.4078833,
+      "change": 1.003404415
+    },
+    {
+      "day": 924,
+      "trade_date": "2008-07-17",
+      "open_price": 309.4078833,
+      "close_price": 305.4719125,
+      "change": 0.987279022
+    },
+    {
+      "day": 925,
+      "trade_date": "2008-07-18",
+      "open_price": 305.4719125,
+      "close_price": 303.2140455,
+      "change": 0.992608594
+    },
+    {
+      "day": 926,
+      "trade_date": "2008-07-21",
+      "open_price": 303.2140455,
+      "close_price": 303.026218,
+      "change": 0.999380545
+    },
+    {
+      "day": 927,
+      "trade_date": "2008-07-22",
+      "open_price": 303.026218,
+      "close_price": 310.9980399,
+      "change": 1.026307367
+    },
+    {
+      "day": 928,
+      "trade_date": "2008-07-23",
+      "open_price": 310.9980399,
+      "close_price": 317.1491108,
+      "change": 1.019778488
+    },
+    {
+      "day": 929,
+      "trade_date": "2008-07-24",
+      "open_price": 317.1491108,
+      "close_price": 315.4154959,
+      "change": 0.994533754
+    },
+    {
+      "day": 930,
+      "trade_date": "2008-07-25",
+      "open_price": 315.4154959,
+      "close_price": 322.0026324,
+      "change": 1.020883997
+    },
+    {
+      "day": 931,
+      "trade_date": "2008-07-28",
+      "open_price": 322.0026324,
+      "close_price": 341.1524372,
+      "change": 1.059470957
+    },
+    {
+      "day": 932,
+      "trade_date": "2008-07-29",
+      "open_price": 341.1524372,
+      "close_price": 339.140738,
+      "change": 0.994103225
+    },
+    {
+      "day": 933,
+      "trade_date": "2008-07-30",
+      "open_price": 339.140738,
+      "close_price": 337.7549878,
+      "change": 0.995913938
+    },
+    {
+      "day": 934,
+      "trade_date": "2008-07-31",
+      "open_price": 337.7549878,
+      "close_price": 341.0825754,
+      "change": 1.009852075
+    },
+    {
+      "day": 935,
+      "trade_date": "2008-08-01",
+      "open_price": 341.0825754,
+      "close_price": 325.7927078,
+      "change": 0.955172534
+    },
+    {
+      "day": 936,
+      "trade_date": "2008-08-04",
+      "open_price": 325.7927078,
+      "close_price": 327.5657041,
+      "change": 1.0054421
+    },
+    {
+      "day": 937,
+      "trade_date": "2008-08-05",
+      "open_price": 327.5657041,
+      "close_price": 329.8017188,
+      "change": 1.006826156
+    },
+    {
+      "day": 938,
+      "trade_date": "2008-08-06",
+      "open_price": 329.8017188,
+      "close_price": 330.9698835,
+      "change": 1.003542021
+    },
+    {
+      "day": 939,
+      "trade_date": "2008-08-07",
+      "open_price": 330.9698835,
+      "close_price": 331.6910191,
+      "change": 1.002178856
+    },
+    {
+      "day": 940,
+      "trade_date": "2008-08-08",
+      "open_price": 331.6910191,
+      "close_price": 325.9426646,
+      "change": 0.98266955
+    },
+    {
+      "day": 941,
+      "trade_date": "2008-08-11",
+      "open_price": 325.9426646,
+      "close_price": 322.5817372,
+      "change": 0.989688593
+    },
+    {
+      "day": 942,
+      "trade_date": "2008-08-12",
+      "open_price": 322.5817372,
+      "close_price": 324.885818,
+      "change": 1.007142626
+    },
+    {
+      "day": 943,
+      "trade_date": "2008-08-13",
+      "open_price": 324.885818,
+      "close_price": 324.7472564,
+      "change": 0.999573507
+    },
+    {
+      "day": 944,
+      "trade_date": "2008-08-14",
+      "open_price": 324.7472564,
+      "close_price": 324.3724611,
+      "change": 0.998845886
+    },
+    {
+      "day": 945,
+      "trade_date": "2008-08-15",
+      "open_price": 324.3724611,
+      "close_price": 326.2913388,
+      "change": 1.005915661
+    },
+    {
+      "day": 946,
+      "trade_date": "2008-08-18",
+      "open_price": 326.2913388,
+      "close_price": 329.5819566,
+      "change": 1.010084907
+    },
+    {
+      "day": 947,
+      "trade_date": "2008-08-19",
+      "open_price": 329.5819566,
+      "close_price": 330.9883337,
+      "change": 1.004267154
+    },
+    {
+      "day": 948,
+      "trade_date": "2008-08-20",
+      "open_price": 330.9883337,
+      "close_price": 327.2562087,
+      "change": 0.988724301
+    },
+    {
+      "day": 949,
+      "trade_date": "2008-08-21",
+      "open_price": 327.2562087,
+      "close_price": 328.4460222,
+      "change": 1.003635725
+    },
+    {
+      "day": 950,
+      "trade_date": "2008-08-22",
+      "open_price": 328.4460222,
+      "close_price": 328.123111,
+      "change": 0.999016851
+    },
+    {
+      "day": 951,
+      "trade_date": "2008-08-25",
+      "open_price": 328.123111,
+      "close_price": 327.3226678,
+      "change": 0.99756054
+    },
+    {
+      "day": 952,
+      "trade_date": "2008-08-26",
+      "open_price": 327.3226678,
+      "close_price": 314.8549257,
+      "change": 0.961909934
+    },
+    {
+      "day": 953,
+      "trade_date": "2008-08-27",
+      "open_price": 314.8549257,
+      "close_price": 311.9137085,
+      "change": 0.9906585
+    },
+    {
+      "day": 954,
+      "trade_date": "2008-08-28",
+      "open_price": 311.9137085,
+      "close_price": 310.7442856,
+      "change": 0.996250813
+    },
+    {
+      "day": 955,
+      "trade_date": "2008-08-29",
+      "open_price": 310.7442856,
+      "close_price": 311.2351313,
+      "change": 1.001579581
+    },
+    {
+      "day": 956,
+      "trade_date": "2008-09-01",
+      "open_price": 311.2351313,
+      "close_price": 315.94726,
+      "change": 1.015140092
+    },
+    {
+      "day": 957,
+      "trade_date": "2008-09-02",
+      "open_price": 315.94726,
+      "close_price": 315.2204347,
+      "change": 0.997699536
+    },
+    {
+      "day": 958,
+      "trade_date": "2008-09-03",
+      "open_price": 315.2204347,
+      "close_price": 313.3302729,
+      "change": 0.994003682
+    },
+    {
+      "day": 959,
+      "trade_date": "2008-09-04",
+      "open_price": 313.3302729,
+      "close_price": 315.2348881,
+      "change": 1.006078619
+    },
+    {
+      "day": 960,
+      "trade_date": "2008-09-05",
+      "open_price": 315.2348881,
+      "close_price": 317.2634944,
+      "change": 1.006435222
+    },
+    {
+      "day": 961,
+      "trade_date": "2008-09-08",
+      "open_price": 317.2634944,
+      "close_price": 315.6922432,
+      "change": 0.995047488
+    },
+    {
+      "day": 962,
+      "trade_date": "2008-09-09",
+      "open_price": 315.6922432,
+      "close_price": 315.293991,
+      "change": 0.99873848
+    },
+    {
+      "day": 963,
+      "trade_date": "2008-09-10",
+      "open_price": 315.293991,
+      "close_price": 315.9424293,
+      "change": 1.002056615
+    },
+    {
+      "day": 964,
+      "trade_date": "2008-09-11",
+      "open_price": 315.9424293,
+      "close_price": 317.0926609,
+      "change": 1.003640637
+    },
+    {
+      "day": 965,
+      "trade_date": "2008-09-12",
+      "open_price": 317.0926609,
+      "close_price": 317.5912253,
+      "change": 1.001572299
+    },
+    {
+      "day": 966,
+      "trade_date": "2008-09-15",
+      "open_price": 317.5912253,
+      "close_price": 313.9959055,
+      "change": 0.988679411
+    },
+    {
+      "day": 967,
+      "trade_date": "2008-09-16",
+      "open_price": 313.9959055,
+      "close_price": 313.6779636,
+      "change": 0.998987433
+    },
+    {
+      "day": 968,
+      "trade_date": "2008-09-17",
+      "open_price": 313.6779636,
+      "close_price": 315.2767897,
+      "change": 1.00509703
+    },
+    {
+      "day": 969,
+      "trade_date": "2008-09-18",
+      "open_price": 315.2767897,
+      "close_price": 316.0827894,
+      "change": 1.002556483
+    },
+    {
+      "day": 970,
+      "trade_date": "2008-09-19",
+      "open_price": 316.0827894,
+      "close_price": 315.339234,
+      "change": 0.997647593
+    },
+    {
+      "day": 971,
+      "trade_date": "2008-09-22",
+      "open_price": 315.339234,
+      "close_price": 311.8738616,
+      "change": 0.989010652
+    },
+    {
+      "day": 972,
+      "trade_date": "2008-09-23",
+      "open_price": 311.8738616,
+      "close_price": 312.8552221,
+      "change": 1.003146659
+    },
+    {
+      "day": 973,
+      "trade_date": "2008-09-24",
+      "open_price": 312.8552221,
+      "close_price": 316.1123341,
+      "change": 1.010410924
+    },
+    {
+      "day": 974,
+      "trade_date": "2008-09-25",
+      "open_price": 316.1123341,
+      "close_price": 318.5294261,
+      "change": 1.007646307
+    },
+    {
+      "day": 975,
+      "trade_date": "2008-09-26",
+      "open_price": 318.5294261,
+      "close_price": 316.0834828,
+      "change": 0.992321139
+    },
+    {
+      "day": 976,
+      "trade_date": "2008-09-29",
+      "open_price": 316.0834828,
+      "close_price": 314.7001068,
+      "change": 0.995623384
+    },
+    {
+      "day": 977,
+      "trade_date": "2008-09-30",
+      "open_price": 314.7001068,
+      "close_price": 325.5583504,
+      "change": 1.034503463
+    },
+    {
+      "day": 978,
+      "trade_date": "2008-10-01",
+      "open_price": 325.5583504,
+      "close_price": 328.418685,
+      "change": 1.008785935
+    },
+    {
+      "day": 979,
+      "trade_date": "2008-10-02",
+      "open_price": 328.418685,
+      "close_price": 325.9950437,
+      "change": 0.99262027
+    },
+    {
+      "day": 980,
+      "trade_date": "2008-10-03",
+      "open_price": 325.9950437,
+      "close_price": 323.9719561,
+      "change": 0.993794115
+    },
+    {
+      "day": 981,
+      "trade_date": "2008-10-06",
+      "open_price": 323.9719561,
+      "close_price": 323.8489433,
+      "change": 0.999620298
+    },
+    {
+      "day": 982,
+      "trade_date": "2008-10-07",
+      "open_price": 323.8489433,
+      "close_price": 324.0597296,
+      "change": 1.000650879
+    },
+    {
+      "day": 983,
+      "trade_date": "2008-10-08",
+      "open_price": 324.0597296,
+      "close_price": 322.3331019,
+      "change": 0.994671884
+    },
+    {
+      "day": 984,
+      "trade_date": "2008-10-09",
+      "open_price": 322.3331019,
+      "close_price": 323.0383086,
+      "change": 1.002187819
+    },
+    {
+      "day": 985,
+      "trade_date": "2008-10-10",
+      "open_price": 323.0383086,
+      "close_price": 322.5709202,
+      "change": 0.998553149
+    },
+    {
+      "day": 986,
+      "trade_date": "2008-10-13",
+      "open_price": 322.5709202,
+      "close_price": 323.3847709,
+      "change": 1.002523013
+    },
+    {
+      "day": 987,
+      "trade_date": "2008-10-14",
+      "open_price": 323.3847709,
+      "close_price": 322.2932209,
+      "change": 0.996624609
+    },
+    {
+      "day": 988,
+      "trade_date": "2008-10-15",
+      "open_price": 322.2932209,
+      "close_price": 323.7359537,
+      "change": 1.00447646
+    },
+    {
+      "day": 989,
+      "trade_date": "2008-10-16",
+      "open_price": 323.7359537,
+      "close_price": 331.8552934,
+      "change": 1.02508013
+    },
+    {
+      "day": 990,
+      "trade_date": "2008-10-17",
+      "open_price": 331.8552934,
+      "close_price": 335.8822382,
+      "change": 1.012134641
+    },
+    {
+      "day": 991,
+      "trade_date": "2008-10-20",
+      "open_price": 335.8822382,
+      "close_price": 329.5492758,
+      "change": 0.981145289
+    },
+    {
+      "day": 992,
+      "trade_date": "2008-10-21",
+      "open_price": 329.5492758,
+      "close_price": 329.4300491,
+      "change": 0.999638213
+    },
+    {
+      "day": 993,
+      "trade_date": "2008-10-22",
+      "open_price": 329.4300491,
+      "close_price": 321.7858299,
+      "change": 0.976795622
+    },
+    {
+      "day": 994,
+      "trade_date": "2008-10-23",
+      "open_price": 321.7858299,
+      "close_price": 324.76686,
+      "change": 1.009264019
+    },
+    {
+      "day": 995,
+      "trade_date": "2008-10-24",
+      "open_price": 324.76686,
+      "close_price": 322.8184768,
+      "change": 0.994000671
+    },
+    {
+      "day": 996,
+      "trade_date": "2008-10-27",
+      "open_price": 322.8184768,
+      "close_price": 323.8182811,
+      "change": 1.00309711
+    },
+    {
+      "day": 997,
+      "trade_date": "2008-10-28",
+      "open_price": 323.8182811,
+      "close_price": 326.2343851,
+      "change": 1.007461296
+    },
+    {
+      "day": 998,
+      "trade_date": "2008-10-29",
+      "open_price": 326.2343851,
+      "close_price": 332.6005856,
+      "change": 1.019514192
+    },
+    {
+      "day": 999,
+      "trade_date": "2008-10-30",
+      "open_price": 332.6005856,
+      "close_price": 333.4649344,
+      "change": 1.002598759
+    },
+    {
+      "day": 1000,
+      "trade_date": "2008-10-31",
+      "open_price": 333.4649344,
+      "close_price": 322.9975197,
+      "change": 0.968610149
+    },
+    {
+      "day": 1001,
+      "trade_date": "2008-11-03",
+      "open_price": 322.9975197,
+      "close_price": 327.9590289,
+      "change": 1.015360828
+    },
+    {
+      "day": 1002,
+      "trade_date": "2008-11-04",
+      "open_price": 327.9590289,
+      "close_price": 329.0551182,
+      "change": 1.003342153
+    },
+    {
+      "day": 1003,
+      "trade_date": "2008-11-05",
+      "open_price": 329.0551182,
+      "close_price": 325.1500197,
+      "change": 0.988132388
+    },
+    {
+      "day": 1004,
+      "trade_date": "2008-11-06",
+      "open_price": 325.1500197,
+      "close_price": 325.2809631,
+      "change": 1.000402717
+    },
+    {
+      "day": 1005,
+      "trade_date": "2008-11-07",
+      "open_price": 325.2809631,
+      "close_price": 326.9729488,
+      "change": 1.005201613
+    },
+    {
+      "day": 1006,
+      "trade_date": "2008-11-10",
+      "open_price": 326.9729488,
+      "close_price": 323.8844875,
+      "change": 0.990554383
+    },
+    {
+      "day": 1007,
+      "trade_date": "2008-11-11",
+      "open_price": 323.8844875,
+      "close_price": 327.5042407,
+      "change": 1.011176062
+    },
+    {
+      "day": 1008,
+      "trade_date": "2008-11-12",
+      "open_price": 327.5042407,
+      "close_price": 339.5560808,
+      "change": 1.036799035
+    },
+    {
+      "day": 1009,
+      "trade_date": "2008-11-13",
+      "open_price": 339.5560808,
+      "close_price": 338.6056515,
+      "change": 0.997200965
+    },
+    {
+      "day": 1010,
+      "trade_date": "2008-11-14",
+      "open_price": 338.6056515,
+      "close_price": 339.3148972,
+      "change": 1.002094607
+    },
+    {
+      "day": 1011,
+      "trade_date": "2008-11-17",
+      "open_price": 339.3148972,
+      "close_price": 336.4493813,
+      "change": 0.991554995
+    },
+    {
+      "day": 1012,
+      "trade_date": "2008-11-18",
+      "open_price": 336.4493813,
+      "close_price": 335.5904834,
+      "change": 0.99744717
+    },
+    {
+      "day": 1013,
+      "trade_date": "2008-11-19",
+      "open_price": 335.5904834,
+      "close_price": 332.9950811,
+      "change": 0.992266162
+    },
+    {
+      "day": 1014,
+      "trade_date": "2008-11-20",
+      "open_price": 332.9950811,
+      "close_price": 332.2522295,
+      "change": 0.997769181
+    },
+    {
+      "day": 1015,
+      "trade_date": "2008-11-21",
+      "open_price": 332.2522295,
+      "close_price": 334.1088522,
+      "change": 1.005587992
+    },
+    {
+      "day": 1016,
+      "trade_date": "2008-11-24",
+      "open_price": 334.1088522,
+      "close_price": 339.5097854,
+      "change": 1.01616519
+    },
+    {
+      "day": 1017,
+      "trade_date": "2008-11-25",
+      "open_price": 339.5097854,
+      "close_price": 337.9405344,
+      "change": 0.995377892
+    },
+    {
+      "day": 1018,
+      "trade_date": "2008-11-26",
+      "open_price": 337.9405344,
+      "close_price": 336.9830174,
+      "change": 0.997166611
+    },
+    {
+      "day": 1019,
+      "trade_date": "2008-11-27",
+      "open_price": 336.9830174,
+      "close_price": 334.3670708,
+      "change": 0.992237156
+    },
+    {
+      "day": 1020,
+      "trade_date": "2008-11-28",
+      "open_price": 334.3670708,
+      "close_price": 337.6724326,
+      "change": 1.009885428
+    },
+    {
+      "day": 1021,
+      "trade_date": "2008-12-01",
+      "open_price": 337.6724326,
+      "close_price": 339.0059358,
+      "change": 1.003949103
+    },
+    {
+      "day": 1022,
+      "trade_date": "2008-12-02",
+      "open_price": 339.0059358,
+      "close_price": 338.2446095,
+      "change": 0.997754239
+    },
+    {
+      "day": 1023,
+      "trade_date": "2008-12-03",
+      "open_price": 338.2446095,
+      "close_price": 338.2013621,
+      "change": 0.999872142
+    },
+    {
+      "day": 1024,
+      "trade_date": "2008-12-04",
+      "open_price": 338.2013621,
+      "close_price": 333.4403268,
+      "change": 0.985922483
+    },
+    {
+      "day": 1025,
+      "trade_date": "2008-12-05",
+      "open_price": 333.4403268,
+      "close_price": 334.2377619,
+      "change": 1.002391538
+    },
+    {
+      "day": 1026,
+      "trade_date": "2008-12-08",
+      "open_price": 334.2377619,
+      "close_price": 348.6143227,
+      "change": 1.043012976
+    },
+    {
+      "day": 1027,
+      "trade_date": "2008-12-09",
+      "open_price": 348.6143227,
+      "close_price": 348.5017802,
+      "change": 0.999677172
+    },
+    {
+      "day": 1028,
+      "trade_date": "2008-12-10",
+      "open_price": 348.5017802,
+      "close_price": 352.1049864,
+      "change": 1.010339133
+    },
+    {
+      "day": 1029,
+      "trade_date": "2008-12-11",
+      "open_price": 352.1049864,
+      "close_price": 349.9676441,
+      "change": 0.993929815
+    },
+    {
+      "day": 1030,
+      "trade_date": "2008-12-12",
+      "open_price": 349.9676441,
+      "close_price": 351.8373554,
+      "change": 1.005342526
+    },
+    {
+      "day": 1031,
+      "trade_date": "2008-12-15",
+      "open_price": 351.8373554,
+      "close_price": 352.9889958,
+      "change": 1.003273218
+    },
+    {
+      "day": 1032,
+      "trade_date": "2008-12-16",
+      "open_price": 352.9889958,
+      "close_price": 354.1982888,
+      "change": 1.003425866
+    },
+    {
+      "day": 1033,
+      "trade_date": "2008-12-17",
+      "open_price": 354.1982888,
+      "close_price": 355.597821,
+      "change": 1.003951267
+    },
+    {
+      "day": 1034,
+      "trade_date": "2008-12-18",
+      "open_price": 355.597821,
+      "close_price": 353.9969516,
+      "change": 0.99549809
+    },
+    {
+      "day": 1035,
+      "trade_date": "2008-12-19",
+      "open_price": 353.9969516,
+      "close_price": 359.7799437,
+      "change": 1.016336276
+    },
+    {
+      "day": 1036,
+      "trade_date": "2008-12-22",
+      "open_price": 359.7799437,
+      "close_price": 361.7721584,
+      "change": 1.005537314
+    },
+    {
+      "day": 1037,
+      "trade_date": "2008-12-23",
+      "open_price": 361.7721584,
+      "close_price": 362.368282,
+      "change": 1.001647787
+    },
+    {
+      "day": 1038,
+      "trade_date": "2008-12-24",
+      "open_price": 362.368282,
+      "close_price": 365.6289105,
+      "change": 1.008998107
+    },
+    {
+      "day": 1039,
+      "trade_date": "2008-12-25",
+      "open_price": 365.6289105,
+      "close_price": 366.0821363,
+      "change": 1.001239579
+    },
+    {
+      "day": 1040,
+      "trade_date": "2008-12-26",
+      "open_price": 366.0821363,
+      "close_price": 364.2426779,
+      "change": 0.994975285
+    },
+    {
+      "day": 1041,
+      "trade_date": "2008-12-29",
+      "open_price": 364.2426779,
+      "close_price": 364.3547301,
+      "change": 1.000307631
+    },
+    {
+      "day": 1042,
+      "trade_date": "2008-12-30",
+      "open_price": 364.3547301,
+      "close_price": 364.7696852,
+      "change": 1.001138877
+    },
+    {
+      "day": 1043,
+      "trade_date": "2008-12-31",
+      "open_price": 364.7696852,
+      "close_price": 364.9310099,
+      "change": 1.000442265
+    }
+  ]
+}

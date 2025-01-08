@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+    {% if title %}
+        <title>{{ title }}</title>
+    {% else %}
+        <title>DCA Simulator</title>
+    {% endif %}
+</head>
+<body>
+    <div>
+        <h1>Stock {{stock}} not found</h1>
+    </div>
+</body>
+</html>

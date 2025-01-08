@@ -1,0 +1,111 @@
+{
+    "stock_name": "debug_stock",
+    "stock_symbol": "DBG",
+    "description": "This is a debug stock, only for testing purpose. avg_daily_return is 20.1%. all_time_return is 112.21%. avg_yearly_return is 5%. yearly_returns is 4% in 2022 and 6% in 2023.",
+    "avg_daily_return": 0.201,
+    "all_time_return": 1.1221,
+    "avg_yearly_return": 0.05,
+    "yearly_returns": [
+        {
+            "year": 2022,
+            "return": 0.04
+        },
+        {
+            "year": 2023,
+            "return": 0.06
+        }
+    ],
+    "daily_data": [
+        {
+            "day": 1,
+            "trade_date": "2005-01-03",
+            "open_price": 100.0,
+            "close_price": 100.0,
+            "change": 1.0
+        },
+        {
+            "day": 2,
+            "trade_date": "2005-01-04",
+            "open_price": 100.0,
+            "close_price": 98.94552393,
+            "change": 0.989455239
+        },
+        {
+            "day": 3,
+            "trade_date": "2005-01-05",
+            "open_price": 98.94552393,
+            "close_price": 99.05024705,
+            "change": 1.001058392
+        },
+        {
+            "day": 4,
+            "trade_date": "2005-01-06",
+            "open_price": 99.05024705,
+            "close_price": 100.1601169,
+            "change": 1.011205119
+        },
+        {
+            "day": 5,
+            "trade_date": "2005-01-07",
+            "open_price": 100.1601169,
+            "close_price": 100.348132,
+            "change": 1.001877145
+        },
+        {
+            "day": 6,
+            "trade_date": "2005-01-10",
+            "open_price": 100.348132,
+            "close_price": 99.00407777,
+            "change": 0.986606086
+        },
+        {
+            "day": 7,
+            "trade_date": "2005-01-11",
+            "open_price": 99.00407777,
+            "close_price": 99.87711493,
+            "change": 1.008818194
+        },
+        {
+            "day": 8,
+            "trade_date": "2005-01-12",
+            "open_price": 99.87711493,
+            "close_price": 99.76896862,
+            "change": 0.998917206
+        },
+        {
+            "day": 9,
+            "trade_date": "2005-01-13",
+            "open_price": 99.76896862,
+            "close_price": 100.5976944,
+            "change": 1.008306449
+        },
+        {
+            "day": 10,
+            "trade_date": "2005-01-14",
+            "open_price": 100.5976944,
+            "close_price": 100.4933937,
+            "change": 0.998963189
+        },
+        {
+            "day": 11,
+            "trade_date": "2005-01-17",
+            "open_price": 100.4933937,
+            "close_price": 101.7275422,
+            "change": 1.012280893
+        },
+        {
+            "day": 12,
+            "trade_date": "2005-01-18",
+            "open_price": 101.7275422,
+            "close_price": 101.9854208,
+            "change": 1.002534993
+        },
+        {
+            "day": 13,
+            "trade_date": "2005-01-19",
+            "open_price": 101.9854208,
+            "close_price": 101.8923017,
+            "change": 0.999086937
+        }
+    ]
+}

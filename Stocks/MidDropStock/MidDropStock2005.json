@@ -1,0 +1,1832 @@
+{
+  "stock_name": "mid_drop_stock_short",
+  "stock_symbol": "MDS",
+  "description": "This is a stock that has a big drop in 2011 and 2013, but has a good return in the long run",
+  "avg_daily_return": 0.0003,
+  "all_time_return": 3.5537,
+  "avg_yearly_return": 0.0391,
+  "year": 2005,
+  "yearly_return": -0.0042,
+  "daily_data": [
+    {
+      "day": 1,
+      "trade_date": "2005-01-03",
+      "open_price": 100.0,
+      "close_price": 100.0,
+      "change": 1.0
+    },
+    {
+      "day": 2,
+      "trade_date": "2005-01-04",
+      "open_price": 100.0,
+      "close_price": 98.94552393,
+      "change": 0.989455239
+    },
+    {
+      "day": 3,
+      "trade_date": "2005-01-05",
+      "open_price": 98.94552393,
+      "close_price": 99.05024705,
+      "change": 1.001058392
+    },
+    {
+      "day": 4,
+      "trade_date": "2005-01-06",
+      "open_price": 99.05024705,
+      "close_price": 100.1601169,
+      "change": 1.011205119
+    },
+    {
+      "day": 5,
+      "trade_date": "2005-01-07",
+      "open_price": 100.1601169,
+      "close_price": 100.348132,
+      "change": 1.001877145
+    },
+    {
+      "day": 6,
+      "trade_date": "2005-01-10",
+      "open_price": 100.348132,
+      "close_price": 99.00407777,
+      "change": 0.986606086
+    },
+    {
+      "day": 7,
+      "trade_date": "2005-01-11",
+      "open_price": 99.00407777,
+      "close_price": 99.87711493,
+      "change": 1.008818194
+    },
+    {
+      "day": 8,
+      "trade_date": "2005-01-12",
+      "open_price": 99.87711493,
+      "close_price": 99.76896862,
+      "change": 0.998917206
+    },
+    {
+      "day": 9,
+      "trade_date": "2005-01-13",
+      "open_price": 99.76896862,
+      "close_price": 100.5976944,
+      "change": 1.008306449
+    },
+    {
+      "day": 10,
+      "trade_date": "2005-01-14",
+      "open_price": 100.5976944,
+      "close_price": 100.4933937,
+      "change": 0.998963189
+    },
+    {
+      "day": 11,
+      "trade_date": "2005-01-17",
+      "open_price": 100.4933937,
+      "close_price": 101.7275422,
+      "change": 1.012280893
+    },
+    {
+      "day": 12,
+      "trade_date": "2005-01-18",
+      "open_price": 101.7275422,
+      "close_price": 101.9854208,
+      "change": 1.002534993
+    },
+    {
+      "day": 13,
+      "trade_date": "2005-01-19",
+      "open_price": 101.9854208,
+      "close_price": 101.8923017,
+      "change": 0.999086937
+    },
+    {
+      "day": 14,
+      "trade_date": "2005-01-20",
+      "open_price": 101.8923017,
+      "close_price": 100.5095272,
+      "change": 0.986429059
+    },
+    {
+      "day": 15,
+      "trade_date": "2005-01-21",
+      "open_price": 100.5095272,
+      "close_price": 100.7428265,
+      "change": 1.002321166
+    },
+    {
+      "day": 16,
+      "trade_date": "2005-01-24",
+      "open_price": 100.7428265,
+      "close_price": 96.35972578,
+      "change": 0.95649218
+    },
+    {
+      "day": 17,
+      "trade_date": "2005-01-25",
+      "open_price": 96.35972578,
+      "close_price": 96.12326334,
+      "change": 0.997546045
+    },
+    {
+      "day": 18,
+      "trade_date": "2005-01-26",
+      "open_price": 96.12326334,
+      "close_price": 97.04387021,
+      "change": 1.009577358
+    },
+    {
+      "day": 19,
+      "trade_date": "2005-01-27",
+      "open_price": 97.04387021,
+      "close_price": 100.3326962,
+      "change": 1.033890096
+    },
+    {
+      "day": 20,
+      "trade_date": "2005-01-28",
+      "open_price": 100.3326962,
+      "close_price": 99.36542217,
+      "change": 0.990359333
+    },
+    {
+      "day": 21,
+      "trade_date": "2005-01-31",
+      "open_price": 99.36542217,
+      "close_price": 99.38333912,
+      "change": 1.000180314
+    },
+    {
+      "day": 22,
+      "trade_date": "2005-02-01",
+      "open_price": 99.38333912,
+      "close_price": 99.67282531,
+      "change": 1.002912824
+    },
+    {
+      "day": 23,
+      "trade_date": "2005-02-02",
+      "open_price": 99.67282531,
+      "close_price": 99.5373263,
+      "change": 0.998640562
+    },
+    {
+      "day": 24,
+      "trade_date": "2005-02-03",
+      "open_price": 99.5373263,
+      "close_price": 100.5139707,
+      "change": 1.00981184
+    },
+    {
+      "day": 25,
+      "trade_date": "2005-02-04",
+      "open_price": 100.5139707,
+      "close_price": 106.59931,
+      "change": 1.060542224
+    },
+    {
+      "day": 26,
+      "trade_date": "2005-02-07",
+      "open_price": 106.59931,
+      "close_price": 105.8970995,
+      "change": 0.993412617
+    },
+    {
+      "day": 27,
+      "trade_date": "2005-02-08",
+      "open_price": 105.8970995,
+      "close_price": 105.4684289,
+      "change": 0.995952008
+    },
+    {
+      "day": 28,
+      "trade_date": "2005-02-09",
+      "open_price": 105.4684289,
+      "close_price": 105.6701311,
+      "change": 1.001912442
+    },
+    {
+      "day": 29,
+      "trade_date": "2005-02-10",
+      "open_price": 105.6701311,
+      "close_price": 106.6557654,
+      "change": 1.009327463
+    },
+    {
+      "day": 30,
+      "trade_date": "2005-02-11",
+      "open_price": 106.6557654,
+      "close_price": 107.3806505,
+      "change": 1.006796493
+    },
+    {
+      "day": 31,
+      "trade_date": "2005-02-14",
+      "open_price": 107.3806505,
+      "close_price": 108.9098894,
+      "change": 1.014241288
+    },
+    {
+      "day": 32,
+      "trade_date": "2005-02-15",
+      "open_price": 108.9098894,
+      "close_price": 102.6578966,
+      "change": 0.942594811
+    },
+    {
+      "day": 33,
+      "trade_date": "2005-02-16",
+      "open_price": 102.6578966,
+      "close_price": 102.7228183,
+      "change": 1.000632408
+    },
+    {
+      "day": 34,
+      "trade_date": "2005-02-17",
+      "open_price": 102.7228183,
+      "close_price": 98.80931722,
+      "change": 0.96190232
+    },
+    {
+      "day": 35,
+      "trade_date": "2005-02-18",
+      "open_price": 98.80931722,
+      "close_price": 98.32026685,
+      "change": 0.995050564
+    },
+    {
+      "day": 36,
+      "trade_date": "2005-02-21",
+      "open_price": 98.32026685,
+      "close_price": 96.45429311,
+      "change": 0.981021474
+    },
+    {
+      "day": 37,
+      "trade_date": "2005-02-22",
+      "open_price": 96.45429311,
+      "close_price": 98.82646826,
+      "change": 1.024593775
+    },
+    {
+      "day": 38,
+      "trade_date": "2005-02-23",
+      "open_price": 98.82646826,
+      "close_price": 98.36607304,
+      "change": 0.995341377
+    },
+    {
+      "day": 39,
+      "trade_date": "2005-02-24",
+      "open_price": 98.36607304,
+      "close_price": 98.8695415,
+      "change": 1.005118314
+    },
+    {
+      "day": 40,
+      "trade_date": "2005-02-25",
+      "open_price": 98.8695415,
+      "close_price": 98.98266324,
+      "change": 1.001144151
+    },
+    {
+      "day": 41,
+      "trade_date": "2005-02-28",
+      "open_price": 98.98266324,
+      "close_price": 99.03752951,
+      "change": 1.000554302
+    },
+    {
+      "day": 42,
+      "trade_date": "2005-03-01",
+      "open_price": 99.03752951,
+      "close_price": 101.4226161,
+      "change": 1.024082654
+    },
+    {
+      "day": 43,
+      "trade_date": "2005-03-02",
+      "open_price": 101.4226161,
+      "close_price": 102.3801827,
+      "change": 1.009441353
+    },
+    {
+      "day": 44,
+      "trade_date": "2005-03-03",
+      "open_price": 102.3801827,
+      "close_price": 102.9809547,
+      "change": 1.005868049
+    },
+    {
+      "day": 45,
+      "trade_date": "2005-03-04",
+      "open_price": 102.9809547,
+      "close_price": 102.241317,
+      "change": 0.992817724
+    },
+    {
+      "day": 46,
+      "trade_date": "2005-03-07",
+      "open_price": 102.241317,
+      "close_price": 102.2446017,
+      "change": 1.000032127
+    },
+    {
+      "day": 47,
+      "trade_date": "2005-03-08",
+      "open_price": 102.2446017,
+      "close_price": 102.5932334,
+      "change": 1.003409781
+    },
+    {
+      "day": 48,
+      "trade_date": "2005-03-09",
+      "open_price": 102.5932334,
+      "close_price": 103.6421475,
+      "change": 1.010224009
+    },
+    {
+      "day": 49,
+      "trade_date": "2005-03-10",
+      "open_price": 103.6421475,
+      "close_price": 104.9017257,
+      "change": 1.012153146
+    },
+    {
+      "day": 50,
+      "trade_date": "2005-03-11",
+      "open_price": 104.9017257,
+      "close_price": 105.2111537,
+      "change": 1.002949694
+    },
+    {
+      "day": 51,
+      "trade_date": "2005-03-14",
+      "open_price": 105.2111537,
+      "close_price": 105.0287611,
+      "change": 0.998266414
+    },
+    {
+      "day": 52,
+      "trade_date": "2005-03-15",
+      "open_price": 105.0287611,
+      "close_price": 104.5574836,
+      "change": 0.995512872
+    },
+    {
+      "day": 53,
+      "trade_date": "2005-03-16",
+      "open_price": 104.5574836,
+      "close_price": 104.8154414,
+      "change": 1.002467138
+    },
+    {
+      "day": 54,
+      "trade_date": "2005-03-17",
+      "open_price": 104.8154414,
+      "close_price": 104.4912961,
+      "change": 0.996907467
+    },
+    {
+      "day": 55,
+      "trade_date": "2005-03-18",
+      "open_price": 104.4912961,
+      "close_price": 104.0499976,
+      "change": 0.995776696
+    },
+    {
+      "day": 56,
+      "trade_date": "2005-03-21",
+      "open_price": 104.0499976,
+      "close_price": 104.0963792,
+      "change": 1.000445763
+    },
+    {
+      "day": 57,
+      "trade_date": "2005-03-22",
+      "open_price": 104.0963792,
+      "close_price": 104.0584677,
+      "change": 0.999635804
+    },
+    {
+      "day": 58,
+      "trade_date": "2005-03-23",
+      "open_price": 104.0584677,
+      "close_price": 105.0166927,
+      "change": 1.009208525
+    },
+    {
+      "day": 59,
+      "trade_date": "2005-03-24",
+      "open_price": 105.0166927,
+      "close_price": 104.7948049,
+      "change": 0.997887118
+    },
+    {
+      "day": 60,
+      "trade_date": "2005-03-25",
+      "open_price": 104.7948049,
+      "close_price": 104.9982135,
+      "change": 1.001941019
+    },
+    {
+      "day": 61,
+      "trade_date": "2005-03-28",
+      "open_price": 104.9982135,
+      "close_price": 104.6745125,
+      "change": 0.99691708
+    },
+    {
+      "day": 62,
+      "trade_date": "2005-03-29",
+      "open_price": 104.6745125,
+      "close_price": 105.7548422,
+      "change": 1.010320848
+    },
+    {
+      "day": 63,
+      "trade_date": "2005-03-30",
+      "open_price": 105.7548422,
+      "close_price": 106.986741,
+      "change": 1.011648628
+    },
+    {
+      "day": 64,
+      "trade_date": "2005-03-31",
+      "open_price": 106.986741,
+      "close_price": 106.3537938,
+      "change": 0.994083872
+    },
+    {
+      "day": 65,
+      "trade_date": "2005-04-01",
+      "open_price": 106.3537938,
+      "close_price": 106.5631565,
+      "change": 1.00196855
+    },
+    {
+      "day": 66,
+      "trade_date": "2005-04-04",
+      "open_price": 106.5631565,
+      "close_price": 105.7173016,
+      "change": 0.992062407
+    },
+    {
+      "day": 67,
+      "trade_date": "2005-04-05",
+      "open_price": 105.7173016,
+      "close_price": 106.8660107,
+      "change": 1.010865857
+    },
+    {
+      "day": 68,
+      "trade_date": "2005-04-06",
+      "open_price": 106.8660107,
+      "close_price": 106.4890254,
+      "change": 0.996472356
+    },
+    {
+      "day": 69,
+      "trade_date": "2005-04-07",
+      "open_price": 106.4890254,
+      "close_price": 107.2871738,
+      "change": 1.007495124
+    },
+    {
+      "day": 70,
+      "trade_date": "2005-04-08",
+      "open_price": 107.2871738,
+      "close_price": 106.6798465,
+      "change": 0.994339237
+    },
+    {
+      "day": 71,
+      "trade_date": "2005-04-11",
+      "open_price": 106.6798465,
+      "close_price": 107.5385973,
+      "change": 1.008049794
+    },
+    {
+      "day": 72,
+      "trade_date": "2005-04-12",
+      "open_price": 107.5385973,
+      "close_price": 108.1417549,
+      "change": 1.005608754
+    },
+    {
+      "day": 73,
+      "trade_date": "2005-04-13",
+      "open_price": 108.1417549,
+      "close_price": 108.0352195,
+      "change": 0.999014855
+    },
+    {
+      "day": 74,
+      "trade_date": "2005-04-14",
+      "open_price": 108.0352195,
+      "close_price": 108.2095658,
+      "change": 1.001613791
+    },
+    {
+      "day": 75,
+      "trade_date": "2005-04-15",
+      "open_price": 108.2095658,
+      "close_price": 109.0174535,
+      "change": 1.007465955
+    },
+    {
+      "day": 76,
+      "trade_date": "2005-04-18",
+      "open_price": 109.0174535,
+      "close_price": 109.7678178,
+      "change": 1.006882974
+    },
+    {
+      "day": 77,
+      "trade_date": "2005-04-19",
+      "open_price": 109.7678178,
+      "close_price": 105.7537826,
+      "change": 0.963431584
+    },
+    {
+      "day": 78,
+      "trade_date": "2005-04-20",
+      "open_price": 105.7537826,
+      "close_price": 106.2273699,
+      "change": 1.004478207
+    },
+    {
+      "day": 79,
+      "trade_date": "2005-04-21",
+      "open_price": 106.2273699,
+      "close_price": 106.0883946,
+      "change": 0.998691718
+    },
+    {
+      "day": 80,
+      "trade_date": "2005-04-22",
+      "open_price": 106.0883946,
+      "close_price": 103.5540736,
+      "change": 0.976111233
+    },
+    {
+      "day": 81,
+      "trade_date": "2005-04-25",
+      "open_price": 103.5540736,
+      "close_price": 104.2741913,
+      "change": 1.006954026
+    },
+    {
+      "day": 82,
+      "trade_date": "2005-04-26",
+      "open_price": 104.2741913,
+      "close_price": 104.1659304,
+      "change": 0.998961767
+    },
+    {
+      "day": 83,
+      "trade_date": "2005-04-27",
+      "open_price": 104.1659304,
+      "close_price": 104.6235878,
+      "change": 1.004393542
+    },
+    {
+      "day": 84,
+      "trade_date": "2005-04-28",
+      "open_price": 104.6235878,
+      "close_price": 105.0540363,
+      "change": 1.004114259
+    },
+    {
+      "day": 85,
+      "trade_date": "2005-04-29",
+      "open_price": 105.0540363,
+      "close_price": 105.0395102,
+      "change": 0.999861727
+    },
+    {
+      "day": 86,
+      "trade_date": "2005-05-02",
+      "open_price": 105.0395102,
+      "close_price": 104.8893184,
+      "change": 0.99857014
+    },
+    {
+      "day": 87,
+      "trade_date": "2005-05-03",
+      "open_price": 104.8893184,
+      "close_price": 104.4212032,
+      "change": 0.995537056
+    },
+    {
+      "day": 88,
+      "trade_date": "2005-05-04",
+      "open_price": 104.4212032,
+      "close_price": 100.9109283,
+      "change": 0.966383505
+    },
+    {
+      "day": 89,
+      "trade_date": "2005-05-05",
+      "open_price": 100.9109283,
+      "close_price": 100.5069806,
+      "change": 0.995996988
+    },
+    {
+      "day": 90,
+      "trade_date": "2005-05-06",
+      "open_price": 100.5069806,
+      "close_price": 100.9635878,
+      "change": 1.00454304
+    },
+    {
+      "day": 91,
+      "trade_date": "2005-05-09",
+      "open_price": 100.9635878,
+      "close_price": 100.7785187,
+      "change": 0.998166972
+    },
+    {
+      "day": 92,
+      "trade_date": "2005-05-10",
+      "open_price": 100.7785187,
+      "close_price": 101.1228171,
+      "change": 1.003416386
+    },
+    {
+      "day": 93,
+      "trade_date": "2005-05-11",
+      "open_price": 101.1228171,
+      "close_price": 101.6782506,
+      "change": 1.005492663
+    },
+    {
+      "day": 94,
+      "trade_date": "2005-05-12",
+      "open_price": 101.6782506,
+      "close_price": 102.350394,
+      "change": 1.006610493
+    },
+    {
+      "day": 95,
+      "trade_date": "2005-05-13",
+      "open_price": 102.350394,
+      "close_price": 100.5950019,
+      "change": 0.98284919
+    },
+    {
+      "day": 96,
+      "trade_date": "2005-05-16",
+      "open_price": 100.5950019,
+      "close_price": 101.3576986,
+      "change": 1.007581855
+    },
+    {
+      "day": 97,
+      "trade_date": "2005-05-17",
+      "open_price": 101.3576986,
+      "close_price": 101.7779757,
+      "change": 1.004146474
+    },
+    {
+      "day": 98,
+      "trade_date": "2005-05-18",
+      "open_price": 101.7779757,
+      "close_price": 101.1051818,
+      "change": 0.993389592
+    },
+    {
+      "day": 99,
+      "trade_date": "2005-05-19",
+      "open_price": 101.1051818,
+      "close_price": 100.3144554,
+      "change": 0.99217917
+    },
+    {
+      "day": 100,
+      "trade_date": "2005-05-20",
+      "open_price": 100.3144554,
+      "close_price": 97.2247118,
+      "change": 0.969199418
+    },
+    {
+      "day": 101,
+      "trade_date": "2005-05-23",
+      "open_price": 97.2247118,
+      "close_price": 96.69964385,
+      "change": 0.994599439
+    },
+    {
+      "day": 102,
+      "trade_date": "2005-05-24",
+      "open_price": 96.69964385,
+      "close_price": 97.23650868,
+      "change": 1.00555188
+    },
+    {
+      "day": 103,
+      "trade_date": "2005-05-25",
+      "open_price": 97.23650868,
+      "close_price": 97.65763352,
+      "change": 1.004330933
+    },
+    {
+      "day": 104,
+      "trade_date": "2005-05-26",
+      "open_price": 97.65763352,
+      "close_price": 99.66467523,
+      "change": 1.020551816
+    },
+    {
+      "day": 105,
+      "trade_date": "2005-05-27",
+      "open_price": 99.66467523,
+      "close_price": 100.4986728,
+      "change": 1.008368035
+    },
+    {
+      "day": 106,
+      "trade_date": "2005-05-30",
+      "open_price": 100.4986728,
+      "close_price": 100.6662917,
+      "change": 1.001667872
+    },
+    {
+      "day": 107,
+      "trade_date": "2005-05-31",
+      "open_price": 100.6662917,
+      "close_price": 99.1929095,
+      "change": 0.985363698
+    },
+    {
+      "day": 108,
+      "trade_date": "2005-06-01",
+      "open_price": 99.1929095,
+      "close_price": 100.6757452,
+      "change": 1.014949009
+    },
+    {
+      "day": 109,
+      "trade_date": "2005-06-02",
+      "open_price": 100.6757452,
+      "close_price": 100.6061857,
+      "change": 0.999309074
+    },
+    {
+      "day": 110,
+      "trade_date": "2005-06-03",
+      "open_price": 100.6061857,
+      "close_price": 99.43838375,
+      "change": 0.988392344
+    },
+    {
+      "day": 111,
+      "trade_date": "2005-06-06",
+      "open_price": 99.43838375,
+      "close_price": 100.8219733,
+      "change": 1.013914039
+    },
+    {
+      "day": 112,
+      "trade_date": "2005-06-07",
+      "open_price": 100.8219733,
+      "close_price": 99.63091972,
+      "change": 0.988186568
+    },
+    {
+      "day": 113,
+      "trade_date": "2005-06-08",
+      "open_price": 99.63091972,
+      "close_price": 99.82830954,
+      "change": 1.00198121
+    },
+    {
+      "day": 114,
+      "trade_date": "2005-06-09",
+      "open_price": 99.82830954,
+      "close_price": 100.3269488,
+      "change": 1.004994968
+    },
+    {
+      "day": 115,
+      "trade_date": "2005-06-10",
+      "open_price": 100.3269488,
+      "close_price": 99.87478724,
+      "change": 0.99549312
+    },
+    {
+      "day": 116,
+      "trade_date": "2005-06-13",
+      "open_price": 99.87478724,
+      "close_price": 101.5273867,
+      "change": 1.016546713
+    },
+    {
+      "day": 117,
+      "trade_date": "2005-06-14",
+      "open_price": 101.5273867,
+      "close_price": 101.8743949,
+      "change": 1.003417878
+    },
+    {
+      "day": 118,
+      "trade_date": "2005-06-15",
+      "open_price": 101.8743949,
+      "close_price": 104.1142727,
+      "change": 1.021986662
+    },
+    {
+      "day": 119,
+      "trade_date": "2005-06-16",
+      "open_price": 104.1142727,
+      "close_price": 104.2235029,
+      "change": 1.001049137
+    },
+    {
+      "day": 120,
+      "trade_date": "2005-06-17",
+      "open_price": 104.2235029,
+      "close_price": 101.5691639,
+      "change": 0.974532241
+    },
+    {
+      "day": 121,
+      "trade_date": "2005-06-20",
+      "open_price": 101.5691639,
+      "close_price": 101.1397293,
+      "change": 0.995771999
+    },
+    {
+      "day": 122,
+      "trade_date": "2005-06-21",
+      "open_price": 101.1397293,
+      "close_price": 101.481537,
+      "change": 1.003379559
+    },
+    {
+      "day": 123,
+      "trade_date": "2005-06-22",
+      "open_price": 101.481537,
+      "close_price": 99.92040213,
+      "change": 0.984616562
+    },
+    {
+      "day": 124,
+      "trade_date": "2005-06-23",
+      "open_price": 99.92040213,
+      "close_price": 101.3292845,
+      "change": 1.014100047
+    },
+    {
+      "day": 125,
+      "trade_date": "2005-06-24",
+      "open_price": 101.3292845,
+      "close_price": 101.2084787,
+      "change": 0.99880779
+    },
+    {
+      "day": 126,
+      "trade_date": "2005-06-27",
+      "open_price": 101.2084787,
+      "close_price": 100.7495374,
+      "change": 0.995465387
+    },
+    {
+      "day": 127,
+      "trade_date": "2005-06-28",
+      "open_price": 100.7495374,
+      "close_price": 101.4346365,
+      "change": 1.006800023
+    },
+    {
+      "day": 128,
+      "trade_date": "2005-06-29",
+      "open_price": 101.4346365,
+      "close_price": 100.8144206,
+      "change": 0.993885561
+    },
+    {
+      "day": 129,
+      "trade_date": "2005-06-30",
+      "open_price": 100.8144206,
+      "close_price": 102.5342192,
+      "change": 1.017059054
+    },
+    {
+      "day": 130,
+      "trade_date": "2005-07-01",
+      "open_price": 102.5342192,
+      "close_price": 103.0926997,
+      "change": 1.005446771
+    },
+    {
+      "day": 131,
+      "trade_date": "2005-07-04",
+      "open_price": 103.0926997,
+      "close_price": 104.9392748,
+      "change": 1.017911793
+    },
+    {
+      "day": 132,
+      "trade_date": "2005-07-05",
+      "open_price": 104.9392748,
+      "close_price": 105.7338566,
+      "change": 1.007571825
+    },
+    {
+      "day": 133,
+      "trade_date": "2005-07-06",
+      "open_price": 105.7338566,
+      "close_price": 103.8745284,
+      "change": 0.982415016
+    },
+    {
+      "day": 134,
+      "trade_date": "2005-07-07",
+      "open_price": 103.8745284,
+      "close_price": 103.4954155,
+      "change": 0.99635028
+    },
+    {
+      "day": 135,
+      "trade_date": "2005-07-08",
+      "open_price": 103.4954155,
+      "close_price": 104.1925874,
+      "change": 1.006736259
+    },
+    {
+      "day": 136,
+      "trade_date": "2005-07-11",
+      "open_price": 104.1925874,
+      "close_price": 104.2438148,
+      "change": 1.000491661
+    },
+    {
+      "day": 137,
+      "trade_date": "2005-07-12",
+      "open_price": 104.2438148,
+      "close_price": 102.2399269,
+      "change": 0.980776913
+    },
+    {
+      "day": 138,
+      "trade_date": "2005-07-13",
+      "open_price": 102.2399269,
+      "close_price": 103.3565899,
+      "change": 1.010921986
+    },
+    {
+      "day": 139,
+      "trade_date": "2005-07-14",
+      "open_price": 103.3565899,
+      "close_price": 104.7333247,
+      "change": 1.013320242
+    },
+    {
+      "day": 140,
+      "trade_date": "2005-07-15",
+      "open_price": 104.7333247,
+      "close_price": 106.4367497,
+      "change": 1.016264403
+    },
+    {
+      "day": 141,
+      "trade_date": "2005-07-18",
+      "open_price": 106.4367497,
+      "close_price": 107.6692536,
+      "change": 1.011579683
+    },
+    {
+      "day": 142,
+      "trade_date": "2005-07-19",
+      "open_price": 107.6692536,
+      "close_price": 107.6492535,
+      "change": 0.999814245
+    },
+    {
+      "day": 143,
+      "trade_date": "2005-07-20",
+      "open_price": 107.6492535,
+      "close_price": 109.2370383,
+      "change": 1.014749614
+    },
+    {
+      "day": 144,
+      "trade_date": "2005-07-21",
+      "open_price": 109.2370383,
+      "close_price": 109.651322,
+      "change": 1.00379252
+    },
+    {
+      "day": 145,
+      "trade_date": "2005-07-22",
+      "open_price": 109.651322,
+      "close_price": 109.2805438,
+      "change": 0.996618571
+    },
+    {
+      "day": 146,
+      "trade_date": "2005-07-25",
+      "open_price": 109.2805438,
+      "close_price": 109.2221221,
+      "change": 0.999465397
+    },
+    {
+      "day": 147,
+      "trade_date": "2005-07-26",
+      "open_price": 109.2221221,
+      "close_price": 108.9735025,
+      "change": 0.997723725
+    },
+    {
+      "day": 148,
+      "trade_date": "2005-07-27",
+      "open_price": 108.9735025,
+      "close_price": 108.7847509,
+      "change": 0.998267912
+    },
+    {
+      "day": 149,
+      "trade_date": "2005-07-28",
+      "open_price": 108.7847509,
+      "close_price": 108.8911325,
+      "change": 1.000977909
+    },
+    {
+      "day": 150,
+      "trade_date": "2005-07-29",
+      "open_price": 108.8911325,
+      "close_price": 109.0251888,
+      "change": 1.001231104
+    },
+    {
+      "day": 151,
+      "trade_date": "2005-08-01",
+      "open_price": 109.0251888,
+      "close_price": 108.8733406,
+      "change": 0.998607219
+    },
+    {
+      "day": 152,
+      "trade_date": "2005-08-02",
+      "open_price": 108.8733406,
+      "close_price": 108.8013156,
+      "change": 0.999338452
+    },
+    {
+      "day": 153,
+      "trade_date": "2005-08-03",
+      "open_price": 108.8013156,
+      "close_price": 108.9425114,
+      "change": 1.001297739
+    },
+    {
+      "day": 154,
+      "trade_date": "2005-08-04",
+      "open_price": 108.9425114,
+      "close_price": 107.7590657,
+      "change": 0.989136971
+    },
+    {
+      "day": 155,
+      "trade_date": "2005-08-05",
+      "open_price": 107.7590657,
+      "close_price": 109.1419712,
+      "change": 1.012833311
+    },
+    {
+      "day": 156,
+      "trade_date": "2005-08-08",
+      "open_price": 109.1419712,
+      "close_price": 108.3635281,
+      "change": 0.992867609
+    },
+    {
+      "day": 157,
+      "trade_date": "2005-08-09",
+      "open_price": 108.3635281,
+      "close_price": 108.9654819,
+      "change": 1.005554949
+    },
+    {
+      "day": 158,
+      "trade_date": "2005-08-10",
+      "open_price": 108.9654819,
+      "close_price": 108.2152418,
+      "change": 0.993114882
+    },
+    {
+      "day": 159,
+      "trade_date": "2005-08-11",
+      "open_price": 108.2152418,
+      "close_price": 108.3126462,
+      "change": 1.000900099
+    },
+    {
+      "day": 160,
+      "trade_date": "2005-08-12",
+      "open_price": 108.3126462,
+      "close_price": 110.7665164,
+      "change": 1.022655436
+    },
+    {
+      "day": 161,
+      "trade_date": "2005-08-15",
+      "open_price": 110.7665164,
+      "close_price": 111.4060014,
+      "change": 1.005773269
+    },
+    {
+      "day": 162,
+      "trade_date": "2005-08-16",
+      "open_price": 111.4060014,
+      "close_price": 110.0543528,
+      "change": 0.987867364
+    },
+    {
+      "day": 163,
+      "trade_date": "2005-08-17",
+      "open_price": 110.0543528,
+      "close_price": 109.0038267,
+      "change": 0.990454479
+    },
+    {
+      "day": 164,
+      "trade_date": "2005-08-18",
+      "open_price": 109.0038267,
+      "close_price": 109.537437,
+      "change": 1.004895335
+    },
+    {
+      "day": 165,
+      "trade_date": "2005-08-19",
+      "open_price": 109.537437,
+      "close_price": 108.7209512,
+      "change": 0.992546057
+    },
+    {
+      "day": 166,
+      "trade_date": "2005-08-22",
+      "open_price": 108.7209512,
+      "close_price": 108.5454952,
+      "change": 0.998386181
+    },
+    {
+      "day": 167,
+      "trade_date": "2005-08-23",
+      "open_price": 108.5454952,
+      "close_price": 110.3228391,
+      "change": 1.016374184
+    },
+    {
+      "day": 168,
+      "trade_date": "2005-08-24",
+      "open_price": 110.3228391,
+      "close_price": 110.8561641,
+      "change": 1.004834221
+    },
+    {
+      "day": 169,
+      "trade_date": "2005-08-25",
+      "open_price": 110.8561641,
+      "close_price": 110.3487526,
+      "change": 0.995422794
+    },
+    {
+      "day": 170,
+      "trade_date": "2005-08-26",
+      "open_price": 110.3487526,
+      "close_price": 110.6292043,
+      "change": 1.002541503
+    },
+    {
+      "day": 171,
+      "trade_date": "2005-08-29",
+      "open_price": 110.6292043,
+      "close_price": 110.4292755,
+      "change": 0.998192803
+    },
+    {
+      "day": 172,
+      "trade_date": "2005-08-30",
+      "open_price": 110.4292755,
+      "close_price": 111.121869,
+      "change": 1.006271829
+    },
+    {
+      "day": 173,
+      "trade_date": "2005-08-31",
+      "open_price": 111.121869,
+      "close_price": 111.2397196,
+      "change": 1.001060553
+    },
+    {
+      "day": 174,
+      "trade_date": "2005-09-01",
+      "open_price": 111.2397196,
+      "close_price": 111.0568288,
+      "change": 0.998355886
+    },
+    {
+      "day": 175,
+      "trade_date": "2005-09-02",
+      "open_price": 111.0568288,
+      "close_price": 109.0942717,
+      "change": 0.982328352
+    },
+    {
+      "day": 176,
+      "trade_date": "2005-09-05",
+      "open_price": 109.0942717,
+      "close_price": 110.1543938,
+      "change": 1.009717487
+    },
+    {
+      "day": 177,
+      "trade_date": "2005-09-06",
+      "open_price": 110.1543938,
+      "close_price": 109.9276389,
+      "change": 0.997941481
+    },
+    {
+      "day": 178,
+      "trade_date": "2005-09-07",
+      "open_price": 109.9276389,
+      "close_price": 109.8514526,
+      "change": 0.999306942
+    },
+    {
+      "day": 179,
+      "trade_date": "2005-09-08",
+      "open_price": 109.8514526,
+      "close_price": 106.3378581,
+      "change": 0.968015038
+    },
+    {
+      "day": 180,
+      "trade_date": "2005-09-09",
+      "open_price": 106.3378581,
+      "close_price": 105.855403,
+      "change": 0.995462998
+    },
+    {
+      "day": 181,
+      "trade_date": "2005-09-12",
+      "open_price": 105.855403,
+      "close_price": 106.0648659,
+      "change": 1.001978764
+    },
+    {
+      "day": 182,
+      "trade_date": "2005-09-13",
+      "open_price": 106.0648659,
+      "close_price": 103.8600837,
+      "change": 0.979212889
+    },
+    {
+      "day": 183,
+      "trade_date": "2005-09-14",
+      "open_price": 103.8600837,
+      "close_price": 103.1202291,
+      "change": 0.99287643
+    },
+    {
+      "day": 184,
+      "trade_date": "2005-09-15",
+      "open_price": 103.1202291,
+      "close_price": 102.9216066,
+      "change": 0.998073874
+    },
+    {
+      "day": 185,
+      "trade_date": "2005-09-16",
+      "open_price": 102.9216066,
+      "close_price": 102.604463,
+      "change": 0.996918591
+    },
+    {
+      "day": 186,
+      "trade_date": "2005-09-19",
+      "open_price": 102.604463,
+      "close_price": 102.3403337,
+      "change": 0.997425752
+    },
+    {
+      "day": 187,
+      "trade_date": "2005-09-20",
+      "open_price": 102.3403337,
+      "close_price": 102.1107884,
+      "change": 0.99775704
+    },
+    {
+      "day": 188,
+      "trade_date": "2005-09-21",
+      "open_price": 102.1107884,
+      "close_price": 105.845361,
+      "change": 1.036573732
+    },
+    {
+      "day": 189,
+      "trade_date": "2005-09-22",
+      "open_price": 105.845361,
+      "close_price": 106.8715713,
+      "change": 1.009695373
+    },
+    {
+      "day": 190,
+      "trade_date": "2005-09-23",
+      "open_price": 106.8715713,
+      "close_price": 106.9807562,
+      "change": 1.001021646
+    },
+    {
+      "day": 191,
+      "trade_date": "2005-09-26",
+      "open_price": 106.9807562,
+      "close_price": 106.0198682,
+      "change": 0.991018122
+    },
+    {
+      "day": 192,
+      "trade_date": "2005-09-27",
+      "open_price": 106.0198682,
+      "close_price": 107.3730366,
+      "change": 1.012763347
+    },
+    {
+      "day": 193,
+      "trade_date": "2005-09-28",
+      "open_price": 107.3730366,
+      "close_price": 105.5356219,
+      "change": 0.98288756
+    },
+    {
+      "day": 194,
+      "trade_date": "2005-09-29",
+      "open_price": 105.5356219,
+      "close_price": 106.5537755,
+      "change": 1.009647488
+    },
+    {
+      "day": 195,
+      "trade_date": "2005-09-30",
+      "open_price": 106.5537755,
+      "close_price": 105.1237455,
+      "change": 0.986579265
+    },
+    {
+      "day": 196,
+      "trade_date": "2005-10-03",
+      "open_price": 105.1237455,
+      "close_price": 104.5682882,
+      "change": 0.994716158
+    },
+    {
+      "day": 197,
+      "trade_date": "2005-10-04",
+      "open_price": 104.5682882,
+      "close_price": 104.6694271,
+      "change": 1.000967204
+    },
+    {
+      "day": 198,
+      "trade_date": "2005-10-05",
+      "open_price": 104.6694271,
+      "close_price": 104.8048661,
+      "change": 1.001293969
+    },
+    {
+      "day": 199,
+      "trade_date": "2005-10-06",
+      "open_price": 104.8048661,
+      "close_price": 106.0059064,
+      "change": 1.011459775
+    },
+    {
+      "day": 200,
+      "trade_date": "2005-10-07",
+      "open_price": 106.0059064,
+      "close_price": 105.3356213,
+      "change": 0.993676908
+    },
+    {
+      "day": 201,
+      "trade_date": "2005-10-10",
+      "open_price": 105.3356213,
+      "close_price": 105.6625741,
+      "change": 1.003103915
+    },
+    {
+      "day": 202,
+      "trade_date": "2005-10-11",
+      "open_price": 105.6625741,
+      "close_price": 103.8081546,
+      "change": 0.982449609
+    },
+    {
+      "day": 203,
+      "trade_date": "2005-10-12",
+      "open_price": 103.8081546,
+      "close_price": 104.4595776,
+      "change": 1.006275259
+    },
+    {
+      "day": 204,
+      "trade_date": "2005-10-13",
+      "open_price": 104.4595776,
+      "close_price": 102.53461,
+      "change": 0.981572129
+    },
+    {
+      "day": 205,
+      "trade_date": "2005-10-14",
+      "open_price": 102.53461,
+      "close_price": 102.9312946,
+      "change": 1.003868787
+    },
+    {
+      "day": 206,
+      "trade_date": "2005-10-17",
+      "open_price": 102.9312946,
+      "close_price": 102.8717867,
+      "change": 0.999421868
+    },
+    {
+      "day": 207,
+      "trade_date": "2005-10-18",
+      "open_price": 102.8717867,
+      "close_price": 103.1205967,
+      "change": 1.002418642
+    },
+    {
+      "day": 208,
+      "trade_date": "2005-10-19",
+      "open_price": 103.1205967,
+      "close_price": 102.909677,
+      "change": 0.99795463
+    },
+    {
+      "day": 209,
+      "trade_date": "2005-10-20",
+      "open_price": 102.909677,
+      "close_price": 100.9584642,
+      "change": 0.98103956
+    },
+    {
+      "day": 210,
+      "trade_date": "2005-10-21",
+      "open_price": 100.9584642,
+      "close_price": 100.9458696,
+      "change": 0.99987525
+    },
+    {
+      "day": 211,
+      "trade_date": "2005-10-24",
+      "open_price": 100.9458696,
+      "close_price": 101.4790602,
+      "change": 1.005281945
+    },
+    {
+      "day": 212,
+      "trade_date": "2005-10-25",
+      "open_price": 101.4790602,
+      "close_price": 102.2147019,
+      "change": 1.007249197
+    },
+    {
+      "day": 213,
+      "trade_date": "2005-10-26",
+      "open_price": 102.2147019,
+      "close_price": 101.2000704,
+      "change": 0.990073527
+    },
+    {
+      "day": 214,
+      "trade_date": "2005-10-27",
+      "open_price": 101.2000704,
+      "close_price": 101.7363047,
+      "change": 1.005298755
+    },
+    {
+      "day": 215,
+      "trade_date": "2005-10-28",
+      "open_price": 101.7363047,
+      "close_price": 103.1147937,
+      "change": 1.013549628
+    },
+    {
+      "day": 216,
+      "trade_date": "2005-10-31",
+      "open_price": 103.1147937,
+      "close_price": 103.4695619,
+      "change": 1.003440516
+    },
+    {
+      "day": 217,
+      "trade_date": "2005-11-01",
+      "open_price": 103.4695619,
+      "close_price": 103.2026423,
+      "change": 0.997420308
+    },
+    {
+      "day": 218,
+      "trade_date": "2005-11-02",
+      "open_price": 103.2026423,
+      "close_price": 101.0194796,
+      "change": 0.978845864
+    },
+    {
+      "day": 219,
+      "trade_date": "2005-11-03",
+      "open_price": 101.0194796,
+      "close_price": 102.6662164,
+      "change": 1.016301181
+    },
+    {
+      "day": 220,
+      "trade_date": "2005-11-04",
+      "open_price": 102.6662164,
+      "close_price": 98.88552148,
+      "change": 0.963174888
+    },
+    {
+      "day": 221,
+      "trade_date": "2005-11-07",
+      "open_price": 98.88552148,
+      "close_price": 98.83541096,
+      "change": 0.999493247
+    },
+    {
+      "day": 222,
+      "trade_date": "2005-11-08",
+      "open_price": 98.83541096,
+      "close_price": 101.34221,
+      "change": 1.02536337
+    },
+    {
+      "day": 223,
+      "trade_date": "2005-11-09",
+      "open_price": 101.34221,
+      "close_price": 101.4305311,
+      "change": 1.000871513
+    },
+    {
+      "day": 224,
+      "trade_date": "2005-11-10",
+      "open_price": 101.4305311,
+      "close_price": 101.7110226,
+      "change": 1.002765355
+    },
+    {
+      "day": 225,
+      "trade_date": "2005-11-11",
+      "open_price": 101.7110226,
+      "close_price": 102.6179341,
+      "change": 1.008916551
+    },
+    {
+      "day": 226,
+      "trade_date": "2005-11-14",
+      "open_price": 102.6179341,
+      "close_price": 102.4724525,
+      "change": 0.998582298
+    },
+    {
+      "day": 227,
+      "trade_date": "2005-11-15",
+      "open_price": 102.4724525,
+      "close_price": 97.84973083,
+      "change": 0.954888152
+    },
+    {
+      "day": 228,
+      "trade_date": "2005-11-16",
+      "open_price": 97.84973083,
+      "close_price": 98.42702044,
+      "change": 1.005899757
+    },
+    {
+      "day": 229,
+      "trade_date": "2005-11-17",
+      "open_price": 98.42702044,
+      "close_price": 99.49571546,
+      "change": 1.01085774
+    },
+    {
+      "day": 230,
+      "trade_date": "2005-11-18",
+      "open_price": 99.49571546,
+      "close_price": 99.40676374,
+      "change": 0.999105974
+    },
+    {
+      "day": 231,
+      "trade_date": "2005-11-21",
+      "open_price": 99.40676374,
+      "close_price": 97.04061417,
+      "change": 0.976197298
+    },
+    {
+      "day": 232,
+      "trade_date": "2005-11-22",
+      "open_price": 97.04061417,
+      "close_price": 97.25064349,
+      "change": 1.002164344
+    },
+    {
+      "day": 233,
+      "trade_date": "2005-11-23",
+      "open_price": 97.25064349,
+      "close_price": 97.3912173,
+      "change": 1.00144548
+    },
+    {
+      "day": 234,
+      "trade_date": "2005-11-24",
+      "open_price": 97.3912173,
+      "close_price": 97.60383538,
+      "change": 1.002183134
+    },
+    {
+      "day": 235,
+      "trade_date": "2005-11-25",
+      "open_price": 97.60383538,
+      "close_price": 96.09747137,
+      "change": 0.984566549
+    },
+    {
+      "day": 236,
+      "trade_date": "2005-11-28",
+      "open_price": 96.09747137,
+      "close_price": 96.91953334,
+      "change": 1.00855446
+    },
+    {
+      "day": 237,
+      "trade_date": "2005-11-29",
+      "open_price": 96.91953334,
+      "close_price": 96.89107979,
+      "change": 0.999706421
+    },
+    {
+      "day": 238,
+      "trade_date": "2005-11-30",
+      "open_price": 96.89107979,
+      "close_price": 97.15074541,
+      "change": 1.002679974
+    },
+    {
+      "day": 239,
+      "trade_date": "2005-12-01",
+      "open_price": 97.15074541,
+      "close_price": 98.47824657,
+      "change": 1.013664344
+    },
+    {
+      "day": 240,
+      "trade_date": "2005-12-02",
+      "open_price": 98.47824657,
+      "close_price": 98.47976693,
+      "change": 1.000015439
+    },
+    {
+      "day": 241,
+      "trade_date": "2005-12-05",
+      "open_price": 98.47976693,
+      "close_price": 98.18967541,
+      "change": 0.997054303
+    },
+    {
+      "day": 242,
+      "trade_date": "2005-12-06",
+      "open_price": 98.18967541,
+      "close_price": 98.09961313,
+      "change": 0.999082772
+    },
+    {
+      "day": 243,
+      "trade_date": "2005-12-07",
+      "open_price": 98.09961313,
+      "close_price": 98.39064484,
+      "change": 1.002966696
+    },
+    {
+      "day": 244,
+      "trade_date": "2005-12-08",
+      "open_price": 98.39064484,
+      "close_price": 98.25196651,
+      "change": 0.998590533
+    },
+    {
+      "day": 245,
+      "trade_date": "2005-12-09",
+      "open_price": 98.25196651,
+      "close_price": 98.47139606,
+      "change": 1.002233335
+    },
+    {
+      "day": 246,
+      "trade_date": "2005-12-12",
+      "open_price": 98.47139606,
+      "close_price": 99.38635132,
+      "change": 1.009291584
+    },
+    {
+      "day": 247,
+      "trade_date": "2005-12-13",
+      "open_price": 99.38635132,
+      "close_price": 100.3356975,
+      "change": 1.009552078
+    },
+    {
+      "day": 248,
+      "trade_date": "2005-12-14",
+      "open_price": 100.3356975,
+      "close_price": 100.7005795,
+      "change": 1.003636611
+    },
+    {
+      "day": 249,
+      "trade_date": "2005-12-15",
+      "open_price": 100.7005795,
+      "close_price": 100.9727245,
+      "change": 1.002702517
+    },
+    {
+      "day": 250,
+      "trade_date": "2005-12-16",
+      "open_price": 100.9727245,
+      "close_price": 98.36053355,
+      "change": 0.974129737
+    },
+    {
+      "day": 251,
+      "trade_date": "2005-12-19",
+      "open_price": 98.36053355,
+      "close_price": 99.20461041,
+      "change": 1.008581459
+    },
+    {
+      "day": 252,
+      "trade_date": "2005-12-20",
+      "open_price": 99.20461041,
+      "close_price": 99.88531536,
+      "change": 1.006861626
+    },
+    {
+      "day": 253,
+      "trade_date": "2005-12-21",
+      "open_price": 99.88531536,
+      "close_price": 98.64600094,
+      "change": 0.987592626
+    },
+    {
+      "day": 254,
+      "trade_date": "2005-12-22",
+      "open_price": 98.64600094,
+      "close_price": 98.81216003,
+      "change": 1.001684398
+    },
+    {
+      "day": 255,
+      "trade_date": "2005-12-23",
+      "open_price": 98.81216003,
+      "close_price": 98.17844669,
+      "change": 0.993586687
+    },
+    {
+      "day": 256,
+      "trade_date": "2005-12-26",
+      "open_price": 98.17844669,
+      "close_price": 97.28083921,
+      "change": 0.990857388
+    },
+    {
+      "day": 257,
+      "trade_date": "2005-12-27",
+      "open_price": 97.28083921,
+      "close_price": 97.73743025,
+      "change": 1.004693535
+    },
+    {
+      "day": 258,
+      "trade_date": "2005-12-28",
+      "open_price": 97.73743025,
+      "close_price": 97.13925847,
+      "change": 0.993879809
+    },
+    {
+      "day": 259,
+      "trade_date": "2005-12-29",
+      "open_price": 97.13925847,
+      "close_price": 98.37048881,
+      "change": 1.012674899
+    },
+    {
+      "day": 260,
+      "trade_date": "2005-12-30",
+      "open_price": 98.37048881,
+      "close_price": 98.596963,
+      "change": 1.002302257
+    }
+  ]
+}

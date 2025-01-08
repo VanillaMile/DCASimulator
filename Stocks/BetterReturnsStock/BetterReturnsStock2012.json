@@ -1,0 +1,1839 @@
+{
+  "stock_name": "better_return_stock_short",
+  "stock_symbol": "BRS",
+  "description": "This stock has better returns than the market",
+  "avg_daily_return": 0.0008,
+  "all_time_return": 35.9637,
+  "avg_yearly_return": 0.1556,
+  "year": 2012,
+  "yearly_return": -0.1892,
+  "daily_data": [
+    {
+      "day": 1826,
+      "trade_date": "2012-01-02",
+      "open_price": 652.9790562,
+      "close_price": 658.8050654,
+      "change": 1.008922199
+    },
+    {
+      "day": 1827,
+      "trade_date": "2012-01-03",
+      "open_price": 658.8050654,
+      "close_price": 657.1800288,
+      "change": 0.997533357
+    },
+    {
+      "day": 1828,
+      "trade_date": "2012-01-04",
+      "open_price": 657.1800288,
+      "close_price": 660.724203,
+      "change": 1.005393003
+    },
+    {
+      "day": 1829,
+      "trade_date": "2012-01-05",
+      "open_price": 660.724203,
+      "close_price": 654.3457439,
+      "change": 0.990346261
+    },
+    {
+      "day": 1830,
+      "trade_date": "2012-01-06",
+      "open_price": 654.3457439,
+      "close_price": 655.5724191,
+      "change": 1.001874659
+    },
+    {
+      "day": 1831,
+      "trade_date": "2012-01-09",
+      "open_price": 655.5724191,
+      "close_price": 650.9952915,
+      "change": 0.99301812
+    },
+    {
+      "day": 1832,
+      "trade_date": "2012-01-10",
+      "open_price": 650.9952915,
+      "close_price": 656.2079529,
+      "change": 1.008007218
+    },
+    {
+      "day": 1833,
+      "trade_date": "2012-01-11",
+      "open_price": 656.2079529,
+      "close_price": 658.656858,
+      "change": 1.003731904
+    },
+    {
+      "day": 1834,
+      "trade_date": "2012-01-12",
+      "open_price": 658.656858,
+      "close_price": 660.6456006,
+      "change": 1.003019391
+    },
+    {
+      "day": 1835,
+      "trade_date": "2012-01-13",
+      "open_price": 660.6456006,
+      "close_price": 662.8051098,
+      "change": 1.003268786
+    },
+    {
+      "day": 1836,
+      "trade_date": "2012-01-16",
+      "open_price": 662.8051098,
+      "close_price": 661.8110708,
+      "change": 0.998500254
+    },
+    {
+      "day": 1837,
+      "trade_date": "2012-01-17",
+      "open_price": 661.8110708,
+      "close_price": 666.065537,
+      "change": 1.006428521
+    },
+    {
+      "day": 1838,
+      "trade_date": "2012-01-18",
+      "open_price": 666.065537,
+      "close_price": 663.826268,
+      "change": 0.996638065
+    },
+    {
+      "day": 1839,
+      "trade_date": "2012-01-19",
+      "open_price": 663.826268,
+      "close_price": 658.7297977,
+      "change": 0.992322584
+    },
+    {
+      "day": 1840,
+      "trade_date": "2012-01-20",
+      "open_price": 658.7297977,
+      "close_price": 657.7533972,
+      "change": 0.998517753
+    },
+    {
+      "day": 1841,
+      "trade_date": "2012-01-23",
+      "open_price": 657.7533972,
+      "close_price": 668.2092504,
+      "change": 1.015896312
+    },
+    {
+      "day": 1842,
+      "trade_date": "2012-01-24",
+      "open_price": 668.2092504,
+      "close_price": 670.0004154,
+      "change": 1.002680545
+    },
+    {
+      "day": 1843,
+      "trade_date": "2012-01-25",
+      "open_price": 670.0004154,
+      "close_price": 660.6387471,
+      "change": 0.986027369
+    },
+    {
+      "day": 1844,
+      "trade_date": "2012-01-26",
+      "open_price": 660.6387471,
+      "close_price": 637.7494515,
+      "change": 0.965352781
+    },
+    {
+      "day": 1845,
+      "trade_date": "2012-01-27",
+      "open_price": 637.7494515,
+      "close_price": 630.8823876,
+      "change": 0.989232348
+    },
+    {
+      "day": 1846,
+      "trade_date": "2012-01-30",
+      "open_price": 630.8823876,
+      "close_price": 634.3436044,
+      "change": 1.005486311
+    },
+    {
+      "day": 1847,
+      "trade_date": "2012-01-31",
+      "open_price": 634.3436044,
+      "close_price": 635.0816706,
+      "change": 1.001163512
+    },
+    {
+      "day": 1848,
+      "trade_date": "2012-02-01",
+      "open_price": 635.0816706,
+      "close_price": 644.3915573,
+      "change": 1.014659353
+    },
+    {
+      "day": 1849,
+      "trade_date": "2012-02-02",
+      "open_price": 644.3915573,
+      "close_price": 651.4416881,
+      "change": 1.010940756
+    },
+    {
+      "day": 1850,
+      "trade_date": "2012-02-03",
+      "open_price": 651.4416881,
+      "close_price": 648.1288196,
+      "change": 0.994914559
+    },
+    {
+      "day": 1851,
+      "trade_date": "2012-02-06",
+      "open_price": 648.1288196,
+      "close_price": 649.1125351,
+      "change": 1.001517778
+    },
+    {
+      "day": 1852,
+      "trade_date": "2012-02-07",
+      "open_price": 649.1125351,
+      "close_price": 651.5078501,
+      "change": 1.003690138
+    },
+    {
+      "day": 1853,
+      "trade_date": "2012-02-08",
+      "open_price": 651.5078501,
+      "close_price": 643.0915438,
+      "change": 0.987081804
+    },
+    {
+      "day": 1854,
+      "trade_date": "2012-02-09",
+      "open_price": 643.0915438,
+      "close_price": 639.8365018,
+      "change": 0.994938447
+    },
+    {
+      "day": 1855,
+      "trade_date": "2012-02-10",
+      "open_price": 639.8365018,
+      "close_price": 639.4561857,
+      "change": 0.999405604
+    },
+    {
+      "day": 1856,
+      "trade_date": "2012-02-13",
+      "open_price": 639.4561857,
+      "close_price": 645.8707186,
+      "change": 1.010031231
+    },
+    {
+      "day": 1857,
+      "trade_date": "2012-02-14",
+      "open_price": 645.8707186,
+      "close_price": 653.0490131,
+      "change": 1.011114135
+    },
+    {
+      "day": 1858,
+      "trade_date": "2012-02-15",
+      "open_price": 653.0490131,
+      "close_price": 653.009392,
+      "change": 0.999939329
+    },
+    {
+      "day": 1859,
+      "trade_date": "2012-02-16",
+      "open_price": 653.009392,
+      "close_price": 661.4383711,
+      "change": 1.012907899
+    },
+    {
+      "day": 1860,
+      "trade_date": "2012-02-17",
+      "open_price": 661.4383711,
+      "close_price": 657.4174742,
+      "change": 0.99392098
+    },
+    {
+      "day": 1861,
+      "trade_date": "2012-02-20",
+      "open_price": 657.4174742,
+      "close_price": 661.1746634,
+      "change": 1.005715074
+    },
+    {
+      "day": 1862,
+      "trade_date": "2012-02-21",
+      "open_price": 661.1746634,
+      "close_price": 665.2053271,
+      "change": 1.006096216
+    },
+    {
+      "day": 1863,
+      "trade_date": "2012-02-22",
+      "open_price": 665.2053271,
+      "close_price": 663.0125312,
+      "change": 0.99670358
+    },
+    {
+      "day": 1864,
+      "trade_date": "2012-02-23",
+      "open_price": 663.0125312,
+      "close_price": 656.9366393,
+      "change": 0.990835932
+    },
+    {
+      "day": 1865,
+      "trade_date": "2012-02-24",
+      "open_price": 656.9366393,
+      "close_price": 627.7602691,
+      "change": 0.955587239
+    },
+    {
+      "day": 1866,
+      "trade_date": "2012-02-27",
+      "open_price": 627.7602691,
+      "close_price": 626.8906651,
+      "change": 0.998614752
+    },
+    {
+      "day": 1867,
+      "trade_date": "2012-02-28",
+      "open_price": 626.8906651,
+      "close_price": 628.600761,
+      "change": 1.002727901
+    },
+    {
+      "day": 1868,
+      "trade_date": "2012-02-29",
+      "open_price": 628.600761,
+      "close_price": 629.5837668,
+      "change": 1.0015638
+    },
+    {
+      "day": 1869,
+      "trade_date": "2012-03-01",
+      "open_price": 629.5837668,
+      "close_price": 623.704465,
+      "change": 0.990661605
+    },
+    {
+      "day": 1870,
+      "trade_date": "2012-03-02",
+      "open_price": 623.704465,
+      "close_price": 624.0012528,
+      "change": 1.000475847
+    },
+    {
+      "day": 1871,
+      "trade_date": "2012-03-05",
+      "open_price": 624.0012528,
+      "close_price": 623.2169804,
+      "change": 0.998743156
+    },
+    {
+      "day": 1872,
+      "trade_date": "2012-03-06",
+      "open_price": 623.2169804,
+      "close_price": 629.9858622,
+      "change": 1.010861196
+    },
+    {
+      "day": 1873,
+      "trade_date": "2012-03-07",
+      "open_price": 629.9858622,
+      "close_price": 616.743012,
+      "change": 0.978979131
+    },
+    {
+      "day": 1874,
+      "trade_date": "2012-03-08",
+      "open_price": 616.743012,
+      "close_price": 620.8972467,
+      "change": 1.006735763
+    },
+    {
+      "day": 1875,
+      "trade_date": "2012-03-09",
+      "open_price": 620.8972467,
+      "close_price": 620.0675318,
+      "change": 0.998663684
+    },
+    {
+      "day": 1876,
+      "trade_date": "2012-03-12",
+      "open_price": 620.0675318,
+      "close_price": 623.5988811,
+      "change": 1.005695104
+    },
+    {
+      "day": 1877,
+      "trade_date": "2012-03-13",
+      "open_price": 623.5988811,
+      "close_price": 624.8826479,
+      "change": 1.002058642
+    },
+    {
+      "day": 1878,
+      "trade_date": "2012-03-14",
+      "open_price": 624.8826479,
+      "close_price": 625.6344654,
+      "change": 1.001203134
+    },
+    {
+      "day": 1879,
+      "trade_date": "2012-03-15",
+      "open_price": 625.6344654,
+      "close_price": 625.3944405,
+      "change": 0.99961635
+    },
+    {
+      "day": 1880,
+      "trade_date": "2012-03-16",
+      "open_price": 625.3944405,
+      "close_price": 631.081771,
+      "change": 1.009093989
+    },
+    {
+      "day": 1881,
+      "trade_date": "2012-03-19",
+      "open_price": 631.081771,
+      "close_price": 632.3007784,
+      "change": 1.001931616
+    },
+    {
+      "day": 1882,
+      "trade_date": "2012-03-20",
+      "open_price": 632.3007784,
+      "close_price": 632.5790095,
+      "change": 1.00044003
+    },
+    {
+      "day": 1883,
+      "trade_date": "2012-03-21",
+      "open_price": 632.5790095,
+      "close_price": 620.7296426,
+      "change": 0.981268163
+    },
+    {
+      "day": 1884,
+      "trade_date": "2012-03-22",
+      "open_price": 620.7296426,
+      "close_price": 613.7900487,
+      "change": 0.988820264
+    },
+    {
+      "day": 1885,
+      "trade_date": "2012-03-23",
+      "open_price": 613.7900487,
+      "close_price": 615.7352995,
+      "change": 1.003169245
+    },
+    {
+      "day": 1886,
+      "trade_date": "2012-03-26",
+      "open_price": 615.7352995,
+      "close_price": 616.3821081,
+      "change": 1.001050465
+    },
+    {
+      "day": 1887,
+      "trade_date": "2012-03-27",
+      "open_price": 616.3821081,
+      "close_price": 622.53015,
+      "change": 1.0099744
+    },
+    {
+      "day": 1888,
+      "trade_date": "2012-03-28",
+      "open_price": 622.53015,
+      "close_price": 622.9554234,
+      "change": 1.000683137
+    },
+    {
+      "day": 1889,
+      "trade_date": "2012-03-29",
+      "open_price": 622.9554234,
+      "close_price": 623.8774455,
+      "change": 1.001480077
+    },
+    {
+      "day": 1890,
+      "trade_date": "2012-03-30",
+      "open_price": 623.8774455,
+      "close_price": 624.4743285,
+      "change": 1.000956731
+    },
+    {
+      "day": 1891,
+      "trade_date": "2012-04-02",
+      "open_price": 624.4743285,
+      "close_price": 632.0672463,
+      "change": 1.012158895
+    },
+    {
+      "day": 1892,
+      "trade_date": "2012-04-03",
+      "open_price": 632.0672463,
+      "close_price": 624.8740068,
+      "change": 0.988619503
+    },
+    {
+      "day": 1893,
+      "trade_date": "2012-04-04",
+      "open_price": 624.8740068,
+      "close_price": 630.3924588,
+      "change": 1.008831304
+    },
+    {
+      "day": 1894,
+      "trade_date": "2012-04-05",
+      "open_price": 630.3924588,
+      "close_price": 634.5018886,
+      "change": 1.006518844
+    },
+    {
+      "day": 1895,
+      "trade_date": "2012-04-06",
+      "open_price": 634.5018886,
+      "close_price": 641.0350292,
+      "change": 1.010296487
+    },
+    {
+      "day": 1896,
+      "trade_date": "2012-04-09",
+      "open_price": 641.0350292,
+      "close_price": 650.4140486,
+      "change": 1.014631056
+    },
+    {
+      "day": 1897,
+      "trade_date": "2012-04-10",
+      "open_price": 650.4140486,
+      "close_price": 649.9094046,
+      "change": 0.999224119
+    },
+    {
+      "day": 1898,
+      "trade_date": "2012-04-11",
+      "open_price": 649.9094046,
+      "close_price": 649.0048801,
+      "change": 0.99860823
+    },
+    {
+      "day": 1899,
+      "trade_date": "2012-04-12",
+      "open_price": 649.0048801,
+      "close_price": 647.3357253,
+      "change": 0.997428132
+    },
+    {
+      "day": 1900,
+      "trade_date": "2012-04-13",
+      "open_price": 647.3357253,
+      "close_price": 647.1375892,
+      "change": 0.999693921
+    },
+    {
+      "day": 1901,
+      "trade_date": "2012-04-16",
+      "open_price": 647.1375892,
+      "close_price": 612.885829,
+      "change": 0.947071904
+    },
+    {
+      "day": 1902,
+      "trade_date": "2012-04-17",
+      "open_price": 612.885829,
+      "close_price": 614.744058,
+      "change": 1.003031933
+    },
+    {
+      "day": 1903,
+      "trade_date": "2012-04-18",
+      "open_price": 614.744058,
+      "close_price": 614.1115728,
+      "change": 0.998971141
+    },
+    {
+      "day": 1904,
+      "trade_date": "2012-04-19",
+      "open_price": 614.1115728,
+      "close_price": 613.3350696,
+      "change": 0.998735567
+    },
+    {
+      "day": 1905,
+      "trade_date": "2012-04-20",
+      "open_price": 613.3350696,
+      "close_price": 615.1388061,
+      "change": 1.002940866
+    },
+    {
+      "day": 1906,
+      "trade_date": "2012-04-23",
+      "open_price": 615.1388061,
+      "close_price": 621.4384681,
+      "change": 1.010241041
+    },
+    {
+      "day": 1907,
+      "trade_date": "2012-04-24",
+      "open_price": 621.4384681,
+      "close_price": 617.7675387,
+      "change": 0.994092851
+    },
+    {
+      "day": 1908,
+      "trade_date": "2012-04-25",
+      "open_price": 617.7675387,
+      "close_price": 621.5618314,
+      "change": 1.006141943
+    },
+    {
+      "day": 1909,
+      "trade_date": "2012-04-26",
+      "open_price": 621.5618314,
+      "close_price": 611.2843105,
+      "change": 0.983465006
+    },
+    {
+      "day": 1910,
+      "trade_date": "2012-04-27",
+      "open_price": 611.2843105,
+      "close_price": 615.0886811,
+      "change": 1.00622357
+    },
+    {
+      "day": 1911,
+      "trade_date": "2012-04-30",
+      "open_price": 615.0886811,
+      "close_price": 618.8206817,
+      "change": 1.006067419
+    },
+    {
+      "day": 1912,
+      "trade_date": "2012-05-01",
+      "open_price": 618.8206817,
+      "close_price": 618.8549089,
+      "change": 1.00005531
+    },
+    {
+      "day": 1913,
+      "trade_date": "2012-05-02",
+      "open_price": 618.8549089,
+      "close_price": 618.4805524,
+      "change": 0.999395082
+    },
+    {
+      "day": 1914,
+      "trade_date": "2012-05-03",
+      "open_price": 618.4805524,
+      "close_price": 620.2869123,
+      "change": 1.002920641
+    },
+    {
+      "day": 1915,
+      "trade_date": "2012-05-04",
+      "open_price": 620.2869123,
+      "close_price": 632.2723539,
+      "change": 1.019322416
+    },
+    {
+      "day": 1916,
+      "trade_date": "2012-05-07",
+      "open_price": 632.2723539,
+      "close_price": 616.7518235,
+      "change": 0.975452777
+    },
+    {
+      "day": 1917,
+      "trade_date": "2012-05-08",
+      "open_price": 616.7518235,
+      "close_price": 616.9370803,
+      "change": 1.000300375
+    },
+    {
+      "day": 1918,
+      "trade_date": "2012-05-09",
+      "open_price": 616.9370803,
+      "close_price": 613.6488559,
+      "change": 0.994670081
+    },
+    {
+      "day": 1919,
+      "trade_date": "2012-05-10",
+      "open_price": 613.6488559,
+      "close_price": 612.4338601,
+      "change": 0.998020047
+    },
+    {
+      "day": 1920,
+      "trade_date": "2012-05-11",
+      "open_price": 612.4338601,
+      "close_price": 602.1461574,
+      "change": 0.983201937
+    },
+    {
+      "day": 1921,
+      "trade_date": "2012-05-14",
+      "open_price": 602.1461574,
+      "close_price": 603.7519521,
+      "change": 1.002666786
+    },
+    {
+      "day": 1922,
+      "trade_date": "2012-05-15",
+      "open_price": 603.7519521,
+      "close_price": 589.4275823,
+      "change": 0.976274412
+    },
+    {
+      "day": 1923,
+      "trade_date": "2012-05-16",
+      "open_price": 589.4275823,
+      "close_price": 585.2493928,
+      "change": 0.992911446
+    },
+    {
+      "day": 1924,
+      "trade_date": "2012-05-17",
+      "open_price": 585.2493928,
+      "close_price": 599.2650835,
+      "change": 1.023948236
+    },
+    {
+      "day": 1925,
+      "trade_date": "2012-05-18",
+      "open_price": 599.2650835,
+      "close_price": 585.1583757,
+      "change": 0.976459987
+    },
+    {
+      "day": 1926,
+      "trade_date": "2012-05-21",
+      "open_price": 585.1583757,
+      "close_price": 584.7957292,
+      "change": 0.999380259
+    },
+    {
+      "day": 1927,
+      "trade_date": "2012-05-22",
+      "open_price": 584.7957292,
+      "close_price": 589.0513661,
+      "change": 1.007277134
+    },
+    {
+      "day": 1928,
+      "trade_date": "2012-05-23",
+      "open_price": 589.0513661,
+      "close_price": 574.1805569,
+      "change": 0.974754648
+    },
+    {
+      "day": 1929,
+      "trade_date": "2012-05-24",
+      "open_price": 574.1805569,
+      "close_price": 574.1948559,
+      "change": 1.000024903
+    },
+    {
+      "day": 1930,
+      "trade_date": "2012-05-25",
+      "open_price": 574.1948559,
+      "close_price": 571.2364733,
+      "change": 0.994847772
+    },
+    {
+      "day": 1931,
+      "trade_date": "2012-05-28",
+      "open_price": 571.2364733,
+      "close_price": 570.2133325,
+      "change": 0.998208901
+    },
+    {
+      "day": 1932,
+      "trade_date": "2012-05-29",
+      "open_price": 570.2133325,
+      "close_price": 566.2113553,
+      "change": 0.992981614
+    },
+    {
+      "day": 1933,
+      "trade_date": "2012-05-30",
+      "open_price": 566.2113553,
+      "close_price": 572.8080742,
+      "change": 1.01165063
+    },
+    {
+      "day": 1934,
+      "trade_date": "2012-05-31",
+      "open_price": 572.8080742,
+      "close_price": 571.4463239,
+      "change": 0.997622676
+    },
+    {
+      "day": 1935,
+      "trade_date": "2012-06-01",
+      "open_price": 571.4463239,
+      "close_price": 574.6268351,
+      "change": 1.005565722
+    },
+    {
+      "day": 1936,
+      "trade_date": "2012-06-04",
+      "open_price": 574.6268351,
+      "close_price": 574.5942943,
+      "change": 0.999943371
+    },
+    {
+      "day": 1937,
+      "trade_date": "2012-06-05",
+      "open_price": 574.5942943,
+      "close_price": 575.6374721,
+      "change": 1.001815503
+    },
+    {
+      "day": 1938,
+      "trade_date": "2012-06-06",
+      "open_price": 575.6374721,
+      "close_price": 585.5343398,
+      "change": 1.017192883
+    },
+    {
+      "day": 1939,
+      "trade_date": "2012-06-07",
+      "open_price": 585.5343398,
+      "close_price": 583.6207817,
+      "change": 0.996731946
+    },
+    {
+      "day": 1940,
+      "trade_date": "2012-06-08",
+      "open_price": 583.6207817,
+      "close_price": 586.1383054,
+      "change": 1.004313629
+    },
+    {
+      "day": 1941,
+      "trade_date": "2012-06-11",
+      "open_price": 586.1383054,
+      "close_price": 583.0837956,
+      "change": 0.994788756
+    },
+    {
+      "day": 1942,
+      "trade_date": "2012-06-12",
+      "open_price": 583.0837956,
+      "close_price": 577.956596,
+      "change": 0.991206753
+    },
+    {
+      "day": 1943,
+      "trade_date": "2012-06-13",
+      "open_price": 577.956596,
+      "close_price": 583.3713214,
+      "change": 1.009368741
+    },
+    {
+      "day": 1944,
+      "trade_date": "2012-06-14",
+      "open_price": 583.3713214,
+      "close_price": 582.8488212,
+      "change": 0.999104344
+    },
+    {
+      "day": 1945,
+      "trade_date": "2012-06-15",
+      "open_price": 582.8488212,
+      "close_price": 580.2224017,
+      "change": 0.995493824
+    },
+    {
+      "day": 1946,
+      "trade_date": "2012-06-18",
+      "open_price": 580.2224017,
+      "close_price": 577.3541215,
+      "change": 0.995056585
+    },
+    {
+      "day": 1947,
+      "trade_date": "2012-06-19",
+      "open_price": 577.3541215,
+      "close_price": 575.1134862,
+      "change": 0.996119132
+    },
+    {
+      "day": 1948,
+      "trade_date": "2012-06-20",
+      "open_price": 575.1134862,
+      "close_price": 576.5360256,
+      "change": 1.002473493
+    },
+    {
+      "day": 1949,
+      "trade_date": "2012-06-21",
+      "open_price": 576.5360256,
+      "close_price": 583.065631,
+      "change": 1.011325581
+    },
+    {
+      "day": 1950,
+      "trade_date": "2012-06-22",
+      "open_price": 583.065631,
+      "close_price": 584.0959157,
+      "change": 1.001767013
+    },
+    {
+      "day": 1951,
+      "trade_date": "2012-06-25",
+      "open_price": 584.0959157,
+      "close_price": 596.4800568,
+      "change": 1.021202239
+    },
+    {
+      "day": 1952,
+      "trade_date": "2012-06-26",
+      "open_price": 596.4800568,
+      "close_price": 601.1917077,
+      "change": 1.007899092
+    },
+    {
+      "day": 1953,
+      "trade_date": "2012-06-27",
+      "open_price": 601.1917077,
+      "close_price": 601.5628868,
+      "change": 1.000617406
+    },
+    {
+      "day": 1954,
+      "trade_date": "2012-06-28",
+      "open_price": 601.5628868,
+      "close_price": 600.9050517,
+      "change": 0.998906457
+    },
+    {
+      "day": 1955,
+      "trade_date": "2012-06-29",
+      "open_price": 600.9050517,
+      "close_price": 607.7594992,
+      "change": 1.011406873
+    },
+    {
+      "day": 1956,
+      "trade_date": "2012-07-02",
+      "open_price": 607.7594992,
+      "close_price": 609.0440849,
+      "change": 1.002113641
+    },
+    {
+      "day": 1957,
+      "trade_date": "2012-07-03",
+      "open_price": 609.0440849,
+      "close_price": 605.2615115,
+      "change": 0.993789328
+    },
+    {
+      "day": 1958,
+      "trade_date": "2012-07-04",
+      "open_price": 605.2615115,
+      "close_price": 606.4639401,
+      "change": 1.001986626
+    },
+    {
+      "day": 1959,
+      "trade_date": "2012-07-05",
+      "open_price": 606.4639401,
+      "close_price": 612.4924605,
+      "change": 1.009940443
+    },
+    {
+      "day": 1960,
+      "trade_date": "2012-07-06",
+      "open_price": 612.4924605,
+      "close_price": 627.8697833,
+      "change": 1.025106142
+    },
+    {
+      "day": 1961,
+      "trade_date": "2012-07-09",
+      "open_price": 627.8697833,
+      "close_price": 629.6247152,
+      "change": 1.002795057
+    },
+    {
+      "day": 1962,
+      "trade_date": "2012-07-10",
+      "open_price": 629.6247152,
+      "close_price": 630.3139318,
+      "change": 1.001094647
+    },
+    {
+      "day": 1963,
+      "trade_date": "2012-07-11",
+      "open_price": 630.3139318,
+      "close_price": 635.2515401,
+      "change": 1.00783357
+    },
+    {
+      "day": 1964,
+      "trade_date": "2012-07-12",
+      "open_price": 635.2515401,
+      "close_price": 626.9496883,
+      "change": 0.986931395
+    },
+    {
+      "day": 1965,
+      "trade_date": "2012-07-13",
+      "open_price": 626.9496883,
+      "close_price": 623.9411341,
+      "change": 0.995201283
+    },
+    {
+      "day": 1966,
+      "trade_date": "2012-07-16",
+      "open_price": 623.9411341,
+      "close_price": 624.7880925,
+      "change": 1.001357433
+    },
+    {
+      "day": 1967,
+      "trade_date": "2012-07-17",
+      "open_price": 624.7880925,
+      "close_price": 624.0707793,
+      "change": 0.99885191
+    },
+    {
+      "day": 1968,
+      "trade_date": "2012-07-18",
+      "open_price": 624.0707793,
+      "close_price": 624.4459087,
+      "change": 1.000601101
+    },
+    {
+      "day": 1969,
+      "trade_date": "2012-07-19",
+      "open_price": 624.4459087,
+      "close_price": 623.1321406,
+      "change": 0.997896106
+    },
+    {
+      "day": 1970,
+      "trade_date": "2012-07-20",
+      "open_price": 623.1321406,
+      "close_price": 621.7791809,
+      "change": 0.997828776
+    },
+    {
+      "day": 1971,
+      "trade_date": "2012-07-23",
+      "open_price": 621.7791809,
+      "close_price": 622.6079223,
+      "change": 1.001332855
+    },
+    {
+      "day": 1972,
+      "trade_date": "2012-07-24",
+      "open_price": 622.6079223,
+      "close_price": 619.5307416,
+      "change": 0.995057595
+    },
+    {
+      "day": 1973,
+      "trade_date": "2012-07-25",
+      "open_price": 619.5307416,
+      "close_price": 618.7756603,
+      "change": 0.998781204
+    },
+    {
+      "day": 1974,
+      "trade_date": "2012-07-26",
+      "open_price": 618.7756603,
+      "close_price": 624.1106139,
+      "change": 1.00862179
+    },
+    {
+      "day": 1975,
+      "trade_date": "2012-07-27",
+      "open_price": 624.1106139,
+      "close_price": 625.0848279,
+      "change": 1.001560964
+    },
+    {
+      "day": 1976,
+      "trade_date": "2012-07-30",
+      "open_price": 625.0848279,
+      "close_price": 598.7132788,
+      "change": 0.957811247
+    },
+    {
+      "day": 1977,
+      "trade_date": "2012-07-31",
+      "open_price": 598.7132788,
+      "close_price": 597.1210088,
+      "change": 0.997340513
+    },
+    {
+      "day": 1978,
+      "trade_date": "2012-08-01",
+      "open_price": 597.1210088,
+      "close_price": 597.6171336,
+      "change": 1.000830861
+    },
+    {
+      "day": 1979,
+      "trade_date": "2012-08-02",
+      "open_price": 597.6171336,
+      "close_price": 601.3597802,
+      "change": 1.006262616
+    },
+    {
+      "day": 1980,
+      "trade_date": "2012-08-03",
+      "open_price": 601.3597802,
+      "close_price": 604.6748311,
+      "change": 1.005512592
+    },
+    {
+      "day": 1981,
+      "trade_date": "2012-08-06",
+      "open_price": 604.6748311,
+      "close_price": 601.7623033,
+      "change": 0.995183316
+    },
+    {
+      "day": 1982,
+      "trade_date": "2012-08-07",
+      "open_price": 601.7623033,
+      "close_price": 603.1996476,
+      "change": 1.002388558
+    },
+    {
+      "day": 1983,
+      "trade_date": "2012-08-08",
+      "open_price": 603.1996476,
+      "close_price": 605.7790457,
+      "change": 1.004276193
+    },
+    {
+      "day": 1984,
+      "trade_date": "2012-08-09",
+      "open_price": 605.7790457,
+      "close_price": 604.6384776,
+      "change": 0.998117188
+    },
+    {
+      "day": 1985,
+      "trade_date": "2012-08-10",
+      "open_price": 604.6384776,
+      "close_price": 606.4802308,
+      "change": 1.00304604
+    },
+    {
+      "day": 1986,
+      "trade_date": "2012-08-13",
+      "open_price": 606.4802308,
+      "close_price": 611.0446105,
+      "change": 1.007526016
+    },
+    {
+      "day": 1987,
+      "trade_date": "2012-08-14",
+      "open_price": 611.0446105,
+      "close_price": 610.9619691,
+      "change": 0.999864754
+    },
+    {
+      "day": 1988,
+      "trade_date": "2012-08-15",
+      "open_price": 610.9619691,
+      "close_price": 612.1644682,
+      "change": 1.001968206
+    },
+    {
+      "day": 1989,
+      "trade_date": "2012-08-16",
+      "open_price": 612.1644682,
+      "close_price": 585.0548198,
+      "change": 0.95571509
+    },
+    {
+      "day": 1990,
+      "trade_date": "2012-08-17",
+      "open_price": 585.0548198,
+      "close_price": 585.2047806,
+      "change": 1.000256319
+    },
+    {
+      "day": 1991,
+      "trade_date": "2012-08-20",
+      "open_price": 585.2047806,
+      "close_price": 586.0633706,
+      "change": 1.001467162
+    },
+    {
+      "day": 1992,
+      "trade_date": "2012-08-21",
+      "open_price": 586.0633706,
+      "close_price": 586.3441956,
+      "change": 1.000479172
+    },
+    {
+      "day": 1993,
+      "trade_date": "2012-08-22",
+      "open_price": 586.3441956,
+      "close_price": 585.9629218,
+      "change": 0.999349744
+    },
+    {
+      "day": 1994,
+      "trade_date": "2012-08-23",
+      "open_price": 585.9629218,
+      "close_price": 591.4144289,
+      "change": 1.009303502
+    },
+    {
+      "day": 1995,
+      "trade_date": "2012-08-24",
+      "open_price": 591.4144289,
+      "close_price": 602.6583592,
+      "change": 1.019011931
+    },
+    {
+      "day": 1996,
+      "trade_date": "2012-08-27",
+      "open_price": 602.6583592,
+      "close_price": 600.2952354,
+      "change": 0.996078833
+    },
+    {
+      "day": 1997,
+      "trade_date": "2012-08-28",
+      "open_price": 600.2952354,
+      "close_price": 601.5347442,
+      "change": 1.002064832
+    },
+    {
+      "day": 1998,
+      "trade_date": "2012-08-29",
+      "open_price": 601.5347442,
+      "close_price": 597.2388575,
+      "change": 0.992858456
+    },
+    {
+      "day": 1999,
+      "trade_date": "2012-08-30",
+      "open_price": 597.2388575,
+      "close_price": 601.0166553,
+      "change": 1.006325439
+    },
+    {
+      "day": 2000,
+      "trade_date": "2012-08-31",
+      "open_price": 601.0166553,
+      "close_price": 604.7710978,
+      "change": 1.006246819
+    },
+    {
+      "day": 2001,
+      "trade_date": "2012-09-03",
+      "open_price": 604.7710978,
+      "close_price": 596.1116243,
+      "change": 0.985681403
+    },
+    {
+      "day": 2002,
+      "trade_date": "2012-09-04",
+      "open_price": 596.1116243,
+      "close_price": 597.3063653,
+      "change": 1.002004224
+    },
+    {
+      "day": 2003,
+      "trade_date": "2012-09-05",
+      "open_price": 597.3063653,
+      "close_price": 605.2861242,
+      "change": 1.013359575
+    },
+    {
+      "day": 2004,
+      "trade_date": "2012-09-06",
+      "open_price": 605.2861242,
+      "close_price": 598.9680728,
+      "change": 0.989561876
+    },
+    {
+      "day": 2005,
+      "trade_date": "2012-09-07",
+      "open_price": 598.9680728,
+      "close_price": 590.3850349,
+      "change": 0.985670291
+    },
+    {
+      "day": 2006,
+      "trade_date": "2012-09-10",
+      "open_price": 590.3850349,
+      "close_price": 591.8333296,
+      "change": 1.002453136
+    },
+    {
+      "day": 2007,
+      "trade_date": "2012-09-11",
+      "open_price": 591.8333296,
+      "close_price": 591.7010569,
+      "change": 0.999776503
+    },
+    {
+      "day": 2008,
+      "trade_date": "2012-09-12",
+      "open_price": 591.7010569,
+      "close_price": 586.7311531,
+      "change": 0.991600651
+    },
+    {
+      "day": 2009,
+      "trade_date": "2012-09-13",
+      "open_price": 586.7311531,
+      "close_price": 587.2499808,
+      "change": 1.000884268
+    },
+    {
+      "day": 2010,
+      "trade_date": "2012-09-14",
+      "open_price": 587.2499808,
+      "close_price": 592.2306228,
+      "change": 1.008481298
+    },
+    {
+      "day": 2011,
+      "trade_date": "2012-09-17",
+      "open_price": 592.2306228,
+      "close_price": 591.5309442,
+      "change": 0.998818571
+    },
+    {
+      "day": 2012,
+      "trade_date": "2012-09-18",
+      "open_price": 591.5309442,
+      "close_price": 600.3743057,
+      "change": 1.014949956
+    },
+    {
+      "day": 2013,
+      "trade_date": "2012-09-19",
+      "open_price": 600.3743057,
+      "close_price": 601.1076188,
+      "change": 1.001221426
+    },
+    {
+      "day": 2014,
+      "trade_date": "2012-09-20",
+      "open_price": 601.1076188,
+      "close_price": 601.9017316,
+      "change": 1.001321083
+    },
+    {
+      "day": 2015,
+      "trade_date": "2012-09-21",
+      "open_price": 601.9017316,
+      "close_price": 599.9856838,
+      "change": 0.996816677
+    },
+    {
+      "day": 2016,
+      "trade_date": "2012-09-24",
+      "open_price": 599.9856838,
+      "close_price": 599.9807877,
+      "change": 0.99999184
+    },
+    {
+      "day": 2017,
+      "trade_date": "2012-09-25",
+      "open_price": 599.9807877,
+      "close_price": 597.312982,
+      "change": 0.995553515
+    },
+    {
+      "day": 2018,
+      "trade_date": "2012-09-26",
+      "open_price": 597.312982,
+      "close_price": 600.9823238,
+      "change": 1.006143081
+    },
+    {
+      "day": 2019,
+      "trade_date": "2012-09-27",
+      "open_price": 600.9823238,
+      "close_price": 606.2252491,
+      "change": 1.008723926
+    },
+    {
+      "day": 2020,
+      "trade_date": "2012-09-28",
+      "open_price": 606.2252491,
+      "close_price": 609.3543585,
+      "change": 1.005161628
+    },
+    {
+      "day": 2021,
+      "trade_date": "2012-10-01",
+      "open_price": 609.3543585,
+      "close_price": 609.8885335,
+      "change": 1.000876625
+    },
+    {
+      "day": 2022,
+      "trade_date": "2012-10-02",
+      "open_price": 609.8885335,
+      "close_price": 611.7675484,
+      "change": 1.003080915
+    },
+    {
+      "day": 2023,
+      "trade_date": "2012-10-03",
+      "open_price": 611.7675484,
+      "close_price": 606.7671965,
+      "change": 0.991826386
+    },
+    {
+      "day": 2024,
+      "trade_date": "2012-10-04",
+      "open_price": 606.7671965,
+      "close_price": 614.2054231,
+      "change": 1.012258782
+    },
+    {
+      "day": 2025,
+      "trade_date": "2012-10-05",
+      "open_price": 614.2054231,
+      "close_price": 599.5402076,
+      "change": 0.976123273
+    },
+    {
+      "day": 2026,
+      "trade_date": "2012-10-08",
+      "open_price": 599.5402076,
+      "close_price": 595.4433186,
+      "change": 0.993166615
+    },
+    {
+      "day": 2027,
+      "trade_date": "2012-10-09",
+      "open_price": 595.4433186,
+      "close_price": 586.7054174,
+      "change": 0.985325385
+    },
+    {
+      "day": 2028,
+      "trade_date": "2012-10-10",
+      "open_price": 586.7054174,
+      "close_price": 573.5261509,
+      "change": 0.977536825
+    },
+    {
+      "day": 2029,
+      "trade_date": "2012-10-11",
+      "open_price": 573.5261509,
+      "close_price": 574.1657128,
+      "change": 1.00111514
+    },
+    {
+      "day": 2030,
+      "trade_date": "2012-10-12",
+      "open_price": 574.1657128,
+      "close_price": 578.8056554,
+      "change": 1.008081191
+    },
+    {
+      "day": 2031,
+      "trade_date": "2012-10-15",
+      "open_price": 578.8056554,
+      "close_price": 576.6747085,
+      "change": 0.996318372
+    },
+    {
+      "day": 2032,
+      "trade_date": "2012-10-16",
+      "open_price": 576.6747085,
+      "close_price": 587.2269409,
+      "change": 1.018298414
+    },
+    {
+      "day": 2033,
+      "trade_date": "2012-10-17",
+      "open_price": 587.2269409,
+      "close_price": 581.2640174,
+      "change": 0.989845623
+    },
+    {
+      "day": 2034,
+      "trade_date": "2012-10-18",
+      "open_price": 581.2640174,
+      "close_price": 577.4013524,
+      "change": 0.993354715
+    },
+    {
+      "day": 2035,
+      "trade_date": "2012-10-19",
+      "open_price": 577.4013524,
+      "close_price": 571.2204684,
+      "change": 0.989295342
+    },
+    {
+      "day": 2036,
+      "trade_date": "2012-10-22",
+      "open_price": 571.2204684,
+      "close_price": 559.5784222,
+      "change": 0.979618997
+    },
+    {
+      "day": 2037,
+      "trade_date": "2012-10-23",
+      "open_price": 559.5784222,
+      "close_price": 560.7788725,
+      "change": 1.002145276
+    },
+    {
+      "day": 2038,
+      "trade_date": "2012-10-24",
+      "open_price": 560.7788725,
+      "close_price": 560.6178982,
+      "change": 0.999712945
+    },
+    {
+      "day": 2039,
+      "trade_date": "2012-10-25",
+      "open_price": 560.6178982,
+      "close_price": 562.8604959,
+      "change": 1.004000225
+    },
+    {
+      "day": 2040,
+      "trade_date": "2012-10-26",
+      "open_price": 562.8604959,
+      "close_price": 558.4610591,
+      "change": 0.992183788
+    },
+    {
+      "day": 2041,
+      "trade_date": "2012-10-29",
+      "open_price": 558.4610591,
+      "close_price": 562.8787953,
+      "change": 1.007910554
+    },
+    {
+      "day": 2042,
+      "trade_date": "2012-10-30",
+      "open_price": 562.8787953,
+      "close_price": 567.3111125,
+      "change": 1.007874372
+    },
+    {
+      "day": 2043,
+      "trade_date": "2012-10-31",
+      "open_price": 567.3111125,
+      "close_price": 567.4315278,
+      "change": 1.000212256
+    },
+    {
+      "day": 2044,
+      "trade_date": "2012-11-01",
+      "open_price": 567.4315278,
+      "close_price": 562.434662,
+      "change": 0.991193888
+    },
+    {
+      "day": 2045,
+      "trade_date": "2012-11-02",
+      "open_price": 562.434662,
+      "close_price": 555.4623633,
+      "change": 0.987603362
+    },
+    {
+      "day": 2046,
+      "trade_date": "2012-11-05",
+      "open_price": 555.4623633,
+      "close_price": 560.119772,
+      "change": 1.008384742
+    },
+    {
+      "day": 2047,
+      "trade_date": "2012-11-06",
+      "open_price": 560.119772,
+      "close_price": 562.1688758,
+      "change": 1.003658331
+    },
+    {
+      "day": 2048,
+      "trade_date": "2012-11-07",
+      "open_price": 562.1688758,
+      "close_price": 563.8474666,
+      "change": 1.002985919
+    },
+    {
+      "day": 2049,
+      "trade_date": "2012-11-08",
+      "open_price": 563.8474666,
+      "close_price": 564.2451791,
+      "change": 1.000705355
+    },
+    {
+      "day": 2050,
+      "trade_date": "2012-11-09",
+      "open_price": 564.2451791,
+      "close_price": 564.974889,
+      "change": 1.00129325
+    },
+    {
+      "day": 2051,
+      "trade_date": "2012-11-12",
+      "open_price": 564.974889,
+      "close_price": 548.9387265,
+      "change": 0.97161615
+    },
+    {
+      "day": 2052,
+      "trade_date": "2012-11-13",
+      "open_price": 548.9387265,
+      "close_price": 554.291931,
+      "change": 1.009751916
+    },
+    {
+      "day": 2053,
+      "trade_date": "2012-11-14",
+      "open_price": 554.291931,
+      "close_price": 536.7000854,
+      "change": 0.96826249
+    },
+    {
+      "day": 2054,
+      "trade_date": "2012-11-15",
+      "open_price": 536.7000854,
+      "close_price": 543.4267007,
+      "change": 1.012533285
+    },
+    {
+      "day": 2055,
+      "trade_date": "2012-11-16",
+      "open_price": 543.4267007,
+      "close_price": 546.305473,
+      "change": 1.005297444
+    },
+    {
+      "day": 2056,
+      "trade_date": "2012-11-19",
+      "open_price": 546.305473,
+      "close_price": 548.4429746,
+      "change": 1.003912649
+    },
+    {
+      "day": 2057,
+      "trade_date": "2012-11-20",
+      "open_price": 548.4429746,
+      "close_price": 547.2704489,
+      "change": 0.997862083
+    },
+    {
+      "day": 2058,
+      "trade_date": "2012-11-21",
+      "open_price": 547.2704489,
+      "close_price": 546.3787597,
+      "change": 0.998370661
+    },
+    {
+      "day": 2059,
+      "trade_date": "2012-11-22",
+      "open_price": 546.3787597,
+      "close_price": 553.6015171,
+      "change": 1.013219323
+    },
+    {
+      "day": 2060,
+      "trade_date": "2012-11-23",
+      "open_price": 553.6015171,
+      "close_price": 556.4050581,
+      "change": 1.005064186
+    },
+    {
+      "day": 2061,
+      "trade_date": "2012-11-26",
+      "open_price": 556.4050581,
+      "close_price": 550.9527963,
+      "change": 0.990200913
+    },
+    {
+      "day": 2062,
+      "trade_date": "2012-11-27",
+      "open_price": 550.9527963,
+      "close_price": 549.2982033,
+      "change": 0.996996851
+    },
+    {
+      "day": 2063,
+      "trade_date": "2012-11-28",
+      "open_price": 549.2982033,
+      "close_price": 550.0983418,
+      "change": 1.001456656
+    },
+    {
+      "day": 2064,
+      "trade_date": "2012-11-29",
+      "open_price": 550.0983418,
+      "close_price": 549.988515,
+      "change": 0.999800351
+    },
+    {
+      "day": 2065,
+      "trade_date": "2012-11-30",
+      "open_price": 549.988515,
+      "close_price": 544.6118516,
+      "change": 0.990224044
+    },
+    {
+      "day": 2066,
+      "trade_date": "2012-12-03",
+      "open_price": 544.6118516,
+      "close_price": 547.0025366,
+      "change": 1.004389704
+    },
+    {
+      "day": 2067,
+      "trade_date": "2012-12-04",
+      "open_price": 547.0025366,
+      "close_price": 549.2834974,
+      "change": 1.004169927
+    },
+    {
+      "day": 2068,
+      "trade_date": "2012-12-05",
+      "open_price": 549.2834974,
+      "close_price": 551.2015667,
+      "change": 1.003491948
+    },
+    {
+      "day": 2069,
+      "trade_date": "2012-12-06",
+      "open_price": 551.2015667,
+      "close_price": 554.0119096,
+      "change": 1.005098576
+    },
+    {
+      "day": 2070,
+      "trade_date": "2012-12-07",
+      "open_price": 554.0119096,
+      "close_price": 551.1222475,
+      "change": 0.994784116
+    },
+    {
+      "day": 2071,
+      "trade_date": "2012-12-10",
+      "open_price": 551.1222475,
+      "close_price": 552.2050865,
+      "change": 1.001964789
+    },
+    {
+      "day": 2072,
+      "trade_date": "2012-12-11",
+      "open_price": 552.2050865,
+      "close_price": 554.980212,
+      "change": 1.005025534
+    },
+    {
+      "day": 2073,
+      "trade_date": "2012-12-12",
+      "open_price": 554.980212,
+      "close_price": 566.3932935,
+      "change": 1.020564844
+    },
+    {
+      "day": 2074,
+      "trade_date": "2012-12-13",
+      "open_price": 566.3932935,
+      "close_price": 549.9848705,
+      "change": 0.971029984
+    },
+    {
+      "day": 2075,
+      "trade_date": "2012-12-14",
+      "open_price": 549.9848705,
+      "close_price": 547.0628326,
+      "change": 0.994687058
+    },
+    {
+      "day": 2076,
+      "trade_date": "2012-12-17",
+      "open_price": 547.0628326,
+      "close_price": 549.142795,
+      "change": 1.003802054
+    },
+    {
+      "day": 2077,
+      "trade_date": "2012-12-18",
+      "open_price": 549.142795,
+      "close_price": 547.2672978,
+      "change": 0.996584682
+    },
+    {
+      "day": 2078,
+      "trade_date": "2012-12-19",
+      "open_price": 547.2672978,
+      "close_price": 547.7810417,
+      "change": 1.000938744
+    },
+    {
+      "day": 2079,
+      "trade_date": "2012-12-20",
+      "open_price": 547.7810417,
+      "close_price": 550.9690234,
+      "change": 1.00581981
+    },
+    {
+      "day": 2080,
+      "trade_date": "2012-12-21",
+      "open_price": 550.9690234,
+      "close_price": 551.5175129,
+      "change": 1.0009955
+    },
+    {
+      "day": 2081,
+      "trade_date": "2012-12-24",
+      "open_price": 551.5175129,
+      "close_price": 551.3640211,
+      "change": 0.999721692
+    },
+    {
+      "day": 2082,
+      "trade_date": "2012-12-25",
+      "open_price": 551.3640211,
+      "close_price": 542.121799,
+      "change": 0.983237531
+    },
+    {
+      "day": 2083,
+      "trade_date": "2012-12-26",
+      "open_price": 542.121799,
+      "close_price": 544.1262989,
+      "change": 1.003697508
+    },
+    {
+      "day": 2084,
+      "trade_date": "2012-12-27",
+      "open_price": 544.1262989,
+      "close_price": 543.5543394,
+      "change": 0.998948848
+    },
+    {
+      "day": 2085,
+      "trade_date": "2012-12-28",
+      "open_price": 543.5543394,
+      "close_price": 543.7895445,
+      "change": 1.000432717
+    },
+    {
+      "day": 2086,
+      "trade_date": "2012-12-31",
+      "open_price": 543.7895445,
+      "close_price": 549.0886929,
+      "change": 1.009744852
+    }
+  ]
+}

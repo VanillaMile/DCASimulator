@@ -1,0 +1,1839 @@
+{
+  "stock_name": "snp500_like_short",
+  "stock_symbol": "SNPM",
+  "description": "This is a stock made to mimic the S&P 500",
+  "avg_daily_return": 0.0004,
+  "all_time_return": 5.8231,
+  "avg_yearly_return": 0.0754,
+  "year": 2016,
+  "yearly_return": 0.1822,
+  "daily_data": [
+    {
+      "day": 2870,
+      "trade_date": "2016-01-01",
+      "open_price": 240.7370793,
+      "close_price": 240.7687879,
+      "change": 1.000131715
+    },
+    {
+      "day": 2871,
+      "trade_date": "2016-01-04",
+      "open_price": 240.7687879,
+      "close_price": 237.8623463,
+      "change": 0.987928495
+    },
+    {
+      "day": 2872,
+      "trade_date": "2016-01-05",
+      "open_price": 237.8623463,
+      "close_price": 233.4691832,
+      "change": 0.981530649
+    },
+    {
+      "day": 2873,
+      "trade_date": "2016-01-06",
+      "open_price": 233.4691832,
+      "close_price": 236.5959244,
+      "change": 1.013392522
+    },
+    {
+      "day": 2874,
+      "trade_date": "2016-01-07",
+      "open_price": 236.5959244,
+      "close_price": 236.7085816,
+      "change": 1.000476159
+    },
+    {
+      "day": 2875,
+      "trade_date": "2016-01-08",
+      "open_price": 236.7085816,
+      "close_price": 234.6125413,
+      "change": 0.99114506
+    },
+    {
+      "day": 2876,
+      "trade_date": "2016-01-11",
+      "open_price": 234.6125413,
+      "close_price": 233.1158863,
+      "change": 0.993620737
+    },
+    {
+      "day": 2877,
+      "trade_date": "2016-01-12",
+      "open_price": 233.1158863,
+      "close_price": 231.2211667,
+      "change": 0.991872199
+    },
+    {
+      "day": 2878,
+      "trade_date": "2016-01-13",
+      "open_price": 231.2211667,
+      "close_price": 225.8175707,
+      "change": 0.976630184
+    },
+    {
+      "day": 2879,
+      "trade_date": "2016-01-14",
+      "open_price": 225.8175707,
+      "close_price": 223.5538144,
+      "change": 0.989975287
+    },
+    {
+      "day": 2880,
+      "trade_date": "2016-01-15",
+      "open_price": 223.5538144,
+      "close_price": 223.4747205,
+      "change": 0.999646197
+    },
+    {
+      "day": 2881,
+      "trade_date": "2016-01-18",
+      "open_price": 223.4747205,
+      "close_price": 224.889496,
+      "change": 1.006330808
+    },
+    {
+      "day": 2882,
+      "trade_date": "2016-01-19",
+      "open_price": 224.889496,
+      "close_price": 224.8993686,
+      "change": 1.0000439
+    },
+    {
+      "day": 2883,
+      "trade_date": "2016-01-20",
+      "open_price": 224.8993686,
+      "close_price": 226.4528138,
+      "change": 1.00690729
+    },
+    {
+      "day": 2884,
+      "trade_date": "2016-01-21",
+      "open_price": 226.4528138,
+      "close_price": 224.9845936,
+      "change": 0.993516441
+    },
+    {
+      "day": 2885,
+      "trade_date": "2016-01-22",
+      "open_price": 224.9845936,
+      "close_price": 225.0917109,
+      "change": 1.000476109
+    },
+    {
+      "day": 2886,
+      "trade_date": "2016-01-25",
+      "open_price": 225.0917109,
+      "close_price": 228.9293691,
+      "change": 1.017049309
+    },
+    {
+      "day": 2887,
+      "trade_date": "2016-01-26",
+      "open_price": 228.9293691,
+      "close_price": 230.2086715,
+      "change": 1.005588197
+    },
+    {
+      "day": 2888,
+      "trade_date": "2016-01-27",
+      "open_price": 230.2086715,
+      "close_price": 231.3053475,
+      "change": 1.004763834
+    },
+    {
+      "day": 2889,
+      "trade_date": "2016-01-28",
+      "open_price": 231.3053475,
+      "close_price": 232.80613,
+      "change": 1.006488318
+    },
+    {
+      "day": 2890,
+      "trade_date": "2016-01-29",
+      "open_price": 232.80613,
+      "close_price": 232.2142892,
+      "change": 0.997457795
+    },
+    {
+      "day": 2891,
+      "trade_date": "2016-02-01",
+      "open_price": 232.2142892,
+      "close_price": 231.0342246,
+      "change": 0.994918209
+    },
+    {
+      "day": 2892,
+      "trade_date": "2016-02-02",
+      "open_price": 231.0342246,
+      "close_price": 230.7637878,
+      "change": 0.998829451
+    },
+    {
+      "day": 2893,
+      "trade_date": "2016-02-03",
+      "open_price": 230.7637878,
+      "close_price": 232.4686618,
+      "change": 1.007387962
+    },
+    {
+      "day": 2894,
+      "trade_date": "2016-02-04",
+      "open_price": 232.4686618,
+      "close_price": 243.0042497,
+      "change": 1.045320465
+    },
+    {
+      "day": 2895,
+      "trade_date": "2016-02-05",
+      "open_price": 243.0042497,
+      "close_price": 242.8402223,
+      "change": 0.999325002
+    },
+    {
+      "day": 2896,
+      "trade_date": "2016-02-08",
+      "open_price": 242.8402223,
+      "close_price": 240.9936115,
+      "change": 0.992395779
+    },
+    {
+      "day": 2897,
+      "trade_date": "2016-02-09",
+      "open_price": 240.9936115,
+      "close_price": 249.0370498,
+      "change": 1.033376147
+    },
+    {
+      "day": 2898,
+      "trade_date": "2016-02-10",
+      "open_price": 249.0370498,
+      "close_price": 248.6728222,
+      "change": 0.998537456
+    },
+    {
+      "day": 2899,
+      "trade_date": "2016-02-11",
+      "open_price": 248.6728222,
+      "close_price": 249.5426409,
+      "change": 1.003497844
+    },
+    {
+      "day": 2900,
+      "trade_date": "2016-02-12",
+      "open_price": 249.5426409,
+      "close_price": 250.1350826,
+      "change": 1.00237411
+    },
+    {
+      "day": 2901,
+      "trade_date": "2016-02-15",
+      "open_price": 250.1350826,
+      "close_price": 249.9075657,
+      "change": 0.999090424
+    },
+    {
+      "day": 2902,
+      "trade_date": "2016-02-16",
+      "open_price": 249.9075657,
+      "close_price": 249.2050607,
+      "change": 0.997188941
+    },
+    {
+      "day": 2903,
+      "trade_date": "2016-02-17",
+      "open_price": 249.2050607,
+      "close_price": 252.6004714,
+      "change": 1.013624967
+    },
+    {
+      "day": 2904,
+      "trade_date": "2016-02-18",
+      "open_price": 252.6004714,
+      "close_price": 254.7444869,
+      "change": 1.008487773
+    },
+    {
+      "day": 2905,
+      "trade_date": "2016-02-19",
+      "open_price": 254.7444869,
+      "close_price": 255.5586291,
+      "change": 1.003195917
+    },
+    {
+      "day": 2906,
+      "trade_date": "2016-02-22",
+      "open_price": 255.5586291,
+      "close_price": 257.3396768,
+      "change": 1.006969233
+    },
+    {
+      "day": 2907,
+      "trade_date": "2016-02-23",
+      "open_price": 257.3396768,
+      "close_price": 257.8958759,
+      "change": 1.002161342
+    },
+    {
+      "day": 2908,
+      "trade_date": "2016-02-24",
+      "open_price": 257.8958759,
+      "close_price": 258.2663262,
+      "change": 1.001436433
+    },
+    {
+      "day": 2909,
+      "trade_date": "2016-02-25",
+      "open_price": 258.2663262,
+      "close_price": 257.2882921,
+      "change": 0.996213079
+    },
+    {
+      "day": 2910,
+      "trade_date": "2016-02-26",
+      "open_price": 257.2882921,
+      "close_price": 257.9694134,
+      "change": 1.002647308
+    },
+    {
+      "day": 2911,
+      "trade_date": "2016-02-29",
+      "open_price": 257.9694134,
+      "close_price": 256.1622501,
+      "change": 0.992994661
+    },
+    {
+      "day": 2912,
+      "trade_date": "2016-03-01",
+      "open_price": 256.1622501,
+      "close_price": 254.9837367,
+      "change": 0.995399348
+    },
+    {
+      "day": 2913,
+      "trade_date": "2016-03-02",
+      "open_price": 254.9837367,
+      "close_price": 254.1140614,
+      "change": 0.996589291
+    },
+    {
+      "day": 2914,
+      "trade_date": "2016-03-03",
+      "open_price": 254.1140614,
+      "close_price": 250.903081,
+      "change": 0.987364019
+    },
+    {
+      "day": 2915,
+      "trade_date": "2016-03-04",
+      "open_price": 250.903081,
+      "close_price": 250.3366782,
+      "change": 0.997742543
+    },
+    {
+      "day": 2916,
+      "trade_date": "2016-03-07",
+      "open_price": 250.3366782,
+      "close_price": 249.5540043,
+      "change": 0.996873515
+    },
+    {
+      "day": 2917,
+      "trade_date": "2016-03-08",
+      "open_price": 249.5540043,
+      "close_price": 251.0170004,
+      "change": 1.005862443
+    },
+    {
+      "day": 2918,
+      "trade_date": "2016-03-09",
+      "open_price": 251.0170004,
+      "close_price": 248.903324,
+      "change": 0.991579549
+    },
+    {
+      "day": 2919,
+      "trade_date": "2016-03-10",
+      "open_price": 248.903324,
+      "close_price": 248.3114823,
+      "change": 0.997622202
+    },
+    {
+      "day": 2920,
+      "trade_date": "2016-03-11",
+      "open_price": 248.3114823,
+      "close_price": 253.0821602,
+      "change": 1.019212474
+    },
+    {
+      "day": 2921,
+      "trade_date": "2016-03-14",
+      "open_price": 253.0821602,
+      "close_price": 253.8478558,
+      "change": 1.003025482
+    },
+    {
+      "day": 2922,
+      "trade_date": "2016-03-15",
+      "open_price": 253.8478558,
+      "close_price": 253.5212946,
+      "change": 0.998713555
+    },
+    {
+      "day": 2923,
+      "trade_date": "2016-03-16",
+      "open_price": 253.5212946,
+      "close_price": 253.7846921,
+      "change": 1.001038956
+    },
+    {
+      "day": 2924,
+      "trade_date": "2016-03-17",
+      "open_price": 253.7846921,
+      "close_price": 258.5580628,
+      "change": 1.018808742
+    },
+    {
+      "day": 2925,
+      "trade_date": "2016-03-18",
+      "open_price": 258.5580628,
+      "close_price": 255.3258354,
+      "change": 0.987499027
+    },
+    {
+      "day": 2926,
+      "trade_date": "2016-03-21",
+      "open_price": 255.3258354,
+      "close_price": 257.8083365,
+      "change": 1.009722875
+    },
+    {
+      "day": 2927,
+      "trade_date": "2016-03-22",
+      "open_price": 257.8083365,
+      "close_price": 262.5394834,
+      "change": 1.018351412
+    },
+    {
+      "day": 2928,
+      "trade_date": "2016-03-23",
+      "open_price": 262.5394834,
+      "close_price": 262.1306891,
+      "change": 0.998442922
+    },
+    {
+      "day": 2929,
+      "trade_date": "2016-03-24",
+      "open_price": 262.1306891,
+      "close_price": 260.2833417,
+      "change": 0.992952571
+    },
+    {
+      "day": 2930,
+      "trade_date": "2016-03-25",
+      "open_price": 260.2833417,
+      "close_price": 262.8714683,
+      "change": 1.009943497
+    },
+    {
+      "day": 2931,
+      "trade_date": "2016-03-28",
+      "open_price": 262.8714683,
+      "close_price": 256.895213,
+      "change": 0.977265485
+    },
+    {
+      "day": 2932,
+      "trade_date": "2016-03-29",
+      "open_price": 256.895213,
+      "close_price": 258.9516685,
+      "change": 1.008005036
+    },
+    {
+      "day": 2933,
+      "trade_date": "2016-03-30",
+      "open_price": 258.9516685,
+      "close_price": 260.2994102,
+      "change": 1.005204607
+    },
+    {
+      "day": 2934,
+      "trade_date": "2016-03-31",
+      "open_price": 260.2994102,
+      "close_price": 259.9163635,
+      "change": 0.998528438
+    },
+    {
+      "day": 2935,
+      "trade_date": "2016-04-01",
+      "open_price": 259.9163635,
+      "close_price": 254.690048,
+      "change": 0.979892318
+    },
+    {
+      "day": 2936,
+      "trade_date": "2016-04-04",
+      "open_price": 254.690048,
+      "close_price": 257.6936459,
+      "change": 1.01179315
+    },
+    {
+      "day": 2937,
+      "trade_date": "2016-04-05",
+      "open_price": 257.6936459,
+      "close_price": 255.7212272,
+      "change": 0.992345878
+    },
+    {
+      "day": 2938,
+      "trade_date": "2016-04-06",
+      "open_price": 255.7212272,
+      "close_price": 255.8056014,
+      "change": 1.000329946
+    },
+    {
+      "day": 2939,
+      "trade_date": "2016-04-07",
+      "open_price": 255.8056014,
+      "close_price": 256.6251269,
+      "change": 1.003203704
+    },
+    {
+      "day": 2940,
+      "trade_date": "2016-04-08",
+      "open_price": 256.6251269,
+      "close_price": 260.0539503,
+      "change": 1.013361215
+    },
+    {
+      "day": 2941,
+      "trade_date": "2016-04-11",
+      "open_price": 260.0539503,
+      "close_price": 257.7224585,
+      "change": 0.991034584
+    },
+    {
+      "day": 2942,
+      "trade_date": "2016-04-12",
+      "open_price": 257.7224585,
+      "close_price": 259.7868316,
+      "change": 1.008010063
+    },
+    {
+      "day": 2943,
+      "trade_date": "2016-04-13",
+      "open_price": 259.7868316,
+      "close_price": 265.5910378,
+      "change": 1.022342188
+    },
+    {
+      "day": 2944,
+      "trade_date": "2016-04-14",
+      "open_price": 265.5910378,
+      "close_price": 263.6085702,
+      "change": 0.992535638
+    },
+    {
+      "day": 2945,
+      "trade_date": "2016-04-15",
+      "open_price": 263.6085702,
+      "close_price": 264.5692678,
+      "change": 1.00364441
+    },
+    {
+      "day": 2946,
+      "trade_date": "2016-04-18",
+      "open_price": 264.5692678,
+      "close_price": 264.6690969,
+      "change": 1.000377327
+    },
+    {
+      "day": 2947,
+      "trade_date": "2016-04-19",
+      "open_price": 264.6690969,
+      "close_price": 266.702867,
+      "change": 1.007684199
+    },
+    {
+      "day": 2948,
+      "trade_date": "2016-04-20",
+      "open_price": 266.702867,
+      "close_price": 267.5030017,
+      "change": 1.003000098
+    },
+    {
+      "day": 2949,
+      "trade_date": "2016-04-21",
+      "open_price": 267.5030017,
+      "close_price": 267.4398011,
+      "change": 0.999763739
+    },
+    {
+      "day": 2950,
+      "trade_date": "2016-04-22",
+      "open_price": 267.4398011,
+      "close_price": 266.1291688,
+      "change": 0.995099337
+    },
+    {
+      "day": 2951,
+      "trade_date": "2016-04-25",
+      "open_price": 266.1291688,
+      "close_price": 267.267518,
+      "change": 1.004277431
+    },
+    {
+      "day": 2952,
+      "trade_date": "2016-04-26",
+      "open_price": 267.267518,
+      "close_price": 266.2326498,
+      "change": 0.996127969
+    },
+    {
+      "day": 2953,
+      "trade_date": "2016-04-27",
+      "open_price": 266.2326498,
+      "close_price": 268.8263271,
+      "change": 1.009742146
+    },
+    {
+      "day": 2954,
+      "trade_date": "2016-04-28",
+      "open_price": 268.8263271,
+      "close_price": 270.6297644,
+      "change": 1.006708559
+    },
+    {
+      "day": 2955,
+      "trade_date": "2016-04-29",
+      "open_price": 270.6297644,
+      "close_price": 266.7147785,
+      "change": 0.985533794
+    },
+    {
+      "day": 2956,
+      "trade_date": "2016-05-02",
+      "open_price": 266.7147785,
+      "close_price": 267.9305559,
+      "change": 1.004558343
+    },
+    {
+      "day": 2957,
+      "trade_date": "2016-05-03",
+      "open_price": 267.9305559,
+      "close_price": 268.0177381,
+      "change": 1.000325391
+    },
+    {
+      "day": 2958,
+      "trade_date": "2016-05-04",
+      "open_price": 268.0177381,
+      "close_price": 269.1446312,
+      "change": 1.004204547
+    },
+    {
+      "day": 2959,
+      "trade_date": "2016-05-05",
+      "open_price": 269.1446312,
+      "close_price": 290.8675226,
+      "change": 1.080710848
+    },
+    {
+      "day": 2960,
+      "trade_date": "2016-05-06",
+      "open_price": 290.8675226,
+      "close_price": 291.9051862,
+      "change": 1.003567479
+    },
+    {
+      "day": 2961,
+      "trade_date": "2016-05-09",
+      "open_price": 291.9051862,
+      "close_price": 285.2610127,
+      "change": 0.97723859
+    },
+    {
+      "day": 2962,
+      "trade_date": "2016-05-10",
+      "open_price": 285.2610127,
+      "close_price": 286.0333727,
+      "change": 1.002707555
+    },
+    {
+      "day": 2963,
+      "trade_date": "2016-05-11",
+      "open_price": 286.0333727,
+      "close_price": 287.4212962,
+      "change": 1.004852313
+    },
+    {
+      "day": 2964,
+      "trade_date": "2016-05-12",
+      "open_price": 287.4212962,
+      "close_price": 285.5533017,
+      "change": 0.993500848
+    },
+    {
+      "day": 2965,
+      "trade_date": "2016-05-13",
+      "open_price": 285.5533017,
+      "close_price": 289.1820021,
+      "change": 1.012707612
+    },
+    {
+      "day": 2966,
+      "trade_date": "2016-05-16",
+      "open_price": 289.1820021,
+      "close_price": 289.1695087,
+      "change": 0.999956797
+    },
+    {
+      "day": 2967,
+      "trade_date": "2016-05-17",
+      "open_price": 289.1695087,
+      "close_price": 285.0603645,
+      "change": 0.985789843
+    },
+    {
+      "day": 2968,
+      "trade_date": "2016-05-18",
+      "open_price": 285.0603645,
+      "close_price": 286.278891,
+      "change": 1.004274626
+    },
+    {
+      "day": 2969,
+      "trade_date": "2016-05-19",
+      "open_price": 286.278891,
+      "close_price": 287.2000119,
+      "change": 1.003217565
+    },
+    {
+      "day": 2970,
+      "trade_date": "2016-05-20",
+      "open_price": 287.2000119,
+      "close_price": 287.1439309,
+      "change": 0.999804732
+    },
+    {
+      "day": 2971,
+      "trade_date": "2016-05-23",
+      "open_price": 287.1439309,
+      "close_price": 286.6947738,
+      "change": 0.998435777
+    },
+    {
+      "day": 2972,
+      "trade_date": "2016-05-24",
+      "open_price": 286.6947738,
+      "close_price": 285.420318,
+      "change": 0.99555466
+    },
+    {
+      "day": 2973,
+      "trade_date": "2016-05-25",
+      "open_price": 285.420318,
+      "close_price": 288.0448313,
+      "change": 1.009195257
+    },
+    {
+      "day": 2974,
+      "trade_date": "2016-05-26",
+      "open_price": 288.0448313,
+      "close_price": 287.08468,
+      "change": 0.99666666
+    },
+    {
+      "day": 2975,
+      "trade_date": "2016-05-27",
+      "open_price": 287.08468,
+      "close_price": 287.7180698,
+      "change": 1.002206282
+    },
+    {
+      "day": 2976,
+      "trade_date": "2016-05-30",
+      "open_price": 287.7180698,
+      "close_price": 284.4332056,
+      "change": 0.988583045
+    },
+    {
+      "day": 2977,
+      "trade_date": "2016-05-31",
+      "open_price": 284.4332056,
+      "close_price": 283.1970483,
+      "change": 0.995653963
+    },
+    {
+      "day": 2978,
+      "trade_date": "2016-06-01",
+      "open_price": 283.1970483,
+      "close_price": 286.0514593,
+      "change": 1.01007924
+    },
+    {
+      "day": 2979,
+      "trade_date": "2016-06-02",
+      "open_price": 286.0514593,
+      "close_price": 282.1704762,
+      "change": 0.98643257
+    },
+    {
+      "day": 2980,
+      "trade_date": "2016-06-03",
+      "open_price": 282.1704762,
+      "close_price": 280.7055792,
+      "change": 0.994808468
+    },
+    {
+      "day": 2981,
+      "trade_date": "2016-06-06",
+      "open_price": 280.7055792,
+      "close_price": 282.8864536,
+      "change": 1.007769259
+    },
+    {
+      "day": 2982,
+      "trade_date": "2016-06-07",
+      "open_price": 282.8864536,
+      "close_price": 283.218092,
+      "change": 1.001172338
+    },
+    {
+      "day": 2983,
+      "trade_date": "2016-06-08",
+      "open_price": 283.218092,
+      "close_price": 283.6813508,
+      "change": 1.001635696
+    },
+    {
+      "day": 2984,
+      "trade_date": "2016-06-09",
+      "open_price": 283.6813508,
+      "close_price": 287.2042784,
+      "change": 1.012418608
+    },
+    {
+      "day": 2985,
+      "trade_date": "2016-06-10",
+      "open_price": 287.2042784,
+      "close_price": 286.3294142,
+      "change": 0.996953861
+    },
+    {
+      "day": 2986,
+      "trade_date": "2016-06-13",
+      "open_price": 286.3294142,
+      "close_price": 284.2252368,
+      "change": 0.992651201
+    },
+    {
+      "day": 2987,
+      "trade_date": "2016-06-14",
+      "open_price": 284.2252368,
+      "close_price": 283.4194777,
+      "change": 0.997165069
+    },
+    {
+      "day": 2988,
+      "trade_date": "2016-06-15",
+      "open_price": 283.4194777,
+      "close_price": 286.2024242,
+      "change": 1.009819179
+    },
+    {
+      "day": 2989,
+      "trade_date": "2016-06-16",
+      "open_price": 286.2024242,
+      "close_price": 286.1933644,
+      "change": 0.999968345
+    },
+    {
+      "day": 2990,
+      "trade_date": "2016-06-17",
+      "open_price": 286.1933644,
+      "close_price": 286.4388816,
+      "change": 1.000857872
+    },
+    {
+      "day": 2991,
+      "trade_date": "2016-06-20",
+      "open_price": 286.4388816,
+      "close_price": 288.2665305,
+      "change": 1.006380589
+    },
+    {
+      "day": 2992,
+      "trade_date": "2016-06-21",
+      "open_price": 288.2665305,
+      "close_price": 289.3443653,
+      "change": 1.003739022
+    },
+    {
+      "day": 2993,
+      "trade_date": "2016-06-22",
+      "open_price": 289.3443653,
+      "close_price": 291.4555153,
+      "change": 1.007296323
+    },
+    {
+      "day": 2994,
+      "trade_date": "2016-06-23",
+      "open_price": 291.4555153,
+      "close_price": 296.5814626,
+      "change": 1.017587409
+    },
+    {
+      "day": 2995,
+      "trade_date": "2016-06-24",
+      "open_price": 296.5814626,
+      "close_price": 295.9099908,
+      "change": 0.997735961
+    },
+    {
+      "day": 2996,
+      "trade_date": "2016-06-27",
+      "open_price": 295.9099908,
+      "close_price": 289.375436,
+      "change": 0.977917086
+    },
+    {
+      "day": 2997,
+      "trade_date": "2016-06-28",
+      "open_price": 289.375436,
+      "close_price": 285.1306032,
+      "change": 0.985331054
+    },
+    {
+      "day": 2998,
+      "trade_date": "2016-06-29",
+      "open_price": 285.1306032,
+      "close_price": 286.4347291,
+      "change": 1.004573784
+    },
+    {
+      "day": 2999,
+      "trade_date": "2016-06-30",
+      "open_price": 286.4347291,
+      "close_price": 283.0738532,
+      "change": 0.988266521
+    },
+    {
+      "day": 3000,
+      "trade_date": "2016-07-01",
+      "open_price": 283.0738532,
+      "close_price": 285.2185554,
+      "change": 1.007576476
+    },
+    {
+      "day": 3001,
+      "trade_date": "2016-07-04",
+      "open_price": 285.2185554,
+      "close_price": 284.9459698,
+      "change": 0.999044292
+    },
+    {
+      "day": 3002,
+      "trade_date": "2016-07-05",
+      "open_price": 284.9459698,
+      "close_price": 283.4920506,
+      "change": 0.994897562
+    },
+    {
+      "day": 3003,
+      "trade_date": "2016-07-06",
+      "open_price": 283.4920506,
+      "close_price": 283.4572535,
+      "change": 0.999877256
+    },
+    {
+      "day": 3004,
+      "trade_date": "2016-07-07",
+      "open_price": 283.4572535,
+      "close_price": 283.7116272,
+      "change": 1.000897397
+    },
+    {
+      "day": 3005,
+      "trade_date": "2016-07-08",
+      "open_price": 283.7116272,
+      "close_price": 282.7932289,
+      "change": 0.996762916
+    },
+    {
+      "day": 3006,
+      "trade_date": "2016-07-11",
+      "open_price": 282.7932289,
+      "close_price": 280.8843296,
+      "change": 0.993249841
+    },
+    {
+      "day": 3007,
+      "trade_date": "2016-07-12",
+      "open_price": 280.8843296,
+      "close_price": 282.3989578,
+      "change": 1.005392356
+    },
+    {
+      "day": 3008,
+      "trade_date": "2016-07-13",
+      "open_price": 282.3989578,
+      "close_price": 286.9322684,
+      "change": 1.016052859
+    },
+    {
+      "day": 3009,
+      "trade_date": "2016-07-14",
+      "open_price": 286.9322684,
+      "close_price": 285.4275797,
+      "change": 0.994755945
+    },
+    {
+      "day": 3010,
+      "trade_date": "2016-07-15",
+      "open_price": 285.4275797,
+      "close_price": 285.2242879,
+      "change": 0.999287764
+    },
+    {
+      "day": 3011,
+      "trade_date": "2016-07-18",
+      "open_price": 285.2242879,
+      "close_price": 286.1294925,
+      "change": 1.003173659
+    },
+    {
+      "day": 3012,
+      "trade_date": "2016-07-19",
+      "open_price": 286.1294925,
+      "close_price": 285.4997316,
+      "change": 0.997799036
+    },
+    {
+      "day": 3013,
+      "trade_date": "2016-07-20",
+      "open_price": 285.4997316,
+      "close_price": 283.5270399,
+      "change": 0.99309039
+    },
+    {
+      "day": 3014,
+      "trade_date": "2016-07-21",
+      "open_price": 283.5270399,
+      "close_price": 282.7767806,
+      "change": 0.997353835
+    },
+    {
+      "day": 3015,
+      "trade_date": "2016-07-22",
+      "open_price": 282.7767806,
+      "close_price": 284.2719555,
+      "change": 1.005287474
+    },
+    {
+      "day": 3016,
+      "trade_date": "2016-07-25",
+      "open_price": 284.2719555,
+      "close_price": 286.7124878,
+      "change": 1.008585203
+    },
+    {
+      "day": 3017,
+      "trade_date": "2016-07-26",
+      "open_price": 286.7124878,
+      "close_price": 287.4297752,
+      "change": 1.002501765
+    },
+    {
+      "day": 3018,
+      "trade_date": "2016-07-27",
+      "open_price": 287.4297752,
+      "close_price": 288.7460777,
+      "change": 1.004579562
+    },
+    {
+      "day": 3019,
+      "trade_date": "2016-07-28",
+      "open_price": 288.7460777,
+      "close_price": 291.1888289,
+      "change": 1.008459859
+    },
+    {
+      "day": 3020,
+      "trade_date": "2016-07-29",
+      "open_price": 291.1888289,
+      "close_price": 292.3840905,
+      "change": 1.004104765
+    },
+    {
+      "day": 3021,
+      "trade_date": "2016-08-01",
+      "open_price": 292.3840905,
+      "close_price": 294.0345892,
+      "change": 1.005644968
+    },
+    {
+      "day": 3022,
+      "trade_date": "2016-08-02",
+      "open_price": 294.0345892,
+      "close_price": 295.3702745,
+      "change": 1.004542613
+    },
+    {
+      "day": 3023,
+      "trade_date": "2016-08-03",
+      "open_price": 295.3702745,
+      "close_price": 294.8714462,
+      "change": 0.998311176
+    },
+    {
+      "day": 3024,
+      "trade_date": "2016-08-04",
+      "open_price": 294.8714462,
+      "close_price": 299.7585246,
+      "change": 1.01657359
+    },
+    {
+      "day": 3025,
+      "trade_date": "2016-08-05",
+      "open_price": 299.7585246,
+      "close_price": 298.9081596,
+      "change": 0.997163167
+    },
+    {
+      "day": 3026,
+      "trade_date": "2016-08-08",
+      "open_price": 298.9081596,
+      "close_price": 306.9470551,
+      "change": 1.026894199
+    },
+    {
+      "day": 3027,
+      "trade_date": "2016-08-09",
+      "open_price": 306.9470551,
+      "close_price": 310.9547042,
+      "change": 1.013056483
+    },
+    {
+      "day": 3028,
+      "trade_date": "2016-08-10",
+      "open_price": 310.9547042,
+      "close_price": 313.1830989,
+      "change": 1.0071663
+    },
+    {
+      "day": 3029,
+      "trade_date": "2016-08-11",
+      "open_price": 313.1830989,
+      "close_price": 313.9009767,
+      "change": 1.002292198
+    },
+    {
+      "day": 3030,
+      "trade_date": "2016-08-12",
+      "open_price": 313.9009767,
+      "close_price": 310.4398171,
+      "change": 0.988973721
+    },
+    {
+      "day": 3031,
+      "trade_date": "2016-08-15",
+      "open_price": 310.4398171,
+      "close_price": 306.4826541,
+      "change": 0.987253043
+    },
+    {
+      "day": 3032,
+      "trade_date": "2016-08-16",
+      "open_price": 306.4826541,
+      "close_price": 306.9357933,
+      "change": 1.001478515
+    },
+    {
+      "day": 3033,
+      "trade_date": "2016-08-17",
+      "open_price": 306.9357933,
+      "close_price": 306.9500905,
+      "change": 1.00004658
+    },
+    {
+      "day": 3034,
+      "trade_date": "2016-08-18",
+      "open_price": 306.9500905,
+      "close_price": 296.3282514,
+      "change": 0.96539555
+    },
+    {
+      "day": 3035,
+      "trade_date": "2016-08-19",
+      "open_price": 296.3282514,
+      "close_price": 296.6155948,
+      "change": 1.000969679
+    },
+    {
+      "day": 3036,
+      "trade_date": "2016-08-22",
+      "open_price": 296.6155948,
+      "close_price": 288.83879,
+      "change": 0.973781538
+    },
+    {
+      "day": 3037,
+      "trade_date": "2016-08-23",
+      "open_price": 288.83879,
+      "close_price": 289.9886396,
+      "change": 1.003980939
+    },
+    {
+      "day": 3038,
+      "trade_date": "2016-08-24",
+      "open_price": 289.9886396,
+      "close_price": 291.9478067,
+      "change": 1.006756013
+    },
+    {
+      "day": 3039,
+      "trade_date": "2016-08-25",
+      "open_price": 291.9478067,
+      "close_price": 289.2493673,
+      "change": 0.990757117
+    },
+    {
+      "day": 3040,
+      "trade_date": "2016-08-26",
+      "open_price": 289.2493673,
+      "close_price": 293.4854128,
+      "change": 1.01464496
+    },
+    {
+      "day": 3041,
+      "trade_date": "2016-08-29",
+      "open_price": 293.4854128,
+      "close_price": 295.4820471,
+      "change": 1.006803181
+    },
+    {
+      "day": 3042,
+      "trade_date": "2016-08-30",
+      "open_price": 295.4820471,
+      "close_price": 294.5087439,
+      "change": 0.99670605
+    },
+    {
+      "day": 3043,
+      "trade_date": "2016-08-31",
+      "open_price": 294.5087439,
+      "close_price": 293.4746974,
+      "change": 0.996488911
+    },
+    {
+      "day": 3044,
+      "trade_date": "2016-09-01",
+      "open_price": 293.4746974,
+      "close_price": 290.9646682,
+      "change": 0.991447204
+    },
+    {
+      "day": 3045,
+      "trade_date": "2016-09-02",
+      "open_price": 290.9646682,
+      "close_price": 289.336437,
+      "change": 0.994404024
+    },
+    {
+      "day": 3046,
+      "trade_date": "2016-09-05",
+      "open_price": 289.336437,
+      "close_price": 293.6207404,
+      "change": 1.014807342
+    },
+    {
+      "day": 3047,
+      "trade_date": "2016-09-06",
+      "open_price": 293.6207404,
+      "close_price": 293.6118574,
+      "change": 0.999969747
+    },
+    {
+      "day": 3048,
+      "trade_date": "2016-09-07",
+      "open_price": 293.6118574,
+      "close_price": 294.3055993,
+      "change": 1.002362785
+    },
+    {
+      "day": 3049,
+      "trade_date": "2016-09-08",
+      "open_price": 294.3055993,
+      "close_price": 288.4877693,
+      "change": 0.980232011
+    },
+    {
+      "day": 3050,
+      "trade_date": "2016-09-09",
+      "open_price": 288.4877693,
+      "close_price": 287.5173123,
+      "change": 0.996636055
+    },
+    {
+      "day": 3051,
+      "trade_date": "2016-09-12",
+      "open_price": 287.5173123,
+      "close_price": 284.8553389,
+      "change": 0.99074152
+    },
+    {
+      "day": 3052,
+      "trade_date": "2016-09-13",
+      "open_price": 284.8553389,
+      "close_price": 283.9085189,
+      "change": 0.996676137
+    },
+    {
+      "day": 3053,
+      "trade_date": "2016-09-14",
+      "open_price": 283.9085189,
+      "close_price": 286.1979854,
+      "change": 1.008064099
+    },
+    {
+      "day": 3054,
+      "trade_date": "2016-09-15",
+      "open_price": 286.1979854,
+      "close_price": 291.3018651,
+      "change": 1.017833388
+    },
+    {
+      "day": 3055,
+      "trade_date": "2016-09-16",
+      "open_price": 291.3018651,
+      "close_price": 292.2308333,
+      "change": 1.003189022
+    },
+    {
+      "day": 3056,
+      "trade_date": "2016-09-19",
+      "open_price": 292.2308333,
+      "close_price": 291.8997947,
+      "change": 0.998867201
+    },
+    {
+      "day": 3057,
+      "trade_date": "2016-09-20",
+      "open_price": 291.8997947,
+      "close_price": 293.2318686,
+      "change": 1.004563463
+    },
+    {
+      "day": 3058,
+      "trade_date": "2016-09-21",
+      "open_price": 293.2318686,
+      "close_price": 296.1750709,
+      "change": 1.010037116
+    },
+    {
+      "day": 3059,
+      "trade_date": "2016-09-22",
+      "open_price": 296.1750709,
+      "close_price": 298.5752094,
+      "change": 1.008103783
+    },
+    {
+      "day": 3060,
+      "trade_date": "2016-09-23",
+      "open_price": 298.5752094,
+      "close_price": 302.0256824,
+      "change": 1.011556462
+    },
+    {
+      "day": 3061,
+      "trade_date": "2016-09-26",
+      "open_price": 302.0256824,
+      "close_price": 293.5461051,
+      "change": 0.971924317
+    },
+    {
+      "day": 3062,
+      "trade_date": "2016-09-27",
+      "open_price": 293.5461051,
+      "close_price": 293.9477612,
+      "change": 1.00136829
+    },
+    {
+      "day": 3063,
+      "trade_date": "2016-09-28",
+      "open_price": 293.9477612,
+      "close_price": 294.4990311,
+      "change": 1.001875401
+    },
+    {
+      "day": 3064,
+      "trade_date": "2016-09-29",
+      "open_price": 294.4990311,
+      "close_price": 299.4297272,
+      "change": 1.016742656
+    },
+    {
+      "day": 3065,
+      "trade_date": "2016-09-30",
+      "open_price": 299.4297272,
+      "close_price": 300.3842626,
+      "change": 1.003187845
+    },
+    {
+      "day": 3066,
+      "trade_date": "2016-10-03",
+      "open_price": 300.3842626,
+      "close_price": 302.5328121,
+      "change": 1.00715267
+    },
+    {
+      "day": 3067,
+      "trade_date": "2016-10-04",
+      "open_price": 302.5328121,
+      "close_price": 304.7361452,
+      "change": 1.007282956
+    },
+    {
+      "day": 3068,
+      "trade_date": "2016-10-05",
+      "open_price": 304.7361452,
+      "close_price": 304.5608031,
+      "change": 0.99942461
+    },
+    {
+      "day": 3069,
+      "trade_date": "2016-10-06",
+      "open_price": 304.5608031,
+      "close_price": 307.2091131,
+      "change": 1.008695505
+    },
+    {
+      "day": 3070,
+      "trade_date": "2016-10-07",
+      "open_price": 307.2091131,
+      "close_price": 310.0071665,
+      "change": 1.009107977
+    },
+    {
+      "day": 3071,
+      "trade_date": "2016-10-10",
+      "open_price": 310.0071665,
+      "close_price": 309.834851,
+      "change": 0.999444156
+    },
+    {
+      "day": 3072,
+      "trade_date": "2016-10-11",
+      "open_price": 309.834851,
+      "close_price": 308.7709285,
+      "change": 0.996566163
+    },
+    {
+      "day": 3073,
+      "trade_date": "2016-10-12",
+      "open_price": 308.7709285,
+      "close_price": 314.9174119,
+      "change": 1.019906289
+    },
+    {
+      "day": 3074,
+      "trade_date": "2016-10-13",
+      "open_price": 314.9174119,
+      "close_price": 313.663857,
+      "change": 0.996019417
+    },
+    {
+      "day": 3075,
+      "trade_date": "2016-10-14",
+      "open_price": 313.663857,
+      "close_price": 313.0867421,
+      "change": 0.998160085
+    },
+    {
+      "day": 3076,
+      "trade_date": "2016-10-17",
+      "open_price": 313.0867421,
+      "close_price": 331.9208617,
+      "change": 1.060156235
+    },
+    {
+      "day": 3077,
+      "trade_date": "2016-10-18",
+      "open_price": 331.9208617,
+      "close_price": 331.7150256,
+      "change": 0.999379864
+    },
+    {
+      "day": 3078,
+      "trade_date": "2016-10-19",
+      "open_price": 331.7150256,
+      "close_price": 316.8228454,
+      "change": 0.9551055
+    },
+    {
+      "day": 3079,
+      "trade_date": "2016-10-20",
+      "open_price": 316.8228454,
+      "close_price": 320.1156,
+      "change": 1.010393047
+    },
+    {
+      "day": 3080,
+      "trade_date": "2016-10-21",
+      "open_price": 320.1156,
+      "close_price": 309.1867639,
+      "change": 0.96585972
+    },
+    {
+      "day": 3081,
+      "trade_date": "2016-10-24",
+      "open_price": 309.1867639,
+      "close_price": 303.8818001,
+      "change": 0.982842203
+    },
+    {
+      "day": 3082,
+      "trade_date": "2016-10-25",
+      "open_price": 303.8818001,
+      "close_price": 304.5333003,
+      "change": 1.002143926
+    },
+    {
+      "day": 3083,
+      "trade_date": "2016-10-26",
+      "open_price": 304.5333003,
+      "close_price": 303.8833182,
+      "change": 0.997865645
+    },
+    {
+      "day": 3084,
+      "trade_date": "2016-10-27",
+      "open_price": 303.8833182,
+      "close_price": 304.5356105,
+      "change": 1.002146522
+    },
+    {
+      "day": 3085,
+      "trade_date": "2016-10-28",
+      "open_price": 304.5356105,
+      "close_price": 307.3376689,
+      "change": 1.009201086
+    },
+    {
+      "day": 3086,
+      "trade_date": "2016-10-31",
+      "open_price": 307.3376689,
+      "close_price": 307.9646225,
+      "change": 1.00203995
+    },
+    {
+      "day": 3087,
+      "trade_date": "2016-11-01",
+      "open_price": 307.9646225,
+      "close_price": 315.0601183,
+      "change": 1.023039971
+    },
+    {
+      "day": 3088,
+      "trade_date": "2016-11-02",
+      "open_price": 315.0601183,
+      "close_price": 310.4691275,
+      "change": 0.985428207
+    },
+    {
+      "day": 3089,
+      "trade_date": "2016-11-03",
+      "open_price": 310.4691275,
+      "close_price": 314.7494605,
+      "change": 1.013786662
+    },
+    {
+      "day": 3090,
+      "trade_date": "2016-11-04",
+      "open_price": 314.7494605,
+      "close_price": 314.5622884,
+      "change": 0.99940533
+    },
+    {
+      "day": 3091,
+      "trade_date": "2016-11-07",
+      "open_price": 314.5622884,
+      "close_price": 315.6178746,
+      "change": 1.00335573
+    },
+    {
+      "day": 3092,
+      "trade_date": "2016-11-08",
+      "open_price": 315.6178746,
+      "close_price": 313.2132296,
+      "change": 0.992381151
+    },
+    {
+      "day": 3093,
+      "trade_date": "2016-11-09",
+      "open_price": 313.2132296,
+      "close_price": 312.7985513,
+      "change": 0.998676051
+    },
+    {
+      "day": 3094,
+      "trade_date": "2016-11-10",
+      "open_price": 312.7985513,
+      "close_price": 316.4491509,
+      "change": 1.011670769
+    },
+    {
+      "day": 3095,
+      "trade_date": "2016-11-11",
+      "open_price": 316.4491509,
+      "close_price": 307.9932112,
+      "change": 0.973278678
+    },
+    {
+      "day": 3096,
+      "trade_date": "2016-11-14",
+      "open_price": 307.9932112,
+      "close_price": 308.9639354,
+      "change": 1.003151771
+    },
+    {
+      "day": 3097,
+      "trade_date": "2016-11-15",
+      "open_price": 308.9639354,
+      "close_price": 301.999908,
+      "change": 0.977460064
+    },
+    {
+      "day": 3098,
+      "trade_date": "2016-11-16",
+      "open_price": 301.999908,
+      "close_price": 301.7695177,
+      "change": 0.999237118
+    },
+    {
+      "day": 3099,
+      "trade_date": "2016-11-17",
+      "open_price": 301.7695177,
+      "close_price": 303.5894017,
+      "change": 1.006030709
+    },
+    {
+      "day": 3100,
+      "trade_date": "2016-11-18",
+      "open_price": 303.5894017,
+      "close_price": 302.8839433,
+      "change": 0.997676275
+    },
+    {
+      "day": 3101,
+      "trade_date": "2016-11-21",
+      "open_price": 302.8839433,
+      "close_price": 307.1324189,
+      "change": 1.014026744
+    },
+    {
+      "day": 3102,
+      "trade_date": "2016-11-22",
+      "open_price": 307.1324189,
+      "close_price": 309.0342346,
+      "change": 1.006192168
+    },
+    {
+      "day": 3103,
+      "trade_date": "2016-11-23",
+      "open_price": 309.0342346,
+      "close_price": 311.4793263,
+      "change": 1.007912042
+    },
+    {
+      "day": 3104,
+      "trade_date": "2016-11-24",
+      "open_price": 311.4793263,
+      "close_price": 311.8628093,
+      "change": 1.001231167
+    },
+    {
+      "day": 3105,
+      "trade_date": "2016-11-25",
+      "open_price": 311.8628093,
+      "close_price": 312.2045639,
+      "change": 1.001095849
+    },
+    {
+      "day": 3106,
+      "trade_date": "2016-11-28",
+      "open_price": 312.2045639,
+      "close_price": 309.1862143,
+      "change": 0.990332141
+    },
+    {
+      "day": 3107,
+      "trade_date": "2016-11-29",
+      "open_price": 309.1862143,
+      "close_price": 313.4271206,
+      "change": 1.01371635
+    },
+    {
+      "day": 3108,
+      "trade_date": "2016-11-30",
+      "open_price": 313.4271206,
+      "close_price": 314.2418399,
+      "change": 1.00259939
+    },
+    {
+      "day": 3109,
+      "trade_date": "2016-12-01",
+      "open_price": 314.2418399,
+      "close_price": 314.5268204,
+      "change": 1.000906883
+    },
+    {
+      "day": 3110,
+      "trade_date": "2016-12-02",
+      "open_price": 314.5268204,
+      "close_price": 300.8824616,
+      "change": 0.956619411
+    },
+    {
+      "day": 3111,
+      "trade_date": "2016-12-05",
+      "open_price": 300.8824616,
+      "close_price": 297.9063765,
+      "change": 0.990108812
+    },
+    {
+      "day": 3112,
+      "trade_date": "2016-12-06",
+      "open_price": 297.9063765,
+      "close_price": 295.0164331,
+      "change": 0.990299156
+    },
+    {
+      "day": 3113,
+      "trade_date": "2016-12-07",
+      "open_price": 295.0164331,
+      "close_price": 295.0922538,
+      "change": 1.000257005
+    },
+    {
+      "day": 3114,
+      "trade_date": "2016-12-08",
+      "open_price": 295.0922538,
+      "close_price": 294.7413831,
+      "change": 0.99881098
+    },
+    {
+      "day": 3115,
+      "trade_date": "2016-12-09",
+      "open_price": 294.7413831,
+      "close_price": 294.2761664,
+      "change": 0.99842161
+    },
+    {
+      "day": 3116,
+      "trade_date": "2016-12-12",
+      "open_price": 294.2761664,
+      "close_price": 293.7776961,
+      "change": 0.998306114
+    },
+    {
+      "day": 3117,
+      "trade_date": "2016-12-13",
+      "open_price": 293.7776961,
+      "close_price": 294.0180139,
+      "change": 1.000818026
+    },
+    {
+      "day": 3118,
+      "trade_date": "2016-12-14",
+      "open_price": 294.0180139,
+      "close_price": 297.6899424,
+      "change": 1.012488787
+    },
+    {
+      "day": 3119,
+      "trade_date": "2016-12-15",
+      "open_price": 297.6899424,
+      "close_price": 298.9194213,
+      "change": 1.004130065
+    },
+    {
+      "day": 3120,
+      "trade_date": "2016-12-16",
+      "open_price": 298.9194213,
+      "close_price": 298.3233004,
+      "change": 0.998005747
+    },
+    {
+      "day": 3121,
+      "trade_date": "2016-12-19",
+      "open_price": 298.3233004,
+      "close_price": 300.9961004,
+      "change": 1.008959407
+    },
+    {
+      "day": 3122,
+      "trade_date": "2016-12-20",
+      "open_price": 300.9961004,
+      "close_price": 299.3740599,
+      "change": 0.994611091
+    },
+    {
+      "day": 3123,
+      "trade_date": "2016-12-21",
+      "open_price": 299.3740599,
+      "close_price": 301.3742762,
+      "change": 1.006681328
+    },
+    {
+      "day": 3124,
+      "trade_date": "2016-12-22",
+      "open_price": 301.3742762,
+      "close_price": 301.1642328,
+      "change": 0.999303048
+    },
+    {
+      "day": 3125,
+      "trade_date": "2016-12-23",
+      "open_price": 301.1642328,
+      "close_price": 302.4085528,
+      "change": 1.004131699
+    },
+    {
+      "day": 3126,
+      "trade_date": "2016-12-26",
+      "open_price": 302.4085528,
+      "close_price": 303.9858067,
+      "change": 1.005215639
+    },
+    {
+      "day": 3127,
+      "trade_date": "2016-12-27",
+      "open_price": 303.9858067,
+      "close_price": 300.2297641,
+      "change": 0.98764402
+    },
+    {
+      "day": 3128,
+      "trade_date": "2016-12-28",
+      "open_price": 300.2297641,
+      "close_price": 300.2648084,
+      "change": 1.000116725
+    },
+    {
+      "day": 3129,
+      "trade_date": "2016-12-29",
+      "open_price": 300.2648084,
+      "close_price": 293.7349084,
+      "change": 0.978252863
+    },
+    {
+      "day": 3130,
+      "trade_date": "2016-12-30",
+      "open_price": 293.7349084,
+      "close_price": 293.1996679,
+      "change": 0.998177811
+    }
+  ]
+}
