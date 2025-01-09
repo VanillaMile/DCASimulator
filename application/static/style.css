@@ -1,5 +1,5 @@
 .centeredContent {
-    padding: 10%;
+    padding: 9%;
     text-align: center;
 }
 .blueBtn {
@@ -53,4 +53,44 @@ li {
 }
 .closed {
     background-color: lightcoral;
+}
+.newGame {
+    color: rgb(71, 71, 100);
+}
+.prevGame {
+    color: rgb(138, 138, 236);
+}
+.redBtn{
+    background-color: rgb(201, 70, 70);
+    color: white;
+    border-radius: 1rem;
+    width: 9rem;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.greenBtn{
+    background-color: green;
+    color: white;
+    border-radius: 1rem;
+    width: 9rem;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.redBtn:hover {
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+.greenBtn:hover {
+    background-color: rgb(0, 255, 0);
+    cursor: pointer;
+}
+.HighlightPrice {
+    font-weight: bold;
+    color: rgb(3, 60, 247);
+}
+.fixedBackToFront {
+    position: fixed;
+    z-index: 1;
+    top: 5%;
+    right: 5%;
 }

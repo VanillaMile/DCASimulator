@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+    {% if title %}
+        <title>{{ title }}</title>
+    {% else %}
+        <title>DCA Simulator</title>
+    {% endif %}
+    <script>
+        function changeColor(){
+            if (document.getElementById("clearData").checked){
+                document.getElementById("clearColor").style.color = "red";
+            } else {
+                document.getElementById("clearColor").style.color = "blue";
+            }
+        }
+    </script>
+</head>
+<body style="text-align: center; padding: 10%;">
+    <div>
+        <h1>Currently on account: </h1>
+        <p class="prevGame">Username: {{ username }} <span style="color: red;">(Username already exists)</span></p>
+        <p class="prevGame">Money: ${{ prevData['money'] }}</p>
+        <p class="prevGame">Stocks owned: {{ prevData['stocks']|round(2, "floor") }}</p>
+        <h1>New Settings</h1>
+        <p class="newGame">Money: ${{ money|round(2, "floor") }}</p>
+        <p class="newGame">Stock: {{ stock }}</p>
+        <form action="/dataCleared" method="post">
+            <input type="hidden" name="username" value="{{ username }}">
+            <input type="hidden" name="money" value="{{ money }}">
+            <input type="hidden" name="stock" value="{{ stock }}">
+            <input type="checkbox" name="clearData" value="True" id="clearData" onchange="changeColor()"><label for="clearData"><span id="clearColor" style="color: blue">Clear previous data</span></label><br><br>
+            <input type="submit" value="Play" class="blueBtn"><br>
+        </form>
+    </div>
+</body>
+</html>

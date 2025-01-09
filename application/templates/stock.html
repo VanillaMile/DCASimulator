@@ -11,6 +11,9 @@
     {% endif %}
 </head>
 <body>
+    <div class = "fixedBackToFront">
+        <a href="/"><input type="button" class="blueBtn" value="Back to front page"></a>
+    </div>
     <div id="content" style="text-align: center;">
         <h1>Overview for {{ stock_data['stock_name'] }}, ${{ stock_data['stock_symbol']}}</h1>
         <h2>{{ stock_data['description'] }}</h2>

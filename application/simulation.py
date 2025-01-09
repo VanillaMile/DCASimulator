@@ -1,7 +1,47 @@
 import random
 
-def simulation(simulationData):
+def simulation(simulationData, game = False, buySell = False, amount = 0):
+    if game:
+        return __predictDynamicDays(buySell, simulationData, amount)
     return __predictDays(simulationData)
+
+from application import app, mongo
+def __getLastPrice(stock_name):
+    stock_data = mongo.db.stocks.find_one({"stock_name": stock_name})
+    return stock_data['daily_data'][len(stock_data['daily_data']) - 1]['close_price']
+
+def __getDailyData(stock_name):
+    stock_data = mongo.db.stocks.find_one({"stock_name": stock_name})
+    return stock_data['daily_data']
+
+from application.forms import *
+def __performBuy(username, amount):
+    data = getUserGame(username)
+    stocks = data['stocks']
+    stock_price = data['stock_price']
+
+    stocks = stocks + amount / stock_price
+    money = data['money'] - amount
+    mongo.db.games.update_one({"username": username},
+                                {"$set": {
+                                    "stocks": stocks,
+                                    "money": money
+                                }})
+    
+def __performSell(username, amount):
+    data = getUserGame(username)
+    stocks = data['stocks']
+    stock_price = data['stock_price']
+
+    stocks = stocks - amount / stock_price
+    money = data['money'] + amount
+    mongo.db.games.update_one({"username": username},
+                                {"$set": {
+                                    "stocks": stocks,
+                                    "money": money
+                                }})
+    
+
 
 def __predictDays(simulationData):
     initialInvestment = float(simulationData['initial_investment'])
@@ -81,6 +121,63 @@ def __predictDays(simulationData):
         daysOfWeek += 1
         investDays -= 1
     return data
-    
 
-        
+def __predictDynamicDays(buySell, data, amount = 0):
+    # data = {
+    #     "money": float,
+    #     "stock": string,
+    #     "stocks": float, // number of stocks owened
+    #     "stock_price": float, 
+    #     "days_data": [[
+    #         "Day", "Price", "Buy", "Sell"
+    #     ]]
+    # }
+    if data['stock_price'] == -1:
+        data['stock_price'] = __getLastPrice(data['stock_name'])
+
+    if not data['days_data']:
+        lastDayNumber = 0
+    else:
+        lastDayNumber = data['days_data'][len(data["days_data"]) - 1]['day']
+    dailyData = __getDailyData(data['stock_name'])
+    days = []
+    # dafault time period is 10 days
+    randomIndex = random.randint(0, len(dailyData)  - 1)
+    newPrice = data['stock_price'] * dailyData[randomIndex]['change']
+    newPrice = round(newPrice, 2)
+    day = {
+        "day": 1 + lastDayNumber,
+        "price": newPrice,
+        "buy": "No Action",
+        "sell": "No Action"
+    }
+    if amount != 0:
+        if buySell == "buy":
+            if amount <= data['money']:
+                day['buy'] = "Buy"
+                day['sell'] = "No Action"
+                __performBuy(data['username'], amount)
+            else:
+                day['buy'] = "Buy not possible"
+                day['sell'] = "No Action"
+        elif buySell == "sell":
+            if amount <= data['stocks'] * data['stock_price']:
+                day['buy'] = "No Action"
+                day['sell'] = "Sell"
+                __performSell(data['username'], amount)
+            else:
+                day['buy'] = "No Action"
+                day['sell'] = "Sell not possible"
+    days.append(day)
+    for i in range(2, 11):
+        randomIndex = random.randint(0, len(dailyData) - 1)
+        newPrice = days[len(days) - 1]['price'] * dailyData[randomIndex]['change']
+        newPrice = round(newPrice, 2)
+        day = {
+            "day": i + lastDayNumber,
+            "price": newPrice,
+            "buy": "No Action",
+            "sell": "No Action"
+        }
+        days.append(day)
+    return days

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+    {% if title %}
+        <title>{{ title }}</title>
+    {% else %}
+        <title>DCA Simulator</title>
+    {% endif %}
+</head>
+<body style="text-align: center; padding: 10%; font-size: 2rem;">
+    <div id="settings">
+        <form action="/selectToContinue" method="post">
+            <label for="money">Username</label><br>
+            <input type="text" id="username" name="username"><br><br>
+            <label for="money">Start money</label><br>
+            <input type="number" id="money" step="0.01" name="money" min="1"><br><br>
+            <label for="stock">Choose a stock:</label><br>
+            <select id="stock" name="stock">
+                {% for stock in stock_names %}
+                    {% if stock != "better_return_stock" %}
+                        <option value="{{ stock }}">{{ stock }}</option>
+                    {% else %}
+                        <option value="{{ stock }}" selected>{{ stock }}</option>
+                    {% endif %}
+                {% endfor %}
+            </select><br><br>
+            <input type="submit" value="Play" class="blueBtn"><br>
+        </form>
+    </div>
+</body>
+</html>

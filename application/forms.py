@@ -1,5 +1,10 @@
 from application import app, mongo
 
+def chackCollectionsGames():
+    collections = mongo.db.list_collection_names()
+    if "games" not in collections:
+        mongo.db.create_collection("games")
+
 def getStocks():
     stocks = mongo.db.stocks.find()
     stocksNames = []
@@ -74,3 +79,87 @@ def getSortedRankingData():
     #     print(f"Period: {row['period']}")
     #     print(f"Score: {row['score']}")
     return results
+
+def addUserGame(username, money, stock):
+    mongo.db.games.insert_one({
+            "username": username,
+            "stock_name": stock,
+            "money": money,
+            "stocks": 0,
+            "stock_price": -1,
+            "days_data": []
+            })
+
+def clearUserGame(username):
+    mongo.db.games.update_one({"username": username}, 
+                         {"$set": {
+                        "money": 0,
+                        "stocks": 0,
+                        "stock_price": -1,
+                        "days_data": []
+                        }})
+    
+def getUserGame(username):
+    return mongo.db.games.find_one({"username": username})
+
+def getUserGameLimited(username):
+    pipeline = [
+        {
+            "$match": {
+                "username": username
+            }
+        },
+        {
+            "$project": {
+                "username": 1,
+                "stock_name": 1,
+                "money": 1,
+                "stocks": 1,
+                "stock_price": 1,
+                "days_data": 1
+            }
+        },
+        {
+            "$unwind": "$days_data"
+        },
+        {
+            "$sort": {"days_data.day": -1}
+        },
+        {
+            "$limit": 200
+        }
+    ]
+    results = list(mongo.db.games.aggregate(pipeline))
+    data = {
+            "username": results[0]["username"],
+            "stock_name": results[0]["stock_name"],
+            "money": results[0]["money"],
+            "stocks": results[0]["stocks"],
+            "stock_price": results[0]["stock_price"],
+            "days_data": []
+        }
+
+    for row in reversed(results):
+        data["days_data"].append(row["days_data"])
+    return data
+
+def setUserGame(username, money, stock):
+    mongo.db.games.update_one({"username": username}, 
+                         {"$set": {
+                        "stock_name": stock,
+                        "money": money,
+                        "stocks": 0,
+                        "stock_price": -1,
+                        "days_data": []
+                        }})
+    
+def appendDaysToData(username, days):
+    for day in days:
+        mongo.db.games.update_one({"username": username}, 
+                         {"$push": {
+                        "days_data": day
+                        }})
+    mongo.db.games.update_one({"username": username}, 
+                         {"$set": {
+                        "stock_price": days[len(days) - 1]['price']
+                        }})

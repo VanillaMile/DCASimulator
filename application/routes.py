@@ -6,6 +6,7 @@ from application.simulation import simulation
 
 @app.route("/")
 def index():
+    chackCollectionsGames()
     return render_template("layout.html", title = "DCASimulator", stock_names = getStocks())
 
 @app.route("/stock", methods=["POST"])
@@ -60,3 +61,59 @@ def submitRankingSubmit():
 def seeRanking():
     rankingData = getSortedRankingData()
     return render_template("ranking.html", title = "Ranking", ranking_data = rankingData)
+
+@app.route("/playGame")
+def playGame():
+    return render_template("playGame.html", title = "Game", stock_names = getStocks())
+
+@app.route("/selectToContinue", methods = ["POST"])
+def selectToContinue():
+    username = request.form.get("username")
+    money = request.form.get("money")
+    stock = request.form.get("stock")
+    try:
+        money = float(money)
+    except:
+        money = 404
+    exists = mongo.db.games.find_one({"username": username})
+    if exists is None:
+        addUserGame(username, money, stock)
+        data = getUserGame(username)
+        daysToAppend = simulation(simulationData=data, game=True, buySell="hold")
+        appendDaysToData(username, daysToAppend)
+        return render_template("game.html", title = "Game", data = getUserGameLimited(username))
+    else:
+        prevData = mongo.db.games.find_one({"username": username})
+        return render_template("selectToContinue.html", title = "Select to continue", username = username, money = money, stock = stock, prevData = prevData)
+
+@app.route("/dataCleared", methods = ["POST"])
+def dataCleared():
+    clearData = request.form.get("clearData")
+    cleared = "0"
+    if clearData == "True":
+        clearUserGame(request.form.get("username"))
+        username = request.form.get("username")
+        stock = request.form.get("stock")
+        money = request.form.get("money")
+        try:
+            money = float(money)
+        except:
+            money = 404
+        setUserGame(username, money, stock)
+        cleared = "1"
+    getData = getUserGame(request.form.get("username"))
+    return render_template("dataCleared.html", title = "Game", data = getData, cleared = cleared)
+
+
+@app.route("/game", methods = ["POST"])
+def game():
+    username = request.form.get("username")
+    buySell = request.form.get("buySell")
+    try:
+        amount = float(request.form.get("amount"))
+    except:
+        amount = 0
+    data = getUserGame(username)
+    daysToAppend = simulation(simulationData=data, game=True, buySell=buySell, amount=amount)
+    appendDaysToData(username, daysToAppend)
+    return render_template("game.html", title = "Game", data = getUserGameLimited(username))

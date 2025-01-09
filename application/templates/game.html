@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+    {% if title %}
+        <title>{{ title }}</title>
+    {% else %}
+        <title>DCA Simulator</title>
+    {% endif %}
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+    <div class = "fixedBackToFront">
+        <a href="/"><input type="button" class="blueBtn" value="Back to front page"></a>
+    </div>
+    <div id="content">
+        <div id="info">
+            <p>Username: {{ data['username'] }}</p>
+            <p>Stock: {{ data['stock_name'] }}</p>
+            <p id="moneyN">Money: ${{ data['money']|round(2, "floor") }}</p>
+            <p id="stocksN">Stocks owned: {{ data['stocks']|round(4, "floor") }}</p>
+            <p>Current stocks value: ${{ (data['stocks'] * data['stock_price'])|round(2, "floor") }}</p>
+            <p class="HighlightPrice">Current stock price: ${{ data['stock_price']|round(2, "floor") }}</p>
+            <div>
+                <form action="/game" method="post"> 
+                    <input type="hidden" name="username" value="{{ data['username'] }}">
+                    <input type="number" id="amount" name="amount" step="0.01" placeholder="Amount in $">
+                    <input type="submit" value="buy" id="buy" name="buySell" class="greenBtn" title="If amout is 0 this will be treated as hold">
+                    <input type="submit" value="sell" id="sell" name="buySell" class="redBtn" title="If amout is 0 this will be treated as hold">
+                    <input type="submit" value="hold" id="hold" name="buySell" class="blueBtn">
+                </form>
+            </div>
+        </div>
+        <div style="background-color: aqua;">
+            <div id="myChart" style="width: 100%; height: 500px;"></div>
+        </div>
+        <!-- For debugging -->
+        <table style = "border-collapse: collapse; display: none;">
+            <tr>
+                <th>Day</th>
+                <th>Stock Price</th>
+                <th>Buy</th>
+                <th>Sell</th>
+            </tr>
+            
+            {% for row in data['days_data'] %}
+                    <tr>
+                    <td>{{ row['day'] }}</td>
+                    <td>{{ row['price'] }}</td>
+                    <td>{{ row['buy'] }}</td>
+                    <td>{{ row['sell'] }}</td>
+                    </tr>
+            {% endfor %}
+        </table>
+        <script type="text/javascript">
+            google.charts.load('current', {'packages':['corechart']});
+            google.charts.setOnLoadCallback(drawChart);
+      
+            function drawChart() {
+                var data = convertTableToChartData();
+                var data = google.visualization.arrayToDataTable(data);
+
+      
+                var options = {
+                    title: 'Price of stock',
+                    curveType: 'line',
+                    legend: { position: 'bottom' },
+                    series: {
+                        0: { color: 'blue' },
+                    },
+                    annotations: {
+                        stem: {
+                        color: '#097138'
+                        },
+                        style: 'line'
+                    }
+                };
+                var chart = new google.visualization.LineChart(document.getElementById('myChart'));
+                chart.draw(data, options);
+            }
+            function convertTableToChartData() {
+                var table = document.querySelector("table");
+                var data = [['Day', 'Price', {role: 'annotation', type: 'string'}, {role: 'annotation', type: 'string'}]];
+                for (var i = 1; i < table.rows.length; i++) {
+                    var tableRow = table.rows[i];
+                    var rowData = [];
+                    rowData.push(tableRow.cells[0].innerHTML); // date
+                    rowData.push(parseFloat(tableRow.cells[1].innerHTML)); // stock price
+                    if (tableRow.cells[2].innerHTML != "No Action") {
+                        rowData.push(tableRow.cells[2].innerHTML); // buy
+                    } else {
+                        rowData.push(null);
+                    }
+                    if (tableRow.cells[3].innerHTML != "No Action") {
+                        rowData.push(tableRow.cells[3].innerHTML); // sell
+                    } else {
+                        rowData.push(null);
+                    }
+                    data.push(rowData);
+                }
+                return data;
+            }
+          </script>
+    </div>
+</body>
+</html>
