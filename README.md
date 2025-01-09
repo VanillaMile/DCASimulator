@@ -12,11 +12,12 @@ This is a simple DCA strategy simulator, it creates a random simulation of marke
 ```bash
     {your path}\MongoDB\Server\8.0\bin\mongod.exe
 ```
-3. Import data into Database dcaDatabase into collection stocks (Must be created first time) and rankings. NAMES ARE IMPORTANT, it's case sensitive
+3. Import data into Database dcaDatabase into collection stocks (Must be created first time) and rankings. There's additional collection games that stays empty. NAMES ARE IMPORTANT, it's case sensitive
 ```bash
     Database name: dcaDatabase
     Collection name: stocks
     Collection name: rankings
+    Collection name: games
 ```
 Import full collections
 ```bash
