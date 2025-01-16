@@ -1,0 +1,85 @@
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2rem;
+    color: rgb(78, 78, 221);
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-size: 1rem;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+}
+
+input[type="submit"] {
+    background-color: rgb(78, 78, 221);
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(78, 78, 255);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(78, 78, 221);
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+a:hover {
+    color: rgb(78, 78, 255);
+}
+
+
+.flash-message {
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.flash-message.success {
+    background-color: lightgreen;
+    color: green;
+}
+
+.flash-message.error {
+    background-color: lightcoral;
+    color: red;
+}
+
+.flash-message.info {
+    background-color: lightblue;
+    color: #0056b3;
+}
