@@ -60,6 +60,7 @@ def login():
         user = mongo.db.users.find_one({'username': username})
         if user and check_password_hash(user['password'], password):
             session['user_id'] = str(user['_id'])
+            session['username'] = str(username)
             mongo.db.users.update_one(
                 {'_id': user['_id']},
                 {'$set': {'lastLogin': datetime.now()}}

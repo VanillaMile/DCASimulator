@@ -12,8 +12,9 @@
 <body style="text-align: center; padding: 10%; font-size: 2rem;">
     <div id="settings">
         <form action="/selectToContinue" method="post">
-            <label for="money">Username</label><br>
-            <input type="text" id="username" name="username"><br><br>
+            {# <label for="money">Username</label><br> #}
+            <p>Playing as {{ session['username'] }}</p>
+            <input type="hidden" name="username" value= "{{ session['username'] }}" required><br><br>
             <label for="money">Start money</label><br>
             <input type="number" id="money" step="0.01" name="money" min="1"><br><br>
             <label for="stock">Choose a stock:</label><br>

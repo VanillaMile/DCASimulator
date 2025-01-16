@@ -33,7 +33,7 @@
                 {{ ((investment_data['days'][investment_data['days']|length - 1]['stock_price'] - investment_data['days'][1]['stock_price'])/investment_data['days'][1]['stock_price']*100)|round(2, 'floor') }}%
             </p>
                 <p class="infoHeader">Submit your results</h2>
-                <p class="redWarning">This will overwrite your previous submition under this name!</p>
+                <p class="redWarning">This will overwrite your previous submition!</p>
                 <div id="hidden-form">
                     <form action="/submitRankingSubmit" method="post">
                         <input type="hidden" name="stock_name" value="{{ investment_data['stock'] }}">
@@ -44,7 +44,8 @@
                         <input type="hidden" name="input" value="{{ investment_data['input']|round(2, 'floor') }}">
                         <input type="hidden" name="profit" value="{{ (investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])|round(2, 'floor') }}">
                         <input type="hidden" name="profit_percent" value= "{{ (((investment_data['days'][investment_data['days']|length - 1]['value'] - investment_data['input'])/investment_data['input'])*100)|round(2, 'floor') }}" >
-                        <input type="text" name="username" placeholder="Enter your name" required>
+                        <p>Saved as {{ session['username'] }}</p>
+                        <input type="hidden" name="username" value= "{{ session['username'] }}" required>
                         <input type="submit" value="Save to ranking">
                     </form>
                 </div>
